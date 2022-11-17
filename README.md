@@ -22,3 +22,6 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
 |<img src= "https://avatars.githubusercontent.com/u/9947506?v=4"> | Rodolfo Cabral Neves |[@roddas](https://github.com/roddas)|
 |<img src= "https://avatars.githubusercontent.com/u/80918128?v=4"> | Thiago Vivan Bastos |[@thiago-vivan](https://github.com/thiago-vivan)|
 |<img src= "https://avatars.githubusercontent.com/u/77307847?v=4"> | Vinícius Alves de Sousa |[@viniciusalves999](https://github.com/viniciusalves999)|
+
+<p align="center"><a href="https://fga.unb.br" target="_blank"><img width="200"src="https://sbseg2017.redes.unb.br/wp-content/uploads/2017/04/logo_fug.png"></a></p>
+</p>
