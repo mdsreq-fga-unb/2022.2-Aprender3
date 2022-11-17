@@ -18,4 +18,7 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
 |------|------|---------|
 |<img src= "https://avatars.githubusercontent.com/u/78519040?v=4"> | Igor Thiago Lima de Santana |[@alladin-51](https://github.com/Alladin-51)|
 |<img src= "https://avatars.githubusercontent.com/u/97989639?v=4"> | Milena Beatriz Aires de Santana Dias |[@milenaaires](https://github.com/milenaaires)|
-|<img scr= "https://avatars.githubusercontent.com/u/64171633?v=4"> | Raphaela Guimarães de Araújo dos Santos |[@raphaiela](https://github.com/raphaiela)|
+|<img src= "https://avatars.githubusercontent.com/u/64171633?v=4"> | Raphaela Guimarães de Araújo dos Santos |[@raphaiela](https://github.com/raphaiela)|
+|<img src= "https://avatars.githubusercontent.com/u/9947506?v=4"> | Rodolfo Cabral Neves |[@roddas](https://github.com/roddas)|
+|<img src= "https://avatars.githubusercontent.com/u/80918128?v=4"> | Thiago Vivan Bastos |[@thiago-vivan](https://github.com/thiago-vivan)|
+|<img src= "https://avatars.githubusercontent.com/u/77307847?v=4"> | Vinícius Alves de Sousa |[@viniciusalves999](https://github.com/viniciusalves999)|
