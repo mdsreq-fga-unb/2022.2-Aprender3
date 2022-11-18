@@ -1,10 +1,15 @@
 <h1 align="center">
-Câmara dos Deputados
+Entregas
 </h1>
 
-<p align= "center"
-
-## Entregas
-
-|Entrega|Descrição|Data|
-|-------|---------|----|
+|Entrega|Data   |
+|-------|-------|
+| 1     | 23.11 |
+| 2     | 07.12 |
+| 3     | 12.12 |
+| 4     | 14.12 |
+| 5     | 02.01 |
+| 6     | 18.01 |
+| 7     | 11.01 |
+| 8     | 25.01 |
+| final | 01.02 |
