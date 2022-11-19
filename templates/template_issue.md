@@ -1,11 +1,13 @@
 # Template de issue comum 
 
-Título da issue
+## Título da issue
 
-Descrição: Descrever o objetivo da issue resumidamente, inserindo informações importantes para a compreensão.
+## Descrição: 
+_Descrever o objetivo da issue resumidamente, inserindo informações importantes para a compreensão._
 
-Critérios de aceitação: escrever o que a issue precisa obter para ser dada como concluída.
+## Critérios de aceitação: 
+_Escrever o que a issue precisa obter para ser dada como concluída._
 
-Tarefas:
-Checklist de tarefas a serem feitas.
+## Tarefas:
+_Checklist de tarefas a serem feitas._
 - [ ]
