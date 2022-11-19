@@ -65,6 +65,7 @@ Sim, apesar de que teria que ler com detalhes as opções.
 |Performance inicial| Informações sobre bolsas | Tempo de realização da tarefa | 15 min | 10 min |  | 
 |Performance inicial| Informações sobre bolsas | Pontuação (1 - 10) | 4 | 8 | 9 |
 |Performance inicial| Informações sobre bolsas | Nível de complexidade | 6 | 2 | 1 |
+  
 Tabela de especificação de usabilidade
 Legenda: 10 = Muito satisfeito, 1 = Muito insatisfeito
   
