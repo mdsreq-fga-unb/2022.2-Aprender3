@@ -43,7 +43,7 @@
   ### 3.1 Entrevistas
       As entrevistas serão realizadas online e presencial, se online será pela plataforma open source jitsi meet. Antes de cada entrevista deve ser explicado ao participantes que o áudio da entrevista será gravado. Caso de acordo, será dado inicio a entrevista com a seguinte frase:
   
-“Eu (nome do discente), de matrícula (matrícula do discente), graduando de (curso do discente), concordo em participar da entrevista e gravação da mesma sobre o site Aprender3”
+_“Eu (nome do discente), de matrícula (matrícula do discente), graduando de (curso do discente), concordo em participar da entrevista e gravação da mesma sobre o site Aprender3”_
   
       #### 3.1.1 
             A meta de usuários entrevistados é 10 a 15 por avaliador, para assim ter uma base boa e diversidade de respostas para ser feita a investigação adequada.
