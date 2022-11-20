@@ -12,3 +12,9 @@ O [GitHub](https://github.com/) é uma plataforma de desenvolvimento e versionam
 ![discord](https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png)
 
 O [Discord](https://discord.com/) é uma plataforma de VoIP e mensagens instantâneas. Nela os usuários possuem a habilidade de se comunicar usando chamadas de voz, vídeo, mensagens de texto, compartilhamento de arquivos multimídia em chats privados. Esta plataforma é usada como o ponto de comunicação do grupo. Nela que as reuniões são feitas .
+
+## Notion
+
+![notion](https://duckduckgo.com/i/f6441cab.png)
+
+O [Notion](https://www.notion.so/) é um software de anotações, criada para ajudar os membros de organizações ou empresas a administrar os seus conhecimentos para maior eficiência e produtividade. Esta ferramenta será usada para escrever as atas de reuniões e outras anotações importantes que surgirem ao acaso.
