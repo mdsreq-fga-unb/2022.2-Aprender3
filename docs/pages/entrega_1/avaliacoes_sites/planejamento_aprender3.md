@@ -16,65 +16,65 @@
 ## 2. Objetivos
   Durante a recém pandemia houve uma grande reclamação e muita insatisfação por parte dos discentes sobre Aprender3. O que chega a ser preocupante tendo em vista que é uma ferramenta importante para a ministração das aulas.
   
-  Com base no problema exposto será avaliado os principais aspectos relacionados ao uso do sistema e cada e cada ponto busca responder as seguintes questões:
+Com base no problema exposto será avaliado os principais aspectos relacionados ao uso do sistema e cada e cada ponto busca responder as seguintes questões:
   
-    • Analisar a apropriação da tecnologia
-      o Quanto tempo os usuários levam para atingir seus objetivos?
-      o O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades?
-      o O quanto eles são motivados a explorar novas funcionalidades?
-      o Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?
+- Analisar a apropriação da tecnologia
+  - Quanto tempo os usuários levam para atingir seus objetivos?
+  - O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades?
+  - O quanto eles são motivados a explorar novas funcionalidades?
+  - Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?
   
-    • Comparar ideias e alternativas de design
-      o Qual design seria mais fácil eficiente?
-      o Qual design seria de maior aprendizado?
+- Comparar ideias e alternativas de design
+  - Qual design seria mais fácil eficiente?
+  - Qual design seria de maior aprendizado?
   
-    • Verificar a conformidade com um padrão
-      o O sistema está de acordo com os padrões de acessibilidade?
+- Verificar a conformidade com um padrão
+  - O sistema está de acordo com os padrões de acessibilidade?
   
-    • Identificar problemas na interação e interface
-      o O usuário consegue operar o sistema?
-      o Que parte da interface o desmotiva a explorar novas funcionalidades?
-      o Ele tem acesso a todas as informações oferecidas pelo sistema?
-      o Ele entende o que significa e para que serve cada elemento de interface?
+- Identificar problemas na interação e interface
+  - O usuário consegue operar o sistema?
+  - Que parte da interface o desmotiva a explorar novas funcionalidades?
+  - Ele tem acesso a todas as informações oferecidas pelo sistema?
+  - Ele entende o que significa e para que serve cada elemento de interface?
   
 ## 3. Atividade 
    Levando em consideração os objetivos dessa pesquisa será utilizado o método de investigação, com a realização de entrevistas guiadas a perguntas com o objetivo de entender o grupo de usuários discentes que utilizam o ambiente Aprender3.
    
   ### 3.1 Entrevistas
-      As entrevistas serão realizadas online e presencial, se online será pela plataforma open source jitsi meet. Antes de cada entrevista deve ser explicado ao participantes que o áudio da entrevista será gravado. Caso de acordo, será dado inicio a entrevista com a seguinte frase:
+As entrevistas serão realizadas online e presencial, se online será pela plataforma open source jitsi meet. Antes de cada entrevista deve ser explicado ao participantes que o áudio da entrevista será gravado. Caso de acordo, será dado inicio a entrevista com a seguinte frase:
   
 _“Eu (nome do discente), de matrícula (matrícula do discente), graduando de (curso do discente), concordo em participar da entrevista e gravação da mesma sobre o site Aprender3”_
   
-      #### 3.1.1 
-            A meta de usuários entrevistados é 10 a 15 por avaliador, para assim ter uma base boa e diversidade de respostas para ser feita a investigação adequada.
+#### 3.1.1 
+A meta de usuários entrevistados é 10 a 15 por avaliador, para assim ter uma base boa e diversidade de respostas para ser feita a investigação adequada.
 
-            As entrevistas serão guiadas pelas perguntas à seguir:
-              • Você já fez uso da plataforma Aprender3?
-              • Você já utilizou alguma ferramenta do sistema disponibilizado no Aprender3?
-              • Caso já tenha utilizado, você conseguiu atingir o objetivo esperado?
-              • Quais dificuldades você enfrentou durante o processo para atingir o objetivo?
-              • Quais melhorias podem ser implementadas para facilitar o serviço?
+As entrevistas serão guiadas pelas perguntas à seguir:
+- Você já fez uso da plataforma Aprender3?
+- Você já utilizou alguma ferramenta do sistema disponibilizado no Aprender3?
+- Caso já tenha utilizado, você conseguiu atingir o objetivo esperado?
+- Quais dificuldades você enfrentou durante o processo para atingir o objetivo?
+- Quais melhorias podem ser implementadas para facilitar o serviço?
 
  ## 4. Análise 
-    No término das entrevistas o avaliador irá interpretar os dados coletados. Inicialmente será analisado cada uma das entrevistas utilizando o método intrasujeito buscando identificar pontos importantes que os usuários externalizaram.
+No término das entrevistas o avaliador irá interpretar os dados coletados. Inicialmente será analisado cada uma das entrevistas utilizando o método intrasujeito buscando identificar pontos importantes que os usuários externalizaram.
   
-    Uma vez terminada a interpretação individual dos dados adquiridos, os resultados serão consolidados e analisados em conjunto utilizando o método intersujeito. Será analisado se existe recorrência nos relatórios individuais buscando pontos em comuns e divergentes entre participantes.
+Uma vez terminada a interpretação individual dos dados adquiridos, os resultados serão consolidados e analisados em conjunto utilizando o método intersujeito. Será analisado se existe recorrência nos relatórios individuais buscando pontos em comuns e divergentes entre participantes.
   
  ## 5. Método
-    O método escolhido para realizar a avaliação é o método de inspeção por meio das avaliações heurísticas. As heurísticas exploradas serão:
+O método escolhido para realizar a avaliação é o método de inspeção por meio das avaliações heurísticas. As heurísticas exploradas serão:
 
-      • Visibilidade e reconhecimento do estado ou contexto atual do sistema;
-      • Compatibilidade com o mundo real;
-      • Controle e Liberdade do usuário;
-      • Consistência e padrões;
-      • Prevenção de erros;
-      • Reconhecimento ao invés de memorização;
-      • Flexibilidade e eficiência;
-      • Projeto estético e minimalista;
-      • Diagnosticar e corrigir erros;
-      • Ajuda e Documentação.
+- Visibilidade e reconhecimento do estado ou contexto atual do sistema;
+- Compatibilidade com o mundo real;
+- Controle e Liberdade do usuário;
+- Consistência e padrões;
+- Prevenção de erros;
+- Reconhecimento ao invés de memorização;
+- Flexibilidade e eficiência;
+- Projeto estético e minimalista;
+- Diagnosticar e corrigir erros;
+- Ajuda e Documentação.
   
-    Esses serão os aspectos presentes na avaliação do site a fim de identificar oportunidades de melhoria e compreender se o mesmo atende aos usuários em termos práticos de uso.
+Esses serão os aspectos presentes na avaliação do site a fim de identificar oportunidades de melhoria e compreender se o mesmo atende aos usuários em termos práticos de uso.
   
  ## 6. Cronograma 
   
