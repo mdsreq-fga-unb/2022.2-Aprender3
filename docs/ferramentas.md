@@ -6,3 +6,9 @@ Nesta seção será apresentada as ferramentas que foram utilizadas pelo time du
 
 ![github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 O [GitHub](https://github.com/) é uma plataforma de desenvolvimento e versionamento e projetos que usa o Git como base. Nesta plataforma se encontrará todos os arquivos do projeto e será usado como base para o seu desenvolvimento.
+
+## Discord
+
+![discord](https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png)
+
+O [Discord](https://discord.com/) é uma plataforma de VoIP e mensagens instantâneas. Nela os usuários possuem a habilidade de se comunicar usando chamadas de voz, vídeo, mensagens de texto, compartilhamento de arquivos multimídia em chats privados. Esta plataforma é usada como o ponto de comunicação do grupo. Nela que as reuniões são feitas .
