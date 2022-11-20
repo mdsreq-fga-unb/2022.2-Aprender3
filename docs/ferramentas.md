@@ -18,3 +18,16 @@ O [Discord](https://discord.com/) é uma plataforma de VoIP e mensagens instant�
 ![notion](https://duckduckgo.com/i/f6441cab.png)
 
 O [Notion](https://www.notion.so/) é um software de anotações, criada para ajudar os membros de organizações ou empresas a administrar os seus conhecimentos para maior eficiência e produtividade. Esta ferramenta será usada para escrever as atas de reuniões e outras anotações importantes que surgirem ao acaso.
+
+
+## Google Drive
+
+![drive](https://duckduckgo.com/i/509a9ea5.png)
+
+O [Google Drive](https://www.google.com/drive/) é um serviço de armazenamento e sincronização desenvolvida pela Google. Permite que os usuários armazenem dados na nuvem, sincronizem e partilhem ficheiros entre os dispositivos. Será utilizada para o armazenamento de arquivos auxiliar.
+
+## Microsoft PowerPoint
+
+![powepoint](https://duckduckgo.com/i/e86c128a.png)
+
+O [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint) é um software de apresentações. Será utilizado para criação da apresentações do projeto, em casa ponto de controle.
