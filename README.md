@@ -1,15 +1,15 @@
 <h1 align="center">
-Câmara dos Deputados
+Aprender3 - UnB
 </h1>
 
 <p align= "center"
 
-![Logo](https://s2.static.brasilescola.uol.com.br/be/2022/06/congresso-nacional.jpg)
+![Logo](https://noticias.unb.br/images/Noticias/2020/08-Ago/17ago2020_aprender3print_reproducao.jpg)
 <p/>
 
 ## Sobre o Projeto
 <p align="justify">
-Este repositório destina-se à matéria de Interação Humano-Computador da Universidade de Brasília. Possui o objetivo de analisar o site da <a href="https://www.camara.leg.br/">Câmara dos Deputados </a>, aplicando métodos e conceitos aprendidos na discplina e analisando melhorias para o site.
+Este repositório destina-se à matéria de Interação Humano-Computador da Universidade de Brasília. Possui o objetivo de analisar o site da <a href="https://aprender3.unb.br/login/index.php">Aprender3 </a> utilizada pela Universidade de Brasília, aplicando métodos e conceitos aprendidos na discplina e analisando melhorias para o site.
 <p/>
 
 ## Equipe
