@@ -4,8 +4,7 @@ Aprender3 - UnB
 
 <p align= "center"
 
-![Logo](https://noticias.unb.br/images/Noticias/2020/08-Ago/17ago2020_aprender3print_reproducao.jpg)
-<p/>
+![Aprender3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/S%C3%ADmbolo_da_UnB.png/640px-S%C3%ADmbolo_da_UnB.png)
 
 ## Sobre o Projeto
 <p align="justify">
