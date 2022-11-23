@@ -40,7 +40,7 @@ Com base no problema exposto será avaliado os principais aspectos relacionados 
 ## 3. Atividade 
    Levando em consideração os objetivos dessa pesquisa será utilizado o método de investigação, com a realização de entrevistas guiadas a perguntas com o objetivo de entender o grupo de usuários discentes que utilizam o ambiente Aprender3.
    
-  ### 3.1 Entrevistas
+### 3.1 Entrevistas
 As entrevistas serão realizadas online e presencial, se online será pela plataforma open source jitsi meet. Antes de cada entrevista deve ser explicado ao participantes que o áudio da entrevista será gravado. Caso de acordo, será dado inicio a entrevista com a seguinte frase:
   
 _“Eu (nome do discente), de matrícula (matrícula do discente), graduando de (curso do discente), concordo em participar da entrevista e gravação da mesma sobre o site Aprender3”_
@@ -55,12 +55,12 @@ As entrevistas serão guiadas pelas perguntas à seguir:
 - Quais dificuldades você enfrentou durante o processo para atingir o objetivo?
 - Quais melhorias podem ser implementadas para facilitar o serviço?
 
- ## 4. Análise 
+## 4. Análise 
 No término das entrevistas o avaliador irá interpretar os dados coletados. Inicialmente será analisado cada uma das entrevistas utilizando o método intrasujeito buscando identificar pontos importantes que os usuários externalizaram.
   
 Uma vez terminada a interpretação individual dos dados adquiridos, os resultados serão consolidados e analisados em conjunto utilizando o método intersujeito. Será analisado se existe recorrência nos relatórios individuais buscando pontos em comuns e divergentes entre participantes.
   
- ## 5. Método
+## 5. Método
 O método escolhido para realizar a avaliação é o método de inspeção por meio das avaliações heurísticas. As heurísticas exploradas serão:
 
 - Visibilidade e reconhecimento do estado ou contexto atual do sistema;
@@ -76,7 +76,7 @@ O método escolhido para realizar a avaliação é o método de inspeção por m
   
 Esses serão os aspectos presentes na avaliação do site a fim de identificar oportunidades de melhoria e compreender se o mesmo atende aos usuários em termos práticos de uso.
   
- ## 6. Cronograma 
+## 6. Cronograma 
   
  |   Tarefa   | Execução | Autor(es)       |
  | :--------: | :------: | :-------------: |
@@ -84,7 +84,7 @@ Esses serão os aspectos presentes na avaliação do site a fim de identificar o
  | Relatório final e consolidação dos dados obtidos nas entrevistas | 12.11.22 – 13.11.22 | Milena Aires |
  | Finalização da avaliação e entrega | 13.11.2022 – 14.11.22 | Milena Aires |
   
- ## 7. Bibliografia 
+## 7. Bibliografia 
  
 - Site Aprender3 – Disponível em: https://aprender3.unb.br/login/index.php 
 - Capítulo 09 - Planejamento da avaliação de IHC – Livro IHC: Barbosa e Silva – Disponível em: https://aprender3.unb.br/pluginfile.php/2364752/mod_resource/content/5/Cap.%20Planejamento%20ihc-ux.pdf 
