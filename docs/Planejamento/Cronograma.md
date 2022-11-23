@@ -1,4 +1,4 @@
-# Planejamento do Projeto 
+# Cronograma 
 
 ## Histórico de versão
 
