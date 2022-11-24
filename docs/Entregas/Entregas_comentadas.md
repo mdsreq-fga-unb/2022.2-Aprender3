@@ -3,6 +3,12 @@
 
 ## Entrega 1
 
+### 1. Introdução
+
 Na entrega 1 foi entregue a wiki do projeto. Nela possui o planejamento do Projeto apresentando a equipe, a listas de sites avaliados, o site selecionado para o projeto da disciplina, a ferramentas do projeto, o Processo de Design selecionado, o cronograma detalhado das atividades do projeto (com data de início e fim de cada atividade, responsáveis e período de gravação da apresentação de cada etapa.
 
-https://youtu.be/tGAahnjMLjE
+### 2. Resultado
+
+Para mostrar o resultado a equipe gravou um vídeo demonstrando o git pages e explicando alguns pontos:
+
+<iframe width="560" height="315" src="https://youtu.be/tGAahnjMLjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
