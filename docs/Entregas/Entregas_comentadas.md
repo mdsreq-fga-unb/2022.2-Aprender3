@@ -10,5 +10,4 @@ Na entrega 1 foi entregue a wiki do projeto. Nela possui o planejamento do Proje
 ### 2. Resultado
 
 Para mostrar o resultado a equipe gravou um vídeo demonstrando o git pages e explicando alguns pontos:
-
-<iframe width="560" height="315" src="https://youtu.be/tGAahnjMLjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+[Entrega 1 - Planejamento do Projeto Aprender3](https://youtu.be/tGAahnjMLjE)
