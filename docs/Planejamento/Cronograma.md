@@ -7,7 +7,8 @@
 | 18.11.2022 |  0.1   | Criação do documento e adição do cronograma | Milena Aires e Raphaela Guimarães | Raphaela Guimarães |
 
 ## 1. HeatMap
- ![HeatMap](/docs/images/imagem_2022-11-23_222909031.png)
+ ![ho](https://user-images.githubusercontent.com/77307847/203675718-99e661c4-0f29-4001-a186-6f3b9cc68e81.png)
+
  
 ## 2. Cronograma
 
