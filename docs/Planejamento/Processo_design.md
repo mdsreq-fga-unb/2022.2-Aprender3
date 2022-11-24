@@ -23,7 +23,7 @@ Este documento tem por objetivo indicar os diferentes ciclos de intervenção �
 Baseando-se em uma visão holística,  o ciclo Mayhew — Proposto por Deborah Mayhew (1999) — reúne a organização de diferentes atividades propostas pela área de Interação Humano-Computador para orientar o trabalho do design. Apresenta três fases principais que devem ser seguidas durante o processo iterativo.
 
 <p align='center'>
-    <img width="60%" src="https://user-images.githubusercontent.com/77307847/203667451-8f9045a5-bff9-40fa-97d9-4abc18a1e1f0.png"/>
+    <img width="80%" src="https://user-images.githubusercontent.com/77307847/203667451-8f9045a5-bff9-40fa-97d9-4abc18a1e1f0.png"/>
 </p>
 
 - **Análise de requisitos:** a análise de requisitos configura a primeira fase do ciclo de Mayhew, onde são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e os princípios gerais de design do projeto.
@@ -50,7 +50,7 @@ De acordo com Jakob Nielsen (1993) , a engenharia de usabilidade visa o desenvol
 Proposto por Hartson e Hix em 1989, o ciclo de vida em estrela, a sequência das atividades é decisão do designer, que leva em consideração os recursos disponíveis no momento de iniciar o projeto, se tornando flexível e exigindo experiência dos profissionais. O ciclo divide-se em quatro atividades principais:
 
 <p align='center'>
-    <img width="50%" src="https://user-images.githubusercontent.com/77307847/203668449-099b9600-3988-4540-a044-cfc9dc18ebc8.png"/>
+    <img width="80%" src="https://user-images.githubusercontent.com/77307847/203668449-099b9600-3988-4540-a044-cfc9dc18ebc8.png"/>
     
 </p>
 
