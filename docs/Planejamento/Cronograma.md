@@ -9,11 +9,14 @@
 ## 1. HeatMap
  ![ho](https://user-images.githubusercontent.com/77307847/203675718-99e661c4-0f29-4001-a186-6f3b9cc68e81.png)
 
+Para definir de maneira  mais certeira os horários das reuniões, de modo que todos os integrantes possam estar presentes, foi feito um HeatMap com os horários disponíveis do time.
  
 ## 2. Cronograma
 
 
 O cronograma foi feito com uma representação visual das atividades planejadas pelo grupo, baseadas no plano de ensino disponibilizado pelo professor. Ele foi pensado de tal forma que as entregas possam ser feitas dentro do prazo estabelecido, mesmo que haja imprevistos, para possibilitar tomadas de medidas corretivas sem risco de atrasos.
+
+Para seguir corretamente o cronograma e de acordo com os horários disponíveis dos integrantes, coletado pelo docs e analisado pelo HeatMap, foi acordado que as reuniões de sprint serão às quartas 18h remotamente e as dailies serão após as aulas de IHC presencialmente.
 
 
 |   Sprint   | Período | Descrição            | 
