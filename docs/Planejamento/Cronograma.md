@@ -6,7 +6,10 @@
 | :--------: | :----: | :-----------------------------------------: | :-------------------------------: | :----------------: |
 | 18.11.2022 |  0.1   | Criação do documento e adição do cronograma | Milena Aires e Raphaela Guimarães | Raphaela Guimarães |
 
-## 1. Cronograma
+## 1. HeatMap
+ ![HeatMap](/docs/images/imagem_2022-11-23_222909031.png)
+ 
+## 2. Cronograma
 
 
 O cronograma foi feito com uma representação visual das atividades planejadas pelo grupo, baseadas no plano de ensino disponibilizado pelo professor. Ele foi pensado de tal forma que as entregas possam ser feitas dentro do prazo estabelecido, mesmo que haja imprevistos, para possibilitar tomadas de medidas corretivas sem risco de atrasos.
