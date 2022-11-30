@@ -5,7 +5,7 @@ Aprender 3
     <figure>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/S%C3%ADmbolo_da_UnB.
 png/640px-S%C3%ADmbolo_da_UnB.png" width="500">
-        <figcaption>Simbolo da Unb</figcaption>
+        <figcaption>Símbolo da Unb</figcaption>
     </figure>
 </p>
 
@@ -36,9 +36,9 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
 
 
 
-### Versionamento
+### Histórico de versão
 
 
 | Data | Versão | Descrição | Autor(es)   | Revisor |
 | :--: | :----: | :-------: | :---------: | :-----: |
-| 22.11.2022 |  0.1   | Criação da página | Thiago Vivan | Igor Thiago  |
+| 22.11.2022 |  1.0 | Criação da página | Thiago Vivan | Igor Thiago  |
