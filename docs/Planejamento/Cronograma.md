@@ -4,12 +4,15 @@
 
 |    Data    | Versão | Descrição                                   | Autor(es)                         | Revisor            |
 | :--------: | :----: | :-----------------------------------------: | :-------------------------------: | :----------------: |
-| 18.11.2022 |  0.1   | Criação do documento e adição do cronograma | Milena Aires e Raphaela Guimarães | Raphaela Guimarães |
+| 18.11.2022 |  1.0| Criação do documento e adição do cronograma | Milena Aires e Raphaela Guimarães | Raphaela Guimarães |
 
 ## 1. HeatMap
- ![ho](https://user-images.githubusercontent.com/77307847/203675718-99e661c4-0f29-4001-a186-6f3b9cc68e81.png)
-
 Para definir de maneira  mais certeira os horários das reuniões, de modo que todos os integrantes possam estar presentes, foi feito um HeatMap com os horários disponíveis do time.
+
+ ![ho](https://user-images.githubusercontent.com/77307847/203675718-99e661c4-0f29-4001-a186-6f3b9cc68e81.png)
+ <figcaption align="center">Tabela 1 - Heatmap, Fonte(Raphaela Guimarãess, 2022)</figcaption>
+
+
  
 ## 2. Cronograma
 
