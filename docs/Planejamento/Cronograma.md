@@ -1,16 +1,17 @@
 # Cronograma 
 
+## 1. Introdução
+Com o objetivo de melhorar a organização e fazer o planejamento das entregas da disciplina, foi elaborado um HeatMap para falicitar a seleção de um horário para as reuniões da equipe. Bem como foi utilizado como referência o Plano de Ensino da disciplina[1] para a elaboração do cronograma de entregas.
 
-
-## 1. HeatMap
-Para definir de maneira  mais certeira os horários das reuniões, de modo que todos os integrantes possam estar presentes, foi feito um HeatMap com os horários disponíveis do time.
+## 2. HeatMap
+Para definir de maneira  mais favorável os horários das reuniões, de modo que todos os integrantes possam estar presentes, foi feito um HeatMap, apresentado na Tabela 1, com os horários disponíveis do time.
 
  ![ho](https://user-images.githubusercontent.com/77307847/203675718-99e661c4-0f29-4001-a186-6f3b9cc68e81.png)
  <figcaption align="center">Tabela 1 - Heatmap, Fonte(Raphaela Guimarãess, 2022)</figcaption>
 
 
  
-## 2. Cronograma
+## 3. Cronograma
 
 
 O cronograma foi feito com uma representação visual das atividades planejadas pelo grupo, baseadas no plano de ensino disponibilizado pelo professor. Ele foi pensado de tal forma que as entregas possam ser feitas dentro do prazo estabelecido, mesmo que haja imprevistos, para possibilitar tomadas de medidas corretivas sem risco de atrasos.
@@ -32,9 +33,13 @@ Para seguir corretamente o cronograma e de acordo com os horários disponíveis 
 | Sprint 8 |  19.01 - 25.01 | *Entrega 8*: Relato dos resultados do Protótipo de alta fidelidade |
 | Sprint 9 |  26.01 - 01.02 | *Entrega Final* |
 
+## Bibliografia
+
+[1] - SALES, André Barros. PLANO DE ENSINO, Faculdade UnB Gama - 02/2022. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=860907>
 
 ## Histórico de versão
 
 |    Data    | Versão | Descrição    | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------: | :--------: | :------: |
 | 18.11.2022 |  1.0   | Criação do documento e adição do cronograma | Milena Aires e Raphaela Guimarães | Raphaela Guimarães |
+| 06/12/2022 | 1.1 | Adicionadas referências bibliográficas e Introdução | Thiago Vivan Bastos | Igor Thiago |
