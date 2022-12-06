@@ -1,9 +1,6 @@
 # Análise para a escolha do site
 
-## histórico de versão
-|    Data    | Versão | Descrição                                   | Autor(es)    | Revisor            |
-| :--------: | :----: | :-----------------------------------------: | :----------: | :----------------: |
-| 23.11.2022 |  0.1   | Criação do documento de escolha do site     | Milena Aires | Vinícius Alves de Sousa |
+
 
 ## 1. Contexto 
 Antes de definir o site para desenvolver o projeto de IHC, alguns sites foram selecionados pelos membros do projeto a fim de avaliar alguns aspectos em que o projeto poderia trazer melhorias. Para cada site escolhido, a verificação foi feita através de um planejamento e avaliações.
@@ -29,3 +26,10 @@ Seguinda a avaliação feita da plataforma:
 - Suporte e atendimentos para problemas 
 
 Porém para uma melhor avaliação seria viável fazer uma pesquisa mais aprofundada dos erros encontrados e com mais avaliadores para obter mais dados para análise.
+
+
+
+## histórico de versão
+|    Data    | Versão | Descrição    | Autor(es)    | Revisor            |
+| :--------: | :----: | :----------: | :----------: | :----------------: |
+| 23.11.2022 |  1.0   | Criação do documento de escolha do site  | Milena Aires | Vinícius Alves de Sousa |

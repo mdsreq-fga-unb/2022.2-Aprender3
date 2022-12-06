@@ -32,3 +32,9 @@ O [Google Drive](https://www.google.com/drive/) é um serviço de armazenamento 
 ![powepoint](https://duckduckgo.com/i/e86c128a.png)
 
 O [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint) é um software de apresentações. Será utilizado para criação da apresentações do projeto, em cada ponto de controle.
+
+
+## Histórico de versão
+|    Data    | Versão | Descrição    | Autor(es)    | Revisor            |
+| :--------: | :----: | :----------: | :----------: | :----------------: |
+| xx |  1.0   | xx  | xx | xx |

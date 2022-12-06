@@ -60,3 +60,9 @@ No término da inspeção, a análise do material registrado atribuirá signific
 
 ## 5. Método
 Levando em consideração os objetivos desse planejamento será utilizado o método de avaliação heurística, que foi proposto por Nielsen e Molich em 1990. É um método de inspeção que ajuda a identificar problemas de usabilidade em uma interface, por meio de um avaliador que se coloca no lugar do usuário e procura problemas na interface, levando em consideração os aspectos que podem impedir que o usuário realize o seu objetivo ou que apresente lentidão na realização da sua tarefa ou até mesmo uma reação negativa para o usuário. Será utilizado o formulário apresentado na Figura 1, quando um problema for encontrado.
+
+
+## histórico de versão
+|    Data    | Versão | Descrição    | Autor(es)    | Revisor            |
+| :--------: | :----: | :----------: | :----------: | :----------------: |
+| xx |  1.0   | xx  | xx | xx |

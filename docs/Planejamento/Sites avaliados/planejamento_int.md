@@ -1,10 +1,5 @@
 #  <center>Planejamento de Avaliação – Secretaria de Assuntos Internacionais 
 
-## Histórico de versão
-
-|    Data    | Versão | Descrição            | Autor(es)       | Revisor            |
-| :--------: | :----: | :------------------: | :-------------: | :----------------: |
-| 19.11.2020 |  0.1   | Adição do documento  | Rodolfo Cabral  | Raphaela Guimarães |
 
 ## 1. Definição do Escopo/ problema 
   
@@ -72,3 +67,9 @@ Legenda: 10 = Muito satisfeito, 1 = Muito insatisfeito
 O site deve melhorar o menu dropdown, que é sobreposto pelos outros elementos na página
 
 
+
+## Histórico de versão
+
+|    Data    | Versão | Descrição            | Autor(es)       | Revisor            |
+| :--------: | :----: | :------------------: | :-------------: | :----------------: |
+| 19.11.2020 |  0.1   | Adição do documento  | Rodolfo Cabral  | Raphaela Guimarães |

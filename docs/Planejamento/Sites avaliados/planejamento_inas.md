@@ -1,10 +1,6 @@
 #  <center>Planejamento de Avaliação -  Instituto de Assistência à Saúde dos Servidores do Distrito Federal
   
-## Histórico de versão
 
-|    Data    | Versão | Descrição            | Autor(es)          | Revisor      |
-| :--------: | :----: | :------------------: | :----------------: | :----------: |
-| 19.11.2020 |  0.1   | Adição do documento  | Raphaela Guimarães | Milena Aires |
   
 ## 1. Domínio
 O INAS – Instituto de Assistência à Saúde dos Servidores do Distrito Federal foi criado com o objetivo de oferecer um Plano de Saúde sem fins lucrativos para os servidores públicos do Distrito Federal e seus dependentes.
@@ -80,3 +76,10 @@ O método escolhido para realizar a avaliação é o método de inspeção por m
 - Ajuda e Documentação
   
 Esses serão os aspectos presentes na avaliação do site a fim de identificar oportunidades de melhoria e compreender se o mesmo atende aos usuários em termos práticos de uso.
+
+
+## Histórico de versão
+
+|    Data    | Versão | Descrição            | Autor(es)          | Revisor      |
+| :--------: | :----: | :------------------: | :----------------: | :----------: |
+| 19.11.2020 |  0.1   | Adição do documento  | Raphaela Guimarães | Milena Aires |

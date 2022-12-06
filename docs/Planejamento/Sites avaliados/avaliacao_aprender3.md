@@ -1,8 +1,6 @@
 # Relatório de Avaliação - Aprender3
 
-| Data     |Versão|Descrição                                            | Autor(es)    | Revisor            |
-| :-------:|:----:|:---------------------------------------------------:| :----------: | :----------------: |
-| 22.11.22 |  0.1 | Adicionando Relatório da Avaliação do site Aprender3| Milena Aires | Raphaela Guimarães |
+
 
 O presente documento apresenta o relatório e resultados da avalição feita do site Aprender3. A plataforma é utilizada como ferramenta por discentes e docentes da UnB. Esse documento foi estruturado em quatro tópicos: no primeiro tópico apresenta o escopo e expõe o objetivo principal da avaliação. O segundo tópico trata sobre o método de IHC utilizado para fazer a avaliação. No terceiro tópico é apresentado os dados gerados. E o quarto tópico apresenta a conclusão da avaliação.
 
@@ -180,5 +178,8 @@ Um erro dessa avaliação foi não ter previsto que existiria alunos que nunca u
 
 
 
+## histórico de versão
 
-
+| Data     |Versão|Descrição    | Autor(es)    | Revisor       |
+| :-------:|:----:|:-----------:| :----------: | :-----------: |
+| 22.11.22 |  1.0 | Adicionando Relatório da Avaliação do site Aprender3| Milena Aires | Raphaela Guimarães |

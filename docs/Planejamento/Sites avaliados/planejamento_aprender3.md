@@ -1,10 +1,5 @@
 #  <center>Planejamento de Avaliação – Aprender3
 
-## Histórico de versão
-
-|    Data    | Versão | Descrição            | Autor(es)       | Revisor            |
-| :--------: | :----: | :------------------: | :-------------: | :----------------: |
-| 19.11.2020 |  0.1   | Adição do documento  | Milena Aires    | Raphaela Guimarães |
 
 ## 1. Domínio
   O site Aprender3 é um dos ambientes prestado e disponibilizado pela UnB (Universidade de Brasília), com o objetivo de servir de apoio tanto para alunos como também para professores a fim de auxiliar a ministração das disciplinas ofertadas pela UnB.
@@ -90,3 +85,9 @@ Esses serão os aspectos presentes na avaliação do site a fim de identificar o
 - Capítulo 09 - Planejamento da avaliação de IHC – Livro IHC: Barbosa e Silva – Disponível em: https://aprender3.unb.br/pluginfile.php/2364752/mod_resource/content/5/Cap.%20Planejamento%20ihc-ux.pdf 
 - Artigo: Avaliação Heurística de Sítios na Web – Disponível em: https://aprender3.unb.br/pluginfile.php/2307207/mod_resource/content/1/Artigo%20Av%20Heur%C3%ADstica%20ac1_55.pdf
       
+
+## Histórico de versão
+
+|    Data    | Versão | Descrição            | Autor(es)       | Revisor            |
+| :--------: | :----: | :------------------: | :-------------: | :----------------: |
+| 19.11.2020 |  0.1   | Adição do documento  | Milena Aires    | Raphaela Guimarães |

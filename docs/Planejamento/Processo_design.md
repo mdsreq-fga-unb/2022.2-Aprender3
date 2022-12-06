@@ -1,10 +1,6 @@
 # Processo de Design
 
-## Histórico de versão
 
-|    Data    | Versão | Descrição                                   | Autor(es)                         | Revisor            |
-| :--------: | :----: | :-----------------------------------------: | :-------------------------------: | :----------------: |
-| 19.11.2022 |  0.1   | Criação do documento e adição do Processo de Design escolhido | Vinícius Alves de Sousa |  |
 
 ## 1. Introdução
 
@@ -73,3 +69,11 @@ Entre os modelos discutidos, o Ciclo de Mayhew foi avaliado como o modelo mais a
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
+
+
+
+## Histórico de versão
+
+|    Data    | Versão | Descrição      | Autor(es)      | Revisor       |
+| :--------: | :----: | :------------: | :------------: | :-----------: |
+| 19.11.2022 |  1.0   | Criação do documento e adição do Processo de Design escolhido | Vinícius Alves de Sousa | Thiago Vivan Bastos |

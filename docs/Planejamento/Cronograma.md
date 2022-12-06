@@ -1,18 +1,21 @@
 # Cronograma 
 
-## Histórico de versão
 
-|    Data    | Versão | Descrição                                   | Autor(es)                         | Revisor            |
-| :--------: | :----: | :-----------------------------------------: | :-------------------------------: | :----------------: |
-| 18.11.2022 |  0.1   | Criação do documento e adição do cronograma | Milena Aires e Raphaela Guimarães | Raphaela Guimarães |
 
 ## 1. HeatMap
- ![HeatMap](/docs/images/imagem_2022-11-23_222909031.png)
+Para definir de maneira  mais certeira os horários das reuniões, de modo que todos os integrantes possam estar presentes, foi feito um HeatMap com os horários disponíveis do time.
+
+ ![ho](https://user-images.githubusercontent.com/77307847/203675718-99e661c4-0f29-4001-a186-6f3b9cc68e81.png)
+ <figcaption align="center">Tabela 1 - Heatmap, Fonte(Raphaela Guimarãess, 2022)</figcaption>
+
+
  
 ## 2. Cronograma
 
 
 O cronograma foi feito com uma representação visual das atividades planejadas pelo grupo, baseadas no plano de ensino disponibilizado pelo professor. Ele foi pensado de tal forma que as entregas possam ser feitas dentro do prazo estabelecido, mesmo que haja imprevistos, para possibilitar tomadas de medidas corretivas sem risco de atrasos.
+
+Para seguir corretamente o cronograma e de acordo com os horários disponíveis dos integrantes, coletado pelo docs e analisado pelo HeatMap, foi acordado que as reuniões de sprint serão às quartas 18h remotamente e as dailies serão após as aulas de IHC presencialmente.
 
 
 |   Sprint   | Período | Descrição            | 
@@ -29,3 +32,9 @@ O cronograma foi feito com uma representação visual das atividades planejadas 
 | Sprint 8 |  19.01 - 25.01 | *Entrega 8*: Relato dos resultados do Protótipo de alta fidelidade |
 | Sprint 9 |  26.01 - 01.02 | *Entrega Final* |
 
+
+## Histórico de versão
+
+|    Data    | Versão | Descrição    | Autor(es)  | Revisor  |
+| :--------: | :----: | :----------: | :--------: | :------: |
+| 18.11.2022 |  1.0   | Criação do documento e adição do cronograma | Milena Aires e Raphaela Guimarães | Raphaela Guimarães |

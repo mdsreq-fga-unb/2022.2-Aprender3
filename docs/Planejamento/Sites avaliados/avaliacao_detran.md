@@ -78,4 +78,7 @@ o%20cap09%20Livro%20Simone.pdf
 3) Site detran GO https://www.detran.go.gov.br/psw/#/pages/pagina-inicial
 
 
-
+## histórico de versão
+|    Data    | Versão | Descrição    | Autor(es)    | Revisor            |
+| :--------: | :----: | :----------: | :----------: | :----------------: |
+| 22/11/2022 |  1.0   | Criação da página e adição do documento de avaliação do site Detran Go  | Thiago Vivan Bastos | Milena Aires |

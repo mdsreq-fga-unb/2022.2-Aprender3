@@ -45,3 +45,9 @@ Que tem como objetivo conceber uma solução de IHC que atenda às metas de usab
 
 ### Instalação
 Onde o designer deve coletar opiniões dos usuários depois de algum tempo de uso, as opiniões ser úteis para melhorar o sistema em versões futura ou necessidade de desenvolver novos sistemas não previstos.
+
+
+## Histórico de versão
+|    Data    | Versão | Descrição    | Autor(es)    | Revisor            |
+| :--------: | :----: | :----------: | :----------: | :----------------: |
+| xx |  1.0   |  xx | xx | xx |

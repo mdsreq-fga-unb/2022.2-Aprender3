@@ -36,6 +36,9 @@ A Avaliação Heurística foi proposta por Nielsen e Molich em 1990, é um méto
 Verificação: fornece informações que podem ser facilmente encontradas e ajuda mediante passos que podem ser facilmente seguidos ?
 Não existem nenhum tipo de conteúdo ou guia que versa do uso do sistema.
 
-
+## histórico de versão
+|    Data    | Versão | Descrição    | Autor(es)    | Revisor            |
+| :--------: | :----: | :----------: | :----------: | :----------------: |
+| xx |  1.0   | xx  | xx | xx |
 
 
