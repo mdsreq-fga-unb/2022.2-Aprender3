@@ -103,3 +103,7 @@ Entrega dos slides e do link da apresentação do Projeto Final.
 Link para <a>video da apresentação</a>
 
 
+## Histórico de versão
+|    Data    | Versão | Descrição    | Autor(es)    | Revisor            |
+| :--------: | :----: | :----------: | :----------: | :----------------: |
+| 22/11/2022 |  1.0   | Criação da página  | Thiago Vivan Bastos | Igor Thiago |

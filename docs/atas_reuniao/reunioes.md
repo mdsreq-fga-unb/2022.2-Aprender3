@@ -87,3 +87,9 @@
 |:-------:|:----:|
 |Início   |  20:00 |
 |Término  |  23:00 |
+
+
+## Histórico de versão
+|    Data    | Versão | Descrição    | Autor(es)    | Revisor            |
+| :--------: | :----: | :----------: | :----------: | :----------------: |
+| 18.11.2022 |  1.0   | Criação do documento de atas de Reunião | Milena Aires | Raphaela Guimarães |

@@ -1,8 +1,5 @@
 ## Ponto de Controle 1
 
-|    Data    | Versão | Descrição                                   | Autor(es)    | Revisor            |
-| :--------: | :----: | :-----------------------------------------: | :----------: | :----------------: |
-| 18.11.2022 |  1.0   | Criação do documento de ponto de controle 1 | Milena Aires | Raphaela Guimarães |
 
 ### 1. Introdução
 
@@ -12,3 +9,10 @@ Na entrega 1 foi entregue a wiki do projeto. Nela possui o planejamento do Proje
 
 Para mostrar o resultado a equipe gravou um vídeo demonstrando o git pages e explicando alguns pontos:
 [Entrega 1 - Planejamento do Projeto Aprender3](https://youtu.be/tGAahnjMLjE)
+
+
+
+## Histórico de versão
+|    Data    | Versão | Descrição    | Autor(es)    | Revisor            |
+| :--------: | :----: | :----------: | :----------: | :----------------: |
+| 18.11.2022 |  1.0   | Criação do documento de ponto de controle 1 | Milena Aires | Raphaela Guimarães |
