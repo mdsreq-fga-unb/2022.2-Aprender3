@@ -1,11 +1,5 @@
 # <center>Análise de Tarefas
 
-### Histórico de Versão
-
-| Data       | Versão | Descrição            | Autor             |
-|:----------:|:------:|:--------------------:|:-----------------:|
-| 06.12.2022 | 1.0 | Realização da Análise de Tarefas | Igor Thiago |
-
 ## 1. Introdução
 
 A análise de tarefas nada mais é do que uma ferramenta de análise de dados para entender as etapas do processo de interação do usuário com o sistema. Isso consiste em dividir as tarefas em subtarefas, de forma que seja possível entender a sequência, hierarquia, condições e critérios de desempenho das tarefas a serem executadas. A análise de tarefas não tem o objetivo de avaliar a usabilidade do produto, somente de documentar o fluxo dos processos.
@@ -64,3 +58,13 @@ Plano 1: faça 1 - 2 - 3 - 4
 | 4.1 Clique no botão *Enviar tarefa* 1>2 | **Feedback**: nesta tela será aberta uma entrada de texto ao usuário para que o mesmo faça upload de algum material |
 | 4.2 Faça upload do documento que contêm as respostas 1>2 | **Feedback**: a tela apresentará o tipo de documento que está a inserir no campo. |
 | 4.3 Envie o documento 1>2 | **Feedback**: o sistema apresentará uma mensagem de confirmação sobre o envio da tarefa. |
+
+ 
+ ### Histórico de Versão
+
+| Data       | Versão | Descrição            | Autor             | Revisor |
+|:----------:|:------:|:--------------------:|:-----------------:|:-------:|
+| 06.12.2022 | 1.0 | Realização da Análise de Tarefas | Igor Thiago | Milena Aires |
+| 07.12.2022 | 1.1 | Padronizando histórico de versão | Milena Aires | Milena Aires |
+ 
+ 
