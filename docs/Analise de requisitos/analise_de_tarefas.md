@@ -60,7 +60,7 @@ Plano 1: faça 1 - 2 - 3 - 4
 | 4.3 Envie o documento 1>2 | **Feedback**: o sistema apresentará uma mensagem de confirmação sobre o envio da tarefa. |
 
  
- ### Histórico de Versão
+### Histórico de Versão
 
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
