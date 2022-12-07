@@ -61,7 +61,7 @@ Plano 1: faça 1 - 2 - 3 - 4
 
  
 ### Histórico de Versão
-
+ 
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 | 06.12.2022 | 1.0 | Realização da Análise de Tarefas | Igor Thiago | Milena Aires |
