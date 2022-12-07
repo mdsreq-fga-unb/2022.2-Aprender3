@@ -33,6 +33,30 @@ Para seguir corretamente o cronograma e de acordo com os horários disponíveis 
 | Sprint 8 |  19.01 - 25.01 | *Entrega 8*: Relato dos resultados do Protótipo de alta fidelidade |
 | Sprint 9 |  26.01 - 01.02 | *Entrega Final* |
 
+
+## Cronograma Detalhado
+
+
+
+| Data | Atividade | Autor | Revisor | Entrega |
+| :-------: | :-----: | :---: | :-----: | :-----: |
+| 22.11 | Criação da página da Wiki | Thiago vivan | Igor Thiago | Entrega 1 |
+| 22.11 | Entrega do artefato Cronograma | Raphaela Guimarães | Milena Aires | Entrega 1 |
+| 22.11 | Entrega dos planejamentos de avaliação de site | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Entrega 1 |
+| 23.11 | Entrega das avaliações de sites e site escolhido | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Entrega 1 |
+| 23.11 | Entrega do artefato Ferramentas | Rodolfo Cabral | Igor Thiago | Entrega 1 |
+| 23.11 | Entrega do artefato Metodologia | Raphaela Guimarães | Milena Aires | Entrega 1 |
+| 23.11 | Entrega do artefato Processo de design | Vinícius Alves | Thiago Vivan | Entrega 1 |
+| 23.11 | Gravação do video e enviar entrega 1 | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Entrega 1 |
+| 03.12 | Organização e separação de responsabilidades | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Entrega 2 |
+| 06.12 | Correções da entrega 1 | Thiago Vivan | Igor Thiago | Entrega 2 |
+| 07.12 | Entrega do artefato Análise tarefas | Igor Thiago | Milena Aires | Entrega 2 |
+| 07.12 | Entrega do artefato Perfil do Usuário | :---: | :-----: | Entrega 2 |
+| 07.12 | Entrega do artefato Personas | Raphaela Guimarães | Thiago Vivan | Entrega 2 |
+| 07.12 | Entrega do artefato Aspéctos Éticos | :---: | :-----: | Entrega 2 |
+| 07.12 | Revisão da entrega, gravação e envio do video de apresentação  | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Entrega 2 |
+
+
 ## Bibliografia
 
 [1] - SALES, André Barros. PLANO DE ENSINO, Faculdade UnB Gama - 02/2022. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=860907>
@@ -42,4 +66,5 @@ Para seguir corretamente o cronograma e de acordo com os horários disponíveis 
 |    Data    | Versão | Descrição    | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------: | :--------: | :------: |
 | 18.11.2022 |  1.0   | Criação do documento e adição do cronograma | Milena Aires e Raphaela Guimarães | Raphaela Guimarães |
-| 06/12/2022 | 1.1 | Adicionadas referências bibliográficas e Introdução | Thiago Vivan Bastos | Igor Thiago |
+| 06.12.2022 | 1.1 | Adicionadas referências bibliográficas e Introdução | Thiago Vivan Bastos | Igor Thiago |
+| 07.12.2022 | 1.1 | Adicionado Cronograma detalhado | Thiago Vivan Bastos | Igor Thiago |
