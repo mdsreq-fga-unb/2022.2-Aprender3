@@ -20,7 +20,7 @@
 | Duração | 1 hora |
 |:-------:|:------:|
 |Início   |  9:00  |
-|Término  |  8:00  |
+|Término  |  10:00  |
 
 ## Reunião 2
 
