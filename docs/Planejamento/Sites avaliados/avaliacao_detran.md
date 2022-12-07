@@ -4,7 +4,7 @@
 
 Devido a recente pandemia do covid-19, tornou-se notória a importância de sites e aplicações para a resolução de problemas do dia a dia do cidadão comum, uma vez que, durante a pandemia os cidadãos foram instruidos a permanecerem em casa e só sairem em casos extremos. Dessa forma, nota-se uma crescente demanda de serviços online melhores, mais acessíveis e inclusivos disponiveis para o usuário. Levando isso em consideração, tornou-se fulcral ao gorverno, responsável por garantir à população a acessibilidade aos seus serviços aprimorar seus sites e serviços oferecidos.
 
-Dados do site do Detran GO mostram que aproximadamente 46% da população possui CNH (Carteira Nacional de Habilitação). Assim, torna-se imprescindivel que o próprio site do Detran GO tenha uma boa qualidade de uso, uma vez que, potencialmente, pode ser usado por praticamente metade da população do estado. Por esse motivo, temos o site do Detran GO como o objeto avaliativo desse trabalho.
+Dados do site do Detran GO mostram que aproximadamente 46% da população possui CNH (Carteira Nacional de Habilitação). Assim, torna-se imprescindivel que o próprio site do Detran GO tenha uma boa qualidade de uso, uma vez que, potencialmente, pode ser usado por praticamente metade da população do estado. Por esse motivo, temos o site do Detran GO como o objeto de análise desse trabalho.
 
 ## 2- Método
 
@@ -54,17 +54,20 @@ Para a avaliação do site Detran GO, usaremos o método de avaliação Heuristi
 
 ## 3- Avaliação
 
-![tabela1](/docs/images/tabelaT.png)
+![tabelaT](/docs/images/tabelaT.png)
+<figcaption align="center">Tabela 1 - Aplicação do método, Fonte(Thiago Vivan, 2022)</figcaption>
 
+![imagem1](/docs/images/imagem1.png)
+<figcaption align="center">Figura 1 - Aplicação do método, Fonte(Thiago Vivan, 2022)</figcaption>
 
-![tabela1](/docs/images/imagem1.png)
+![imagem2](/docs/images/imagem2.png)
+<figcaption align="center">Figura 2 - Aplicação do método, Fonte(Thiago Vivan, 2022)</figcaption>
 
+![imagem3](/docs/images/imagem3.png)
+<figcaption align="center">Figura 3 - Aplicação do método, Fonte(Thiago Vivan, 2022)</figcaption>
 
-![tabela1](/docs/images/imagem2.png)
-
-![tabela1](/docs/images/imagem3.png)
-
-![tabela1](/docs/images/imagem5.png)
+![imagem5](/docs/images/imagem5.png)
+<figcaption align="center">Tabela 2 - Aplicação do método, Fonte(Thiago Vivan, 2022)</figcaption>
 
 ## 4- Links e referências
 
@@ -72,9 +75,11 @@ Para a avaliação do site Detran GO, usaremos o método de avaliação Heuristi
 Leandro Neumann Ciuffo3, Ana Cristina Bicharra Garcia4)
 https://aprender3.unb.br/pluginfile.php/2307219/mod_resource/content/1/Artigo%20A
 v%20Heur%C3%ADstica%20ac1_55.pdf
+
 2) Planejamento da Avaliação de IHC (Barbosa e Silva 2010)
 https://aprender3.unb.br/pluginfile.php/2307198/mod_resource/content/3/Apresentaçã
 o%20cap09%20Livro%20Simone.pdf
+
 3) Site detran GO https://www.detran.go.gov.br/psw/#/pages/pagina-inicial
 
 
@@ -82,3 +87,4 @@ o%20cap09%20Livro%20Simone.pdf
 |    Data    | Versão | Descrição    | Autor(es)    | Revisor            |
 | :--------: | :----: | :----------: | :----------: | :----------------: |
 | 22/11/2022 |  1.0   | Criação da página e adição do documento de avaliação do site Detran Go  | Thiago Vivan Bastos | Milena Aires |
+| 07/12/2022 | 1.1 | Correções de imagens e ortográficas | Thiago Vivan | Igor Thiago |
