@@ -29,7 +29,7 @@ Os resultados do questionário apresentaram-se insuficientes para traçar os per
 O questionário foi iniciado com o termo de consentimento onde todos os usuários da pesquisa concordaram. Na figura 1 podemos ver o gráfico.
 
 <p align='center'>
-    <img width="70%" src="https://user-images.githubusercontent.com/77307847/206326765-2a2a5030-2972-491f-9bed-532b9c060a4b.png"/>
+    <img width="85%" src="https://user-images.githubusercontent.com/77307847/206326765-2a2a5030-2972-491f-9bed-532b9c060a4b.png"/>
 </p>
 
 <p style="font-size:13px" align='center' fonte>Figura 1 - Gráfico de aceitação do termo de consentimento</p>
@@ -39,7 +39,7 @@ O questionário foi iniciado com o termo de consentimento onde todos os usuário
 O questionário atingiu apenas os alunos da UnB, e não foi efetivo para traçarmos o perfil do usuário dos professores. Segue o gráfico na figura 2. 
 
 <p align='center'>
-    <img width="70%" src="https://user-images.githubusercontent.com/77307847/206327259-4457c371-5cf6-460c-83c5-f09983e492f9.png"/>
+    <img width="85%" src="https://user-images.githubusercontent.com/77307847/206327259-4457c371-5cf6-460c-83c5-f09983e492f9.png"/>
 </p>
 
 <p style="font-size:13px" align='center'>Figura 2 - Gráfico de vínculo com a UnB</p>
@@ -49,7 +49,7 @@ O questionário atingiu apenas os alunos da UnB, e não foi efetivo para traçar
 Foi possível notar que os usuários usam constantemente o site Aprender 3 devido aos seguintes dados coletados (figura 3 e 4):
 
 <p align='center'>
-    <img width="70%" src="https://user-images.githubusercontent.com/77307847/206327391-3477f334-0619-42f6-bdcd-662e8661572d.png"/>
+    <img width="85%" src="https://user-images.githubusercontent.com/77307847/206327391-3477f334-0619-42f6-bdcd-662e8661572d.png"/>
     
 </p>
 
@@ -58,7 +58,7 @@ Foi possível notar que os usuários usam constantemente o site Aprender 3 devid
 <br>
 
 <p align='center'>
-    <img width="70%" src="https://user-images.githubusercontent.com/77307847/206327391-3477f334-0619-42f6-bdcd-662e8661572d.png"/>
+    <img width="85%" src="https://user-images.githubusercontent.com/77307847/206327391-3477f334-0619-42f6-bdcd-662e8661572d.png"/>
     
 </p>
 
@@ -69,7 +69,7 @@ Foi possível notar que os usuários usam constantemente o site Aprender 3 devid
 A faixa etária dos usuários está em torno de 90% entre, menor de 18 até 23 anos. E apenas 10% se encontra na faixa etária dos 24 ou mais. Mostrando que os usuários do site são jovens (veja a figura 5), desses jovens 90% têm o ensino superior incompleto (figura 6), podemos concluir que são estudantes da UnB que estão cursando o seu primeiro ensino superior nas mais diversas áreas do conhecimento, mas majoritariamente na área da tecnologia e ciências humanas (figura 7).
 
 <p align='center'>
-    <img width="70%" src="https://user-images.githubusercontent.com/77307847/206328666-02cb6e8a-d20b-440c-b43a-e2d4a718e4fc.png"/>
+    <img width="85%" src="https://user-images.githubusercontent.com/77307847/206328666-02cb6e8a-d20b-440c-b43a-e2d4a718e4fc.png"/>
 </p>
 
 <p style="font-size:13px" align='center'>Figura 4 - Gráfico que mensura a utilização dos site pelos usuários</p>
@@ -77,7 +77,7 @@ A faixa etária dos usuários está em torno de 90% entre, menor de 18 até 23 a
 <br>
 
 <p align='center'>
-    <img width="70%" src="https://user-images.githubusercontent.com/77307847/206328708-d5b33cbe-cc30-4ec8-a82d-07647d45cf5d.png"/>
+    <img width="85%" src="https://user-images.githubusercontent.com/77307847/206328708-d5b33cbe-cc30-4ec8-a82d-07647d45cf5d.png"/>
 </p>
 
 <p style="font-size:13px" align='center'>Figura 6 - Gráfico do nível de escolaridade do usuário
@@ -86,7 +86,7 @@ A faixa etária dos usuários está em torno de 90% entre, menor de 18 até 23 a
 <br>
 
 <p align='center'>
-    <img width="70%" src="https://user-images.githubusercontent.com/77307847/206328724-6b9e0026-86e7-4ddd-9bc2-ebc45918792f.png"/>
+    <img width="85%" src="https://user-images.githubusercontent.com/77307847/206328724-6b9e0026-86e7-4ddd-9bc2-ebc45918792f.png"/>
 </p>
 
 <p style="font-size:13px" align='center'>Figura 7 - Gráfico da área do conhecimento do curso do usuário
@@ -97,7 +97,7 @@ A faixa etária dos usuários está em torno de 90% entre, menor de 18 até 23 a
 O questionário também revelou que, aproximadamente 50% dos usuários são do sexo feminino (figura 8). Demonstrando que não há um público majoritário nesse quesito. 
 
 <p align='center'>
-    <img width="70%" src="https://user-images.githubusercontent.com/77307847/206328946-6c31a4d1-9a0a-4328-8ca6-d8b2c0a317cd.png"/>
+    <img width="85%" src="https://user-images.githubusercontent.com/77307847/206328946-6c31a4d1-9a0a-4328-8ca6-d8b2c0a317cd.png"/>
 </p>
 
 <p style="font-size:13px" align='center'>Figura 8 - Gráfico do gênero dos usuários</p>
@@ -107,7 +107,7 @@ O questionário também revelou que, aproximadamente 50% dos usuários são do s
 Outra característica de suma importância para a análise do usuário foi a definição do dispositivo mais usado para acessar o site Aprender 3, a pesquisa aponta que quase 90% dos usuários utilizam um computador próprio (figura 9) em detrimento dos smartphones e outros dispositivos. Devemos análise se isso se dá devido ao mau desenvolvimento do site nessas outras plataformas.
 
 <p align='center'>
-    <img width="70%" src="https://user-images.githubusercontent.com/77307847/206329067-e23bb147-8a07-4246-b943-da07ab29babe.png"/>
+    <img width="85%" src="https://user-images.githubusercontent.com/77307847/206329067-e23bb147-8a07-4246-b943-da07ab29babe.png"/>
 </p>
 
 <p style="font-size:13px" align='center'>Figura 9 - Gráfico da distribuição do uso dos dispositivos usados para acessar o site</p>
