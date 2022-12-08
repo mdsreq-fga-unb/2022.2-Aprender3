@@ -140,9 +140,6 @@ Foi verificado, ao final, sugestões de melhorias para o site. Assim poderíamos
 - Editar o texto, é difícil e ruim de se colocar fórmulas matemáticas;
 - Layout mais compreensível;
 
-## 5. Bibliografia 
-abnt (BARBOSA E SILVA, 2010 cap.06, p.3)
-  
 ### Histórico de Versão
 
 | Data       | Versão | Descrição            | Autor             | Revisor |
