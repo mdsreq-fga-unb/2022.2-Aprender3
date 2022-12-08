@@ -48,18 +48,45 @@ Plano 1: faça 1 - 2 - 3 - 4
 | 3. Matricule-se na matéria 1>2 | **Input**: Tela de pesquisa (após clicar na lupa) |
 | 3.1 Selecione a matéria desejada 1/2 |  **Input**: Tela de pesquisa (após clicar na lupa);<br>**Feedback**: Assim que clicar na matéria selecionada o usuário será direcionado para a tela de matrícula da disciplina;<br>**Action**: Clicar na matéria selecionada|
 | 3.2 Insira a chave de inscrição (no campo "senha") 1>2 |  **Input**: página de matrícula na disciplina; <br>**Feedback**: Esta tela mostra o nome do professor responsável pela matéria, uma menssagem de apresentação da disciplina e o grau da disciplina<br>**Problema**: Esta tela não tem a opção de vizualizar a senha antes de se matricular, o que atrapalha o usuário;<br>**Recomendações**: Criação de uma opção que permita o usuário vizualizar a senha que está sendo digitada antes de se matricular|
-| 1. Entregar uma tarefa 1>2|  |
-| 1.1 Faça o login 1>2| **Input**: página do aprender 3 aberta. |
-| 1.2 Acesse o site do Aprender 3 1>2| **Input**: tela de login |
-| 1.3 Insira o CPF e a senha 1+2| **Input**: identificação/senha;**Action**: Inserir a identificação de usuário , senha e clicar no botão de acessar; **Feedback**: Quando o site está com um grande número de acessos simultâneos se torna praticamente impossível o login; **Problema**: Falha ao efetuar o login **Recomendação**: Tornar o sistema mais escalável |
-| 2 Localize a matéria desejada 1>2 | **Input**: Tela inicial do aprender após o login |
-| 2.1 Clique em *Painel* 1/2 | **Input**: Tela inicial do painel, onde mostra todos as matérias cadastradas |
-| 2.2 Clique na matéria desejada 1/2 | **Feedback**: o usuário será redirecionado para a página da matéria selecionada |
-| 3. Selecione o tópico da matéria 1/2 | **Input**: Tela da matéria selecionada;**Feedback**: esta tela apresenta todos os tópicos e recursos da matéria ao usuário |
-| 4. Clique na opção da atividade avaliativa 1/2 | **Input**: Tela da atividade avaliativa;**Feedback**: esta tela apresenta todos as informações referentes à atividade avaliativa ao usuário |
-| 4.1 Clique no botão *Enviar tarefa* 1>2 | **Feedback**: nesta tela será aberta uma entrada de texto ao usuário para que o mesmo faça upload de algum material |
-| 4.2 Faça upload do documento que contêm as respostas 1>2 | **Feedback**: a tela apresentará o tipo de documento que está a inserir no campo. |
-| 4.3 Envie o documento 1>2 | **Feedback**: o sistema apresentará uma mensagem de confirmação sobre o envio da tarefa. |
+
+
+## 3. GOMS (Objetivos, Operadores, Métodos e Regras de seleção)
+De acordo com Barbosa et al [1], o conjunto de modelos GOMS (Goals, Operators, Methods and Selection Rules - Objetivos, Operadores, Métodos e Regras de Seleção), visa analisar o desempenho de usuários que já dominam a ferramenta e não cometem erros, para fornecer uma representação formalizada que pode ser utilizada para prever o desempenho da tarefa.
+
+### 3.1 Representação da tarefa de entregar um trabalho
+O modelo GOMS a seguir é feito para analisar um usuário experiente utilizando a plataforma do aprender 3 para entregar um trabalho
+
+GOAL 0
+GOAL 0: Entregar um trabalho
+
+GOAL 1: Fazer login
+
+OP. 1.1: Acessar o site aprender
+
+OP. 1.2: Preencher dados(CPF e Senha)
+
+OP. 1.3: Clicar no botão acessar
+
+GOAL 2: Localizar matéria
+
+OP. 2.1: reupousar o mouse em cima do botão Meus cursos
+
+OP. 2.2: clicar na opção desejada
+
+GOAL 3: Localizar tarefa no meu matéria
+
+OP. 3.1: clicar na tarefa
+
+GOAL 4: Enviar tarefa
+
+OP. 4.1: Clicar no botão adicionar tarefa
+
+OP. 4.2: Clicar em Arquivos
+
+OP. 4.3: Selecionar arquivo para fazer upload
+
+OP. 4.4: Clicar em Salvar Mudanças
+
 
 ## Bibliografia
  [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
@@ -69,5 +96,6 @@ Plano 1: faça 1 - 2 - 3 - 4
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 | 06.12.2022 | 1.0 | Realização da Análise de Tarefas | Igor Thiago | Milena Aires |
 | 07.12.2022 | 1.1 | Padronizando histórico de versão | Milena Aires | Milena Aires |
+| 07.12.2022 | 1.2 | Adicionado o GOMS | Thiago Vivan | Igor Thiago |
  
  
