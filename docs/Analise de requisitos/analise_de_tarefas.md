@@ -6,12 +6,14 @@ A análise de tarefas nada mais é do que uma ferramenta de análise de dados pa
 
 ## 2. Análise Hierárquica de Tarefas (AHT)
 
-Esta análise se inicia a partir dos objetivos do usuário para identificar as tarefas a serem realizadas a fim de atingir tais objetivos. Um plano serve para indicar a sequencia de tarefas que se deve realizar para atingir um determinado objetivo. Na notação textual, os itens de número zero representam os objetivos, os itens subsequentes são as tarefas e seus subitens representam sub tarefas.Uma operação é especiﬁcada pelas circunstâncias nas quais o objetivo é ativado (input ou entrada), pelas atividades ou ações (actions) que contribuem para atingi-lo e pelas condições que indicam o seu atingimento (feedback).Existem 3 tipos de notação:
+Esta análise se inicia a partir dos objetivos do usuário para identificar as tarefas a serem realizadas a fim de atingir tais objetivos. Um plano serve para indicar a sequencia de tarefas que se deve realizar para atingir um determinado objetivo. Na notação textual, os itens de número zero representam os objetivos, os itens subsequentes são as tarefas e seus subitens representam sub tarefas. Uma operação é especiﬁcada pelas circunstâncias nas quais o objetivo é ativado (input ou entrada), pelas atividades ou ações (actions) que contribuem para atingi-lo e pelas condições que indicam o seu atingimento (feedback).Existem 3 tipos de notação[Tabela 1]:
  
  * **1>2** indica que o objetivo é sequencial;
  * **1+2** indica que o objetivo pode se executado em paralelo;
  * **1/2** indica que o objetivo é de seleção, ou seja, quando o usuário seleciona uma determinada opção.
 
+![TabelaHTA](/docs/images/TabelaHTA.png)
+ <figcaption align="center">Tabela HTA, Fonte([1])</figcaption>
 
 ### 2.1 Representação textual
 
@@ -59,7 +61,8 @@ Plano 1: faça 1 - 2 - 3 - 4
 | 4.2 Faça upload do documento que contêm as respostas 1>2 | **Feedback**: a tela apresentará o tipo de documento que está a inserir no campo. |
 | 4.3 Envie o documento 1>2 | **Feedback**: o sistema apresentará uma mensagem de confirmação sobre o envio da tarefa. |
 
- 
+## Bibliografia
+ [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 ### Histórico de Versão
  
 | Data       | Versão | Descrição            | Autor             | Revisor |
