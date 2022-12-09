@@ -2,7 +2,41 @@ site_name: Aprender 3
 
 theme:
   name: material
-  features:
-    - navigation.tabs
-    - navigation.tabs.sticky
+  language: pt
+  
+nav:
+        - Home: index.md
+        - Planejamento:
+          - Sites avaliados:
+              - Avaliação Câmara: planejamento/sites_avaliados/avaliacao_camara.md
+              - Avaliacao Aprender 3: planejamento/sites_avaliados/avaliacao_aprender3.md
+              - Avaliacao Detran: planejamento/sites_avaliados/avaliacao_detran.md
+              - Planejamento Câmara: planejamento/sites_avaliados/planejamento_camara.md
+              - Planejamento Aprender 3: planejamento/sites_avaliados/planejamento_aprender3.md
+              - Planejamento INAS: planejamento/sites_avaliados/planejamento_inas.md
+              - Planejamento INT: planejamento/sites_avaliados/planejamento_int.md
+          - Cronograma: planejamento/cronograma.md
+          - Metodologia: planejamento/metodologia.md
+          - Processo Design: planejamento/processo_design.md
+          - Escolha do Site: planejamento/escolha_site.md
+          - Ferramentas: planejamento/ferramentas.md
+        
+        - Análise de Requisitos:
+          - Perfil do Usuário: analise_de_requisitos/perfil_do_usuario.md
+          - Personas: analise_de_requisitos/personas.md
+          - Análise de Tarefas: analise_de_requisitos/analise_de_tarefas.md
+          - Metas de Usabilidade: analise_de_requisitos/metas_de_usabilidade.md
+          - Princípios Gerais do Projeto: analise_de_requisitos/principios_gerais.md
+          - Guia de Estilo: analise_de_requisitos/guia_de_estilo.md
+          - Aspectos Éticos: analise_de_requisitos/aspectos_eticos.md
+
+        - Apresentações: apresentacoes.md
+        
+        - Atas:
+          - 17/11/2022: atas/reuniao-17-11-2022.md
+          - 18/11/2021: atas/reuniao-18-11-2022.md
+          - 19/11/2022: atas/reuniao-19-11-2022.md
+          - 23/11/2022: atas/reuniao-23-11-2022.md
+          - 07/12/2022: atas/reuniao-07-12-2022.md
+          - 08/12/2022: atas/reuniao-08-11-2022.md
   
