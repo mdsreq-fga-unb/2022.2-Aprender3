@@ -58,7 +58,7 @@ Foi possível notar que os usuários usam constantemente o site Aprender 3 devid
 <br>
 
 <p align='center'>
-    <img width="85%" src="https://user-images.githubusercontent.com/77307847/206327391-3477f334-0619-42f6-bdcd-662e8661572d.png"/>
+    <img width="85%" src="https://user-images.githubusercontent.com/77307847/206591556-2fb8f347-7ec0-4fa4-8f6c-cbf765144aa4.png"/>
     
 </p>
 
@@ -140,9 +140,13 @@ Foi verificado, ao final, sugestões de melhorias para o site. Assim poderíamos
 - Editar o texto, é difícil e ruim de se colocar fórmulas matemáticas;
 - Layout mais compreensível;
 
+## Referência
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.Interação Humano-Computador e Experiência do usuário. 2021. Autopublicação. ISBN: 978-65-00-19677-1
+
 ### Histórico de Versão
 
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 | 07.12.2022 | 1.0 | Criação do documento de perfil do usuário | Milena Aires | Vinícius Alves |
 | 07.12.2022 | 1.1 | Exposição e análise dos resultados da pesquisa | Vinícius Alves |   |
+| 08.12.2022 | 1.2 | Melhorias apontadas na entrega 2 | Vinícius Alves |   |

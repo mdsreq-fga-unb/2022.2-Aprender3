@@ -19,7 +19,7 @@
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
 |**Nome**| João Da Silva Bastos |
-|  **Foto**   | <img width="200px" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/persona1.png?raw=true"><p>Imagem 1: João Da Silva Bastos</p> 
+|  **Foto**   | <img width="200px" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/persona1.png?raw=true"> 
 |**Nascimento** | 14/09/2001, 21 anos. |
 |**Status** | Persona primária.|
 |**Objetivos**| Se formar para ter estabilidade e destaque no mercado.|
@@ -36,7 +36,7 @@
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
 |**Nome**| Clara Lacerda Dias |
-|  **Foto**   | <img width="200px" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/persona2.png?raw=true"><p>Imagem 2: Clara Lacerda Dias</p> 
+|  **Foto**   | <img width="200px" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/persona2.png?raw=true">
 |**Nascimento** | 11/02/1999, 23 anos. |
 |**Status** | Persona secundária.|
 |**Objetivos**| Ter uma vida tranquila, morando com seus 3 gatos em sua casa própria.|
@@ -54,7 +54,7 @@
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
 |**Nome**| Luana Juarez Matos |
-|  **Foto**   | <img width="200px" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/persona3.png?raw=true"><p>Imagem 3: Luana Juarez Matos</p> 
+|  **Foto**   | <img width="200px" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/persona3.png?raw=true">
 |**Nascimento** | 29/12/2004, 17 anos. |
 |**Status** | Persona secundária.|
 |**Objetivos**| Não possui nenhum objetivo em mente, apenas segue a vida de acordo com a expectativa de terceiros.|
@@ -72,7 +72,7 @@
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
 |**Nome**| Joaquim Serpa Sampaio dos Santos Brasil |
-|  **Foto**   | <img width="200px" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/antipersona.png?raw=true"><p>Imagem 4: Joaquim Serpa Sampaio dos Santos Brasil</p> 
+|  **Foto**   | <img width="200px" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/antipersona.png?raw=true">
 |**Nascimento** | 05/07/1968, 54 anos. |
 |**Status** | Antipersona.|
 |**Objetivos**| Aumentar a quantidade de clientes na sua loja de marcenaria.|
@@ -85,7 +85,9 @@
 </div>
     
 ## Referência
-  
+
+> Cooper, A.; Reimann, R.; Cronin, D. About Face 3: Th e Essentials of Interaction Design. New York, NY: John Wiley & Sons, 2007.
+
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.Interação Humano-Computador e Experiência do usuário. 2021. Autopublicação. ISBN: 978-65-00-19677-1
 
 > This Person Does Not Exist, 2022. Disponível em: <https://this-person-does-not-exist.com>. Acesso em: 7 de dezembro de 2022.
@@ -93,4 +95,5 @@
 ## Histórico de versão
 | Versão | Data       | Descrição             | Autor           | Revisor |
 | ------ | ---------- | --------------------- | ------------    |---------|
-| 0.1   | 07/12/2022 | Criação do documento  | Raphaela Guimarães | Milena Aires |
+| 1.0   | 07/12/2022 | Criação do documento  | Raphaela Guimarães | Milena Aires |
+| 1.1   | 08/12/2022 | Melhorias apontadas na entrega 2 | Vinícius Alves | |
