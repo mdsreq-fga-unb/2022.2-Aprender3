@@ -1,6 +1,6 @@
 # <center>Apresentações
 
-## 1. Introdução
+## Introdução
  Nesta página são apresentadas as gravações das apresentações dos pontos de controle da disciplina.
 
 ## Apresentação 1 - Planejamento, Listas de Sites Avaliados, Site Selecionado, Ferramentas, Processo de Design e Cronograma Detalhado
@@ -11,7 +11,7 @@ Problemas técnicos.
 
 ## Apresentação 3 - Análise de Requisitos: Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo
 
-### Histórico de Versão
+## Histórico de Versão
  
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|

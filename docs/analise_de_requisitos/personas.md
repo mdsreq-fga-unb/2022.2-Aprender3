@@ -1,20 +1,20 @@
 # <center>Personas
 
-## Introdução
+## 1. Introdução
   Uma persona é uma personagem fictícia, um arquétipo, baseado em dados reais de usuários, criada para descrever um usuário médio. As personas são definidas principalmente por suas vontades, objetivos e interesses que são captados devido a um processo de investigação inicial de atividades de usuários. Essa abordagem é útil para conduzir as decisões de projeto, para que os designers do produto mantenham o foco nos usuários, um dos pontos mais importante em um sistema de interação humano-computador. (Cooper et al. 2007; Pruitt e Adlin, 2006)
   
-## Metodologia
+## 2. Metodologia
   Para criar as personas, foram coletados, por meio de um formulário com termo de consentimento e perguntas em relação à experiência e uso do site, dados dos usuários do site Aprender3 e traçado o [Perfil de Usuário](https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/Analise%20de%20requisitos/perfil_do_usuario.md).
   
   Após essa etapa, os dados foram analisados e, com base neles, foram estruturadas as personas do projeto.
   
-## Objetivo
+## 3. Objetivo
   De acordo com Cooper, devemos projetar, de preferência, para uma única persona, pois quanto maior o grupo de usuários que está no escopo, mais obstáculos o projeto terá. 
 
   
-## Personas
+## 4. Personas
   
-### Persona primária
+### 4.1 Persona primária
 
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
@@ -68,7 +68,7 @@
 <p>Tabela 3: Persona secundária</p>
 </div>
   
-## Antipersona
+## 5. Antipersona
 |     |                                                                                   |               
 |:--- | --------------------------------------------------------------------------------- |
 |**Nome**| Joaquim Serpa Sampaio dos Santos Brasil |
@@ -84,7 +84,7 @@
 <p>Tabela 4: Antipersona</p>
 </div>
     
-## Referência
+## 6. Referência
 
 > Cooper, A.; Reimann, R.; Cronin, D. About Face 3: Th e Essentials of Interaction Design. New York, NY: John Wiley & Sons, 2007.
 
@@ -92,7 +92,7 @@
 
 > This Person Does Not Exist, 2022. Disponível em: <https://this-person-does-not-exist.com>. Acesso em: 7 de dezembro de 2022.
   
-## Histórico de versão
+## 7. Histórico de versão
 | Versão | Data       | Descrição             | Autor           | Revisor |
 | ------ | ---------- | --------------------- | ------------    |---------|
 | 1.0   | 07/12/2022 | Criação do documento  | Raphaela Guimarães | Milena Aires |

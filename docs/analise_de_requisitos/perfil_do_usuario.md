@@ -140,10 +140,10 @@ Foi verificado, ao final, sugestões de melhorias para o site. Assim poderíamos
 - Editar o texto, é difícil e ruim de se colocar fórmulas matemáticas;
 - Layout mais compreensível;
 
-## Referência
+## 5. Referência
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.Interação Humano-Computador e Experiência do usuário. 2021. Autopublicação. ISBN: 978-65-00-19677-1
 
-### Histórico de Versão
+## 6. Histórico de Versão
 
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
