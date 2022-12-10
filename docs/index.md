@@ -37,8 +37,6 @@ Este repositório destina-se à matéria de Interação Humano-Computador da Uni
 
 
 ### Histórico de versão
-
-
 | Data | Versão | Descrição | Autor(es)   | Revisor |
 | :--: | :----: | :-------: | :---------: | :-----: |
 | 22.11.2022 |  1.0 | Criação da página | Thiago Vivan | Igor Thiago  |
