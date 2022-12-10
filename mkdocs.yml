@@ -7,6 +7,14 @@ theme:
 nav:
         - Home: index.md
         - Planejamento:
+        - Sites avaliados:
+                        - Avaliação Câmara: planejamento/sites_avaliados/avaliacao_camara.md
+                        - Avaliacao Aprender 3: planejamento/sites_avaliados/avaliacao_aprender3.md
+                        - Avaliacao Detran: planejamento/sites_avaliados/avaliacao_detran.md
+                        - Planejamento Câmara: planejamento/sites_avaliados/planejamento_camara.md
+                        - Planejamento Aprender 3: planejamento/sites_avaliados/planejamento_aprender3.md
+                        - Planejamento INAS: planejamento/sites_avaliados/planejamento_inas.md
+                        - Planejamento INT: planejamento/sites_avaliados/planejamento_int.md
                 - Cronograma: planejamento/cronograma.md
                 - Metodologia: planejamento/metodologia.md
                 - Processo Design: planejamento/processo_design.md
