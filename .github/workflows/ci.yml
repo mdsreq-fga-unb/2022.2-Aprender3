@@ -1,9 +1,10 @@
 name: ci 
 on:
   push:
-    branches:
+    branches: 
       - master 
       - main
+      - GitHubPages
 jobs:
   deploy:
     runs-on: ubuntu-latest
