@@ -10,7 +10,7 @@ O guia de estilo tem como objetivo principal a comunicação entre equipes de de
 A organização desse guia de estilo será baseada nas estruturas recomendadas por Marcus (1992) e Mayhem (1999).
  
 ### 1.3 Público-alvo
- O público-alvo deste guia de estilo é a equipe de avaliadores, desenvolvedores, suporte e de design do website, assim como os integrantes do <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/#sobre-o-projeto">Grupo 7 (Aprender3)</a> que utilizarão o guia para fututos desenvolvimentos e documentações.
+O público-alvo deste guia de estilo é a equipe de avaliadores, desenvolvedores, suporte e de design do website, assim como os integrantes do <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/#sobre-o-projeto">Grupo 7 (Aprender3)</a> que utilizarão o guia para fututos desenvolvimentos e documentações.
  
 ### 1.4 Como utilizar
 Para utilizar este guia, basta seguir os tópicoe informações disponibilizadas. Utilizando sempre os elementos citados e seguindo as regras necessárias propostas nele.
