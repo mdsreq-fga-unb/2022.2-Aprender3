@@ -1,5 +1,8 @@
 site_name: Aprender 3
 
+extra_css: 
+        - assets/style.css
+
 theme:
   name: material
   language: pt
