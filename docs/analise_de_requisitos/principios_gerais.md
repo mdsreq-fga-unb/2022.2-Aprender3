@@ -62,11 +62,11 @@ A plataforma Aprender3 apresenta aos usuários expressões formais e padrões ad
 A plataforma Aprender3 possui mecanismos padronizados de recuperação de erros, que dependendo do tipo descreve o erro.
 
 
-## 5. Bibliografia
+## 3. Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-## 6. Histórico de Versão
+## 4. Histórico de Versão
  
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
-|11/12/2022  | 1.0 | Criação do documento dos Princípios gerais do projeto  | Rodolfo Cabral Neves  | Todo o grupo |
+|11/12/2022  | 1.0 | Criação do documento dos Princípios gerais do projeto  | Rodolfo Cabral | Thiago Vivan |

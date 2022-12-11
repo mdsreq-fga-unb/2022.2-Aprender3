@@ -31,7 +31,7 @@ A utilização das metas de usabilidade durante o projeto ajuda a solucionar pre
 > Irla Rabelo. Interação Homem Computador. Disponível em: https://irlabr.wordpress.com/apostila-de-ihc/parte-1-ihc-na-pratica/6-usabilidade-e-suas-metas/
 
 
-## 6. Histórico de Versão
+## 5. Histórico de Versão
  
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|

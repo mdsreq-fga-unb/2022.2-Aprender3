@@ -148,5 +148,5 @@ Foi verificado, ao final, sugestões de melhorias para o site. Assim poderíamos
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 | 07.12.2022 | 1.0 | Criação do documento de perfil do usuário | Milena Aires | Vinícius Alves |
-| 07.12.2022 | 1.1 | Exposição e análise dos resultados da pesquisa | Vinícius Alves |   |
-| 08.12.2022 | 1.2 | Melhorias apontadas na entrega 2 | Vinícius Alves |   |
+| 07.12.2022 | 1.1 | Exposição e análise dos resultados da pesquisa | Vinícius Alves | Milena Aires  |
+| 08.12.2022 | 1.2 | Melhorias apontadas na entrega 2 | Vinícius Alves | Igor Thiago |

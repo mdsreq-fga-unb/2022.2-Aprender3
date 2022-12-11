@@ -96,4 +96,4 @@
 | Versão | Data       | Descrição             | Autor           | Revisor |
 | ------ | ---------- | --------------------- | ------------    |---------|
 | 1.0   | 07/12/2022 | Criação do documento  | Raphaela Guimarães | Milena Aires |
-| 1.1   | 08/12/2022 | Melhorias apontadas na entrega 2 | Vinícius Alves | |
+| 1.1   | 08/12/2022 | Melhorias apontadas na entrega 2 | Vinícius Alves | Igor Thiago |

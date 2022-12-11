@@ -95,7 +95,7 @@ OP. 4.4: Clicar em Salvar Mudanças
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 | 06.12.2022 | 1.0 | Realização da Análise de Tarefas | Igor Thiago | Milena Aires |
-| 07.12.2022 | 1.1 | Padronizando histórico de versão | Milena Aires | Milena Aires |
+| 07.12.2022 | 1.1 | Padronizando histórico de versão | Milena Aires | Vinícius Alves |
 | 07.12.2022 | 1.2 | Adicionado o GOMS | Thiago Vivan | Igor Thiago |
  
  
