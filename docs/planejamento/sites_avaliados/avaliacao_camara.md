@@ -9,11 +9,9 @@ A Avaliação Heurística foi proposta por Nielsen e Molich em 1990, é um méto
 
 <br>
 
-<p align='center'>
-    <img width="85%" src="https://user-images.githubusercontent.com/77307847/206929849-8705e3d6-17c0-456b-8ba3-08ee1e516c08.png"/>
-</p>
+<center><img width="85%" src="https://user-images.githubusercontent.com/77307847/206929849-8705e3d6-17c0-456b-8ba3-08ee1e516c08.png"/></center>
 
-<p style="font-size:13px" align='center'>Figura 1 - Formulário de Heurística</p>
+<center>Figura 1 - Formulário de Heurística</center>
 
 ## Dados Coletados
 
