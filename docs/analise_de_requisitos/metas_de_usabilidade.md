@@ -12,7 +12,7 @@ A utilização das metas de usabilidade durante o projeto ajuda a solucionar pre
 | Segurança | Essa meta visa garantir que o usuário não passe por situações perigosas ou indesejáveis ao utilizar um produto/serviço | Quais são os possíveis erros ao utilizar seu produto e como os usuários podem corrigi-los facilmente?| 
 | Utilidade |O sistema deve fornecer ao usuário um conjunto apropriado de funções que são esperadas por ele. Significa oferecer o tipo certo de funcionalidade. | O produto permite que os usuários realizem todas as tarefas necessárias? Todas as funcionalidades do contexto estão incluídas? | 
 | Aprendizagem | É a capacidade de aprendizagem do usuário ao utilizar o sistema. O objetivo é fazer o usuário aprender a utilizar o sistema o mais rápido possível. | o sistema permite o aprendizado de uso facilmente? | 
-| Memorização | Tem como objetivo fazer com que o usuário se lembre de como utilizar o sistema depois de já te-lo aprendido | Que tipos de suporte de interface foram fornecidos com o objetivo de ajudar os usuários a lembrarem como realizar as tarefas, especialmente para produtos e operações que são utilizados com pouca frequência? | 
+| Memorização | Tem como objetivo fazer com que o usuário se lembre de como utilizar o sistema depois de já te-lo aprendido. | Que tipos de suporte de interface foram fornecidos com o objetivo de ajudar os usuários a lembrarem como realizar as tarefas, especialmente para produtos e operações que são utilizados com pouca frequência? | 
 
 
 ## 3. Resultados
@@ -28,5 +28,5 @@ A utilização das metas de usabilidade durante o projeto ajuda a solucionar pre
  
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
-| |  |   |    |                   |
+| 10.12.2022| 1.0 | Definindo as metas de usabilidade |  Igor Thiago  | Vinícius Alves |
  
