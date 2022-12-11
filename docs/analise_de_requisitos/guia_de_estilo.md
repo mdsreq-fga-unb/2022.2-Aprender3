@@ -18,15 +18,25 @@ Para utilizar este guia, basta seguir os tópicoe informações disponibilizadas
 ### 1.5 Como manter
 Para manter o guia, deve-se levar em conta os fundamentos de IHC para obter uma usabilidade de qualidade. Este guida visa melhorar a plataforma utilzando fundamentos e conhecimentos nesta área. Mesmo realizando refatorações neste documento, estas mudanças seguirem os princípios básicos, é o caminho correto. Caso contrário precise de material para se aprofundar neste conteúdo, verifique osconteúdos citados no tópico de bibliografia do final do documento. 
  
+## 2. Resultados de análise
  
-
-## 4. Conclusão
-
-
-## 5. Bibliografia
+ 
+## 3. Elementos de interface
+ 
+ 
+## 4. Elementos de interação
+ 
+ 
+## 5. Elementos de ação
+ 
+ 
+## 6.  Vocabulário e padrões
+ 
+ 
+## 7. Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-## 6. Histórico de Versão
+## 8. Histórico de Versão
  
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
