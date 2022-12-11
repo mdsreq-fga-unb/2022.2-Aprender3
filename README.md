@@ -8,7 +8,7 @@ Aprender3 - UnB
 
 ## Sobre o Projeto
 <p align="justify">
-Este repositório destina-se à matéria de Interação Humano-Computador da Universidade de Brasília. Possui o objetivo de analisar o site da <a href="https://upload.wikimedia.org/wikipedia/commons/d/d0/S%C3%ADmbolo_da_UnB.png">Aprender 3</a> utilizada pela Universidade de Brasília, aplicando métodos e conceitos aprendidos na disciplina e analisando melhorias para o site.
+Este repositório destina-se à matéria de Interação Humano-Computador da Universidade de Brasília. Possui o objetivo de analisar o site do <a href="https://upload.wikimedia.org/wikipedia/commons/d/d0/S%C3%ADmbolo_da_UnB.png">Aprender 3</a> utilizada pela Universidade de Brasília, aplicando métodos e conceitos aprendidos na disciplina e analisando melhorias para o site.
 <p/>
 
 ## Equipe
