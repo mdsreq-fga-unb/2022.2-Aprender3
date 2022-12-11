@@ -15,18 +15,26 @@ A utilização das metas de usabilidade durante o projeto ajuda a solucionar pre
 | Memorização | Tem como objetivo fazer com que o usuário se lembre de como utilizar o sistema depois de já te-lo aprendido. | Que tipos de suporte de interface foram fornecidos com o objetivo de ajudar os usuários a lembrarem como realizar as tarefas, especialmente para produtos e operações que são utilizados com pouca frequência? | 
 
 
-## 3. Resultados
+## 3. Metas no aprender 3
 
+- Segurança: Neste aspecto o site do aprender 3 falaha em permitir ao usuário reverter ações indesejadas facilmente. Um exemplo seria o usuário não conseguir sair de uma turma depois de entrar nela, mesmo se já tiver trancado a matéria e como consequência disso continua recebendo as notificações e atividades da matéria.
 
-## 4. Conclusão
+- Eficiência: Quando o site do aprender 3 está com um grande número de acessos simultâneos , o usuário tem muita dificuldade de manter sua alta produtividade na realização de tarefas. Por isso é nescessário que a capacidade de acessos simultâneos do site seja aumentada de acordo com a demanda, para que os usuários possam ter eficiência durante seu uso.
 
+- Utilidade: A funcionalidade da pesquisa de matérias não possúi um filtro e isso faz com que o usuário fique confuso, pois todas as matérias de todos os campos aparecem de uma vez. É preciso criar esse filtro para que o sistema forneça ao usuário as funções esperadas por ele.
 
-## 5. Bibliografia
+- Aprendizagem: De acordo com o questionário de perfil do usuário , temos que a plataforma não é muito intuitiva, ou seja , o usuário demora um pouco para aprender a utiliza-la. Por isso é nescessário que a plataforma tenha tutoriais de cada funcionalidade para que o usuário não tenha dificuldade de aprendeizado. 
+
+## 4. Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+> Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a.
+> Irla Rabelo. Interação Homem Computador. Disponível em: https://irlabr.wordpress.com/apostila-de-ihc/parte-1-ihc-na-pratica/6-usabilidade-e-suas-metas/
+
 
 ## 6. Histórico de Versão
  
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 | 10.12.2022| 1.0 | Definindo as metas de usabilidade |  Igor Thiago  | Vinícius Alves |
+| 11.12.2022| 1.1 | Metas de usabilidade no aprender 3 |  Igor Thiago  | Vinícius Alves |
  
