@@ -1,7 +1,5 @@
 #  <center>Planejamento de Avaliação -  Instituto de Assistência à Saúde dos Servidores do Distrito Federal
   
-
-  
 ## 1. Domínio
 O INAS – Instituto de Assistência à Saúde dos Servidores do Distrito Federal foi criado com o objetivo de oferecer um Plano de Saúde sem fins lucrativos para os servidores públicos do Distrito Federal e seus dependentes.
   
@@ -61,7 +59,7 @@ O escopo de avaliação do site se restringe à página inicial do portal e os l
 ## 4. Perfil de usuário
 Os usuários que utilizam o site são servidores públicos que possuem ou desejam possuir um convênio com o Plano de Saúde. Dentro das pessoas que já possuem adesão ao plano, são 67.552 beneficiários e dependentes ativos, além de 553 credenciados, de acordo com a atualização de 30/09/2022.
 
-## 5.Método
+## 5. Método
 O método escolhido para realizar a avaliação é o método de inspeção por meio das avaliações heurísticas. Segundo Nielsen, existem dez heurísticas principais e serão elas as exploradas:
 
 - Visibilidade e reconhecimento do estado ou contexto atual do sistema
@@ -78,7 +76,7 @@ O método escolhido para realizar a avaliação é o método de inspeção por m
 Esses serão os aspectos presentes na avaliação do site a fim de identificar oportunidades de melhoria e compreender se o mesmo atende aos usuários em termos práticos de uso.
 
 
-## Histórico de versão
+## 6. Histórico de versão
 
 |    Data    | Versão | Descrição            | Autor(es)          | Revisor      |
 | :--------: | :----: | :------------------: | :----------------: | :----------: |

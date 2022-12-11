@@ -1,28 +1,27 @@
 #  <center>Planejamento de Avaliação – Secretaria de Assuntos Internacionais 
 
-
-## 1. Definição do Escopo/ problema 
+## Definição do Escopo/Problema 
   
-## Introdução 
+## 1. Introdução 
 Avaliação de usabilidade para a sugestão de melhorias do site da Secretaria de Assuntos
 Internacionais - INT da Universidade de Braśilia - UnB.
   
-## Objetivos 
+## 2. Objetivos 
 - Examinar a usabilidade do corrente site na perpectiva dos estudantes.
 - Avaliar a efetividade de conteúdos apresentados no site.
 - Avaliação focada na vista, apresentação e implementação dos conteúdos.
 - Avaliar a facilidade na obtenção de informações de dupla diplomação e convênios.
   
-## 2. Exploração de Perguntas
-### Questões: 
+## 3. Exploração de Perguntas
+### 3.1 Questões: 
 - O usuário vai tentar atingir o efeito correto?
 - O usuário vai notar que a ação correta está disponível?
 - Se a ação for executada corretamente, o usuário vai perceber que está progredindo na direção de concluir a tarefa?
 
-## 3. Escolha dos Métodos de Avaliação a serem usados 
+## 4. Escolha dos Métodos de Avaliação a serem usados 
 O método de avaliação selecionado será por inspeção, especificamente o percurso cognitivo, e com base nisto só terá um único avaliador.
   
-## 4. Identificação as questões práticas
+## 5. Identificação as questões práticas
 - A avaliação será feita até as 21h do dia 14 de novembro.
 - Terá somente um avaliador para conduzir todo o processo.
 - Perfil de usuário: estudante de graduação da Universidade de Braśilia - UnB, .
@@ -35,10 +34,10 @@ Passos necessários para realizar a tarefa:
 2. Selecionar Convênio - Instruções gerais
 3. No canto direito da página clicar em Diplomação Múltipla
 
-## 5. Decisão das questões éticas
+## 6. Decisão das questões éticas
 É importante realçar as questões éticas durante um processo. 
 
-## 6. Avaliação, análise , interpretação e apresentação dos dados
+## 7. Avaliação, análise , interpretação e apresentação dos dados
 Nesta etada foi criada um formulário de avaliação para medir o desempenho, taxa de satisfação do
 usuário e o nível de complexidade do sistema pela utilização da tabela de especificação. Após isto tem a
 nota do usuário que aborda possíveis melhorias. Algunas perguntas são mencionadas como:
@@ -66,10 +65,8 @@ Legenda: 10 = Muito satisfeito, 1 = Muito insatisfeito
   
 O site deve melhorar o menu dropdown, que é sobreposto pelos outros elementos na página
 
-
-
-## Histórico de versão
+## 8. Histórico de versão
 
 |    Data    | Versão | Descrição            | Autor(es)       | Revisor            |
 | :--------: | :----: | :------------------: | :-------------: | :----------------: |
-| 19.11.2020 |  0.1   | Adição do documento  | Rodolfo Cabral  | Raphaela Guimarães |
+| 19.11.2020 |  1.0   | Adição do documento  | Rodolfo Cabral  | Raphaela Guimarães |

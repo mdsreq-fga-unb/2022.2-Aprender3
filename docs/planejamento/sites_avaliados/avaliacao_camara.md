@@ -17,38 +17,38 @@ A Avaliação Heurística foi proposta por Nielsen e Molich em 1990, é um méto
 
 ### 1. Visibilidade do status do sistema
 <br>
-<p align='center'>
+<center>
     <img width="85%" src="https://user-images.githubusercontent.com/77307847/206929851-02f8b341-0390-4344-ae01-61817e585dc1.png"/>
-</p>
+</center>
 
-<p style="font-size:13px" align='center'>Figura 2 - Status do sistema</p>
+<center>Figura 2 - Status do sistema</center>
 
 <br>
 
-<p align='center'>
+<center>
     <img width="85%" src="https://user-images.githubusercontent.com/77307847/206929855-763f6072-e1b5-4cdf-aa24-1f55326b2c50.png"/>
-</p>
+</center>
 
-<p style="font-size:13px" align='center'>Figura 3 - Formulário da heurística: visibilidade do status do sistema</p>
+<center>Figura 3 - Formulário da heurística: visibilidade do status do sistema</center>
 
 <br>
 
 ### 2. Reconhecimento em vez de memorização
 <br>
 
-<p align='center'>
+<center>
     <img width="85%" src="https://user-images.githubusercontent.com/77307847/206929864-b8cfed85-b4cd-4b84-a9e4-f8bcbece4b6e.png"/>
-</p>
+</center>
 
-<p style="font-size:13px" align='center'>Figura 4 - Tela inicial do site</p>
+<center>Figura 4 - Tela inicial do site</center>
 
 <br>
 
-<p align='center'>
+<center>
     <img width="85%" src="https://user-images.githubusercontent.com/77307847/206929869-2092628f-ff87-46d8-9514-6e6511b40216.png"/>
-</p>
+</center>
 
-<p style="font-size:13px" align='center'>Figura 5 - Formulário da heurística: Reconhecimento em vez de memorização (tela inicial)</p>
+<center>Figura 5 - Formulário da heurística: Reconhecimento em vez de memorização (tela inicial)</center>
 
 <br>
 
@@ -56,19 +56,19 @@ A Avaliação Heurística foi proposta por Nielsen e Molich em 1990, é um méto
 
 <br>
 
-<p align='center'>
+<center>
     <img width="85%" src="https://user-images.githubusercontent.com/77307847/206929873-88a5ea40-9d30-4820-b8ef-7af219cbbeef.png"/>
-</p>
+</center>
 
-<p style="font-size:13px" align='center'>Figura 6 - Tela de login para votação de enquetes</p>
+<center>Figura 6 - Tela de login para votação de enquetes</center>
 
 <br>
 
-<p align='center'>
+<center>
     <img width="85%" src="https://user-images.githubusercontent.com/77307847/206929875-dbf41e56-bb15-4c94-a364-8335d5f8b4be.png"/>
-</p>
+</center>
 
-<p style="font-size:13px" align='center'>Figura 7 -  Tela de login para solicitação de informações</p>
+<center>Figura 7 -  Tela de login para solicitação de informações</center>
 
 <br>
 

@@ -9,11 +9,7 @@ Para definir de maneira  mais favorável os horários das reuniões, de modo que
  ![ho](https://user-images.githubusercontent.com/77307847/203675718-99e661c4-0f29-4001-a186-6f3b9cc68e81.png)
  <figcaption align="center">Tabela 1 - Heatmap, Fonte(Raphaela Guimarãess, 2022)</figcaption>
 
-
- 
 ## 3. Cronograma
-
-
 O cronograma foi feito com uma representação visual das atividades planejadas pelo grupo, baseadas no plano de ensino disponibilizado pelo professor. Ele foi pensado de tal forma que as entregas possam ser feitas dentro do prazo estabelecido, mesmo que haja imprevistos, para possibilitar tomadas de medidas corretivas sem risco de atrasos.
 
 Para seguir corretamente o cronograma e de acordo com os horários disponíveis dos integrantes, coletado pelo docs e analisado pelo HeatMap, foi acordado que as reuniões de sprint serão às quartas 18h remotamente e as dailies serão após as aulas de IHC presencialmente.
@@ -34,10 +30,7 @@ Para seguir corretamente o cronograma e de acordo com os horários disponíveis 
 | Sprint 9 |  26.01 - 01.02 | *Entrega Final* |
 
 
-## Cronograma Detalhado
-
-
-
+## 4. Cronograma Detalhado
 | Data | Atividade | Autor | Revisor | Entrega |
 | :-------: | :-----: | :---: | :-----: | :-----: |
 | 22.11 | Criação da página da Wiki | Thiago vivan | Igor Thiago | Entrega 1 |
@@ -57,14 +50,12 @@ Para seguir corretamente o cronograma e de acordo com os horários disponíveis 
 | 07.12 | Revisão da entrega, gravação e envio do video de apresentação  | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Entrega 2 |
 
 
-## Bibliografia
+## 5. Bibliografia
+> SALES, André Barros. PLANO DE ENSINO, Faculdade UnB Gama - 02/2022. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=860907>
 
-[1] - SALES, André Barros. PLANO DE ENSINO, Faculdade UnB Gama - 02/2022. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=860907>
-
-## Histórico de versão
-
+## 6. Histórico de versão
 |    Data    | Versão | Descrição    | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------: | :--------: | :------: |
 | 18.11.2022 |  1.0   | Criação do documento e adição do cronograma | Milena Aires e Raphaela Guimarães | Raphaela Guimarães |
 | 06.12.2022 | 1.1 | Adicionadas referências bibliográficas e Introdução | Thiago Vivan Bastos | Igor Thiago |
-| 07.12.2022 | 1.1 | Adicionado Cronograma detalhado | Thiago Vivan Bastos | Igor Thiago |
+| 07.12.2022 | 1.2 | Adicionado Cronograma detalhado | Thiago Vivan | Igor Thiago |

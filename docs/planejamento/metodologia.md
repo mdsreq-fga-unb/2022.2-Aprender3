@@ -46,12 +46,10 @@ Que tem como objetivo conceber uma solução de IHC que atenda às metas de usab
 ### 12. Instalação
 Onde o designer deve coletar opiniões dos usuários depois de algum tempo de uso, as opiniões ser úteis para melhorar o sistema em versões futura ou necessidade de desenvolver novos sistemas não previstos.
 
-## Bibliografia
-Gilles B. de Paula; Tudo sobre Metodologia Scrum: o que é e como essa ferramenta pode te ajudar a poupar tempo e gerir melhor seus projetos; Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=860704>
+## 13. Bibliografia
+> Gilles B. de Paula; Tudo sobre Metodologia Scrum: o que é e como essa ferramenta pode te ajudar a poupar tempo e gerir melhor seus projetos; Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=860704>
 
-
-
-## Histórico de versão
+## 14. Histórico de versão
 |    Data    | Versão | Descrição    | Autor(es)    | Revisor            |
 | :--------: | :----: | :----------: | :----------: | :----------------: |
 | 18.11.2022 |  1.0   | Criação do documento e adição do cronograma | Milena Aires e Raphaela Guimarães | Raphaela Guimarães |

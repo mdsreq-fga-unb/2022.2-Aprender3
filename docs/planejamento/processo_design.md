@@ -18,9 +18,11 @@ Este documento tem por objetivo indicar os diferentes ciclos de intervenção �
 
 Baseando-se em uma visão holística,  o ciclo Mayhew — Proposto por Deborah Mayhew (1999) — reúne a organização de diferentes atividades propostas pela área de Interação Humano-Computador para orientar o trabalho do design. Apresenta três fases principais que devem ser seguidas durante o processo iterativo.
 
-<p align='center'>
+<center>
     <img width="80%" src="https://user-images.githubusercontent.com/77307847/203667451-8f9045a5-bff9-40fa-97d9-4abc18a1e1f0.png"/>
-</p>
+</center>
+<center>Figura 1 - Engenharia de Usabilidade Mayhew</center>
+
 
 - **Análise de requisitos:** a análise de requisitos configura a primeira fase do ciclo de Mayhew, onde são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e os princípios gerais de design do projeto.
 
@@ -45,10 +47,11 @@ De acordo com Jakob Nielsen (1993) , a engenharia de usabilidade visa o desenvol
 ### 3.3 Ciclo de Vida em Estrela
 Proposto por Hartson e Hix em 1989, o ciclo de vida em estrela, a sequência das atividades é decisão do designer, que leva em consideração os recursos disponíveis no momento de iniciar o projeto, se tornando flexível e exigindo experiência dos profissionais. O ciclo divide-se em quatro atividades principais:
 
-<p align='center'>
-    <img width="80%" src="https://user-images.githubusercontent.com/77307847/203668449-099b9600-3988-4540-a044-cfc9dc18ebc8.png"/>
-    
-</p>
+<center>
+    <img width="80%" src="https://user-images.githubusercontent.com/77307847/203668449-099b9600-3988-4540-a044-cfc9dc18ebc8.png"/>    
+</center>
+
+<center>Figura 2 - Ciclo de Vida em Estrela</center>
 
 - **Análise de tarefas, usuários e funções:** o objetivo é identificar e compreender os problemas da situação atual, levantamento das necessidades e das oportunidades de melhoria
 
@@ -65,14 +68,11 @@ Proposto por Hartson e Hix em 1989, o ciclo de vida em estrela, a sequência das
 
 Entre os modelos discutidos, o Ciclo de Mayhew foi avaliado como o modelo mais adequado para o projeto do site aprender 3. Pelo fato de seus artefatos serem mais completos e existir um direcionamento entre as etapas, todos os participantes do grupo julgaram este ser o modelo ideal a ser utilizado na disciplina de Interação Humano-Computador, sendo possível, a utilização de alguns artefatos de outros modelos, não se restringindo a um único modelo que pode se mostrar incompleto em algum dos processos do projeto.
 
-## Bibliografia
-BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
+## 5. Bibliografia
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
-Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
-
-
-
-## Histórico de versão
+## 6. Histórico de versão
 
 |    Data    | Versão | Descrição      | Autor(es)      | Revisor       |
 | :--------: | :----: | :------------: | :------------: | :-----------: |

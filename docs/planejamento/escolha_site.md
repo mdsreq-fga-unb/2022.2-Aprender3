@@ -27,9 +27,7 @@ Seguinda a avaliação feita da plataforma:
 
 Porém para uma melhor avaliação seria viável fazer uma pesquisa mais aprofundada dos erros encontrados e com mais avaliadores para obter mais dados para análise.
 
-
-
-## histórico de versão
+## 5. Histórico de versão
 |    Data    | Versão | Descrição    | Autor(es)    | Revisor            |
 | :--------: | :----: | :----------: | :----------: | :----------------: |
-| 23.11.2022 |  1.0   | Criação do documento de escolha do site  | Milena Aires | Vinícius Alves de Sousa |
+| 23.11.2022 |  1.0   | Criação do documento de escolha do site  | Milena Aires | Vinícius Alves |

@@ -1,7 +1,5 @@
 # Relatório de Avaliação - Aprender3
 
-
-
 O presente documento apresenta o relatório e resultados da avalição feita do site Aprender3. A plataforma é utilizada como ferramenta por discentes e docentes da UnB. Esse documento foi estruturado em quatro tópicos: no primeiro tópico apresenta o escopo e expõe o objetivo principal da avaliação. O segundo tópico trata sobre o método de IHC utilizado para fazer a avaliação. No terceiro tópico é apresentado os dados gerados. E o quarto tópico apresenta a conclusão da avaliação.
 
 ## 1. Escopo e Objetivos
@@ -176,9 +174,11 @@ Após a análise das entrevistas ficou evidente que os discentes encontram dific
 
 Um erro dessa avaliação foi não ter previsto que existiria alunos que nunca utilizaram a plataforma. Dessa maneira, os dados gerados pela entrevista 9 não foram úteis. Uma melhoria para uma futura avaliação é gerar alguns pré-requisitos para fazer parte da avaliação.
 
+## 5. Bibliografia
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
-
-## histórico de versão
+## 6. Histórico de versão
 
 | Data     |Versão|Descrição    | Autor(es)    | Revisor       |
 | :-------:|:----:|:-----------:| :----------: | :-----------: |

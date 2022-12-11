@@ -3,7 +3,7 @@
 
 ## 1. Domínio
   O site Aprender3 é um dos ambientes prestado e disponibilizado pela UnB (Universidade de Brasília), com o objetivo de servir de apoio tanto para alunos como também para professores a fim de auxiliar a ministração das disciplinas ofertadas pela UnB.
-  
+
   O Aprender 3 é uma nova versão do antigo moodle da UnB. O Conselho de Ensino, Pesquisa e Extensão (CEPE) recomenda a plataforma como Ambiente Virtual de aprendizagem durante o ensino remoto e também presencial. Muitos professores utilizam como uma grande ferramenta para avaliações, entrega de trabalhos, aulas auxiliares, etc.
   
   Nessa avaliação o escopo é voltado a utilização para as avaliações, entregas e aulas à alunos de graduação por meio do site do Aprender3.
@@ -81,13 +81,11 @@ Esses serão os aspectos presentes na avaliação do site a fim de identificar o
   
 ## 7. Bibliografia 
  
-- Site Aprender3 – Disponível em: https://aprender3.unb.br/login/index.php 
-- Capítulo 09 - Planejamento da avaliação de IHC – Livro IHC: Barbosa e Silva – Disponível em: https://aprender3.unb.br/pluginfile.php/2364752/mod_resource/content/5/Cap.%20Planejamento%20ihc-ux.pdf 
-- Artigo: Avaliação Heurística de Sítios na Web – Disponível em: https://aprender3.unb.br/pluginfile.php/2307207/mod_resource/content/1/Artigo%20Av%20Heur%C3%ADstica%20ac1_55.pdf
-      
+> Site Aprender3 – Disponível em: https://aprender3.unb.br/login/index.php 
+> Capítulo 09 - Planejamento da avaliação de IHC – Livro IHC: Barbosa e Silva – Disponível em: https://aprender3.unb.br/pluginfile.php/2364752/mod_resource/content/5/Cap.%20Planejamento%20ihc-ux.pdf 
+> Artigo: Avaliação Heurística de Sítios na Web – Disponível em: https://aprender3.unb.br/pluginfile.php/2307207/mod_resource/content/1/Artigo%20Av%20Heur%C3%ADstica%20ac1_55.pdf
 
 ## Histórico de versão
-
 |    Data    | Versão | Descrição            | Autor(es)       | Revisor            |
 | :--------: | :----: | :------------------: | :-------------: | :----------------: |
 | 19.11.2020 |  0.1   | Adição do documento  | Milena Aires    | Raphaela Guimarães |

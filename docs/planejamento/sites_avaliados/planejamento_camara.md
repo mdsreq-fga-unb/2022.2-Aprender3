@@ -12,28 +12,26 @@ As páginas do portal da Câmara tem como ambição atender às necessidades do 
 A missão do portal é prover ao cidadão amplo acesso às informações do Poder Legislativo e promover a participação popular no processo democrático.
 
 ## 2. Objetivos
-
 Levando em consideração que o serviço prestado pelo portal da câmara dos deputados procura atender todo cidadão que busca por esclarecimentos e participação nos processos democráticos do Poder Legislativo, deve-se atentar a diversidade de perfis de usuários que o sitío possuirá.
 Levando em consideração este cenário, será avaliado os seguintes objetivos com as suas respequitivas perguntas associadas.
 
-- 2.1 Analisar a apropriação da tecnologia
+### 2.1 Analisar a apropriação da tecnologia
   - Quanto tempo os usuários levam para atingir seus objetivos?
   - O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades?
   - O quanto eles são motivados a explorar novas funcionalidades?
   - Quais são os pontos fortes e fracos do sistema, na opinião dos usuários?
   - O quanto eles são motivados a explorar novas funcionalidades?
 
-- 2.2 Comparar ideias e alternativas de design
+### 2.2 Comparar ideias e alternativas de design
   - Qual design seria mais fácil e eficiente?
   - Qual design seria de maior aprendizado?
   - Qual delas os usuários preferem? Por quê?
 
-- 2.3 Verificar a conformidade com um padrão
+### 2.3 Verificar a conformidade com um padrão
   - O sistema está de acordo com os padrões de acessibilidade do W3C?
   - Os termos na interface seguem convenções estabelecidas no domínio?
 
-- 2.4 Identificar problemas na interação e interface
-
+### 2.4 Identificar problemas na interação e interface
 Considerando cada perfil de usuário esperado:
 - O usuário consegue operar o sistema?
 - Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?
@@ -62,7 +60,7 @@ No término da inspeção, a análise do material registrado atribuirá signific
 Levando em consideração os objetivos desse planejamento será utilizado o método de avaliação heurística, que foi proposto por Nielsen e Molich em 1990. É um método de inspeção que ajuda a identificar problemas de usabilidade em uma interface, por meio de um avaliador que se coloca no lugar do usuário e procura problemas na interface, levando em consideração os aspectos que podem impedir que o usuário realize o seu objetivo ou que apresente lentidão na realização da sua tarefa ou até mesmo uma reação negativa para o usuário. Será utilizado o formulário apresentado na Figura 1, quando um problema for encontrado.
 
 
-## histórico de versão
+## 6. Histórico de versão
 |    Data    | Versão | Descrição    | Autor(es)    | Revisor            |
 | :--------: | :----: | :----------: | :----------: | :----------------: |
 | xx |  1.0   | xx  | xx | xx |
