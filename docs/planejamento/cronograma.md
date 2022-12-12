@@ -1,7 +1,7 @@
 # Cronograma 
 
 ## 1. Introdução
-Com o objetivo de melhorar a organização e fazer o planejamento das entregas da disciplina, foi elaborado um HeatMap para falicitar a seleção de um horário para as reuniões da equipe. Bem como foi utilizado como referência o Plano de Ensino da disciplina[1] para a elaboração do cronograma de entregas.
+Com o objetivo de melhorar a organização e fazer o planejamento das entregas da disciplina, foi elaborado um HeatMap para falicitar a seleção de um horário para as reuniões da equipe. Bem como foi utilizado como referência o Plano de Ensino da disciplina para a elaboração do cronograma de entregas.
 
 ## 2. HeatMap
 Para definir de maneira  mais favorável os horários das reuniões, de modo que todos os integrantes possam estar presentes, foi feito um HeatMap, apresentado na Tabela 1, com os horários disponíveis do time.
@@ -9,46 +9,47 @@ Para definir de maneira  mais favorável os horários das reuniões, de modo que
  ![ho](https://user-images.githubusercontent.com/77307847/203675718-99e661c4-0f29-4001-a186-6f3b9cc68e81.png)
  <figcaption align="center">Tabela 1 - Heatmap, Fonte(Raphaela Guimarãess, 2022)</figcaption>
 
-## 3. Cronograma
-O cronograma foi feito com uma representação visual das atividades planejadas pelo grupo, baseadas no plano de ensino disponibilizado pelo professor. Ele foi pensado de tal forma que as entregas possam ser feitas dentro do prazo estabelecido, mesmo que haja imprevistos, para possibilitar tomadas de medidas corretivas sem risco de atrasos.
-
 Para seguir corretamente o cronograma e de acordo com os horários disponíveis dos integrantes, coletado pelo docs e analisado pelo HeatMap, foi acordado que as reuniões de sprint serão às quartas 18h remotamente e as dailies serão após as aulas de IHC presencialmente.
 
+## 3. Cronograma
+Nesta seção do documento é apresentado o cronograma geral das atividades para cada ponto de controle. Contém as atividades, datas de entrega, autor(es) e revisor(es).
 
-|   Sprint   | Período | Descrição            | 
-| :------------: | :---------: | :-------------------: | 
-| Sprint 0 |  17.11 - 23.11  | *Entrega 1*: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma detalhado das atividades do projeto |
-| Sprint 1 |  24.11 - 30.11 | *Entrega 2*: Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas, Personas e Análise de tarefas |
-| Sprint 2 |  01.12 - 07.12 | *Entrega 3*: Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: análise de requisitos) e características da plataforma para o projeto |
-| Sprint 3 |  08.12 - 14.12 | *Entrega 4*: Planejamento da Avaliação do Storyboard, o Planejamento do relato dos resultados da avaliação do Storyboard, Planejamento da Avaliação do Análise de tarefas e o planejamento do relato dos resultados da avaliação do Análise de tarefas |
-| Sprint 4 |  15.12 - 23.12 | *Entrega 5*: Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do Planejamento do relato dos resultados da avaliação do Protótipo de Papel |
-| - |  24.12 - 01.01 | Descanso! |
-| Sprint 5 |  02.01 - 04.01 | Organização para as próximas sprints |
-| Sprint 6 |  05.01 - 11.01 | *Entrega 7*: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |
-| Sprint 7 |  12.01 - 18.01 | *Entrega 6*: Verificação dos artefatos |
-| Sprint 8 |  19.01 - 25.01 | *Entrega 8*: Relato dos resultados do Protótipo de alta fidelidade |
-| Sprint 9 |  26.01 - 01.02 | *Entrega Final* |
+## Ponto de Controle 1
 
+|            Atividade             | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |     Revisor(es)      |
+| :------------------------------: | :--------------------: | :-----------------: | :------------------: | :------------------: |
+|     Lista de sites avaliados     | 18/11/2022 às 17:00 | 18/11/2022 às 23:00 | Vinícius Alves, Thiago Vivan, Rodolfo Cabral, Milena Aires, Igor Thiago, Raphaela Guimarães |
+| Site selecionado para disciplina | 19/11/2022 às 17:00 | 19/11/2022 às 23:00 | Milena Aires | Vinícius Alves |
+|     Criação do github pages      | 18/11/2022 às 17:00 | 18/11/2022 às 23:00 | Igor Thiago e Thiago Vivan | Nicolas |
+|      Ferramentas do projeto      | 18/11/2022 às 17:00 | 18/11/2022 às 23:00 | Rodolfo Cabral | Raphaela Guimarães |
+|     Cronograma de atividades     | 19/11/2022 às 17:00 | 19/11/2022 às 23:00 | Milena Aires | Rodolfo Cabral |
+|        Processo de design        | 20/11/2022 às 17:00 | 20/11/2022 às 23:00 | Vinícius Alves | Thiago Vivan |
+|           Metodologias           | 20/11/2022 às 17:00 | 20/11/2022 às 23:00 | Raphaela Guimarães | Igor Thiago |
+|     Gravação da apresentação     | 22/11/2022 às 17:00 | 22/11/2022 às 23:00 | Vinícius Alves, Thiago Vivan, Rodolfo Cabral, Milena Aires, Igor Thiago, Raphaela Guimarães | Vinícius Alves |
+|      Postar apresentação no YouTube | 23/11/2022 às 12:00 | 23/11/2022 às 22:00 | Vinícius Alves | Milena Aires |
 
-## 4. Cronograma Detalhado
-| Data | Atividade | Autor | Revisor | Entrega |
-| :-------: | :-----: | :---: | :-----: | :-----: |
-| 22.11 | Criação da página da Wiki | Thiago vivan | Igor Thiago | Entrega 1 |
-| 22.11 | Entrega do artefato Cronograma | Raphaela Guimarães | Milena Aires | Entrega 1 |
-| 22.11 | Entrega dos planejamentos de avaliação de site | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Entrega 1 |
-| 23.11 | Entrega das avaliações de sites e site escolhido | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Entrega 1 |
-| 23.11 | Entrega do artefato Ferramentas | Rodolfo Cabral | Igor Thiago | Entrega 1 |
-| 23.11 | Entrega do artefato Metodologia | Raphaela Guimarães | Milena Aires | Entrega 1 |
-| 23.11 | Entrega do artefato Processo de design | Vinícius Alves | Thiago Vivan | Entrega 1 |
-| 23.11 | Gravação do video e enviar entrega 1 | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Entrega 1 |
-| 03.12 | Organização e separação de responsabilidades | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Entrega 2 |
-| 06.12 | Correções da entrega 1 | Thiago Vivan | Igor Thiago | Entrega 2 |
-| 07.12 | Entrega do artefato Análise tarefas | Igor Thiago | Milena Aires | Entrega 2 |
-| 07.12 | Entrega do artefato Perfil do Usuário | :---: | :-----: | Entrega 2 |
-| 07.12 | Entrega do artefato Personas | Raphaela Guimarães | Thiago Vivan | Entrega 2 |
-| 07.12 | Entrega do artefato Aspéctos Éticos | :---: | :-----: | Entrega 2 |
-| 07.12 | Revisão da entrega, gravação e envio do video de apresentação  | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Milena Aires, Thiago vivan, Igor Thiago, Raphaela Guimarães, Vinícius Alves, Rodolfo Cabral | Entrega 2 |
+## Ponto de Controle 2
 
+|                   Atividade                    | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |  Revisor(es)   |
+| :--------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :-----------:  |
+| Aspectos éticos de pesquisa envolvendo pessoas |  28/11/2022 às 17:00   |     28/11/2022 às 22:00     |      Milena Aires    | Vinícius Alves |
+|               Pesquisa pelo Forms              |  29/11/2022 às 17:00   |     29/11/2022 às 22:00     |     Milena Aires     | Vinícius Alves |
+|               Perfil do Usuário                |  01/12/2022 às 17:00   |     01/11/2022 às 22:00     |    Vinícius Alves    |  Milena Aires  |
+|                    Personas                    |  02/12/2022 às 17:00   |     02/12/2022 às 22:00     |  Raphaela Guimarães  |   Igor Thiago  |
+|         Análise das tarefas do usuário         |  04/12/2022 às 17:00   |     04/11/2022 às 22:00     |      Igor Thiago     |  Thiago Vivan  |
+|             Gravação da apresentação           |  07/12/2022 às 20:00   |     07/11/2022 às 22:00     | Vinícius Alves, Thiago Vivan, Rodolfo Cabral, Milena Aires, Igor Thiago, Raphaela Guimarães | Vinícius Alves | Raphaela Guimarães |
+|   Postar apresentação no YouTube               |  07/12/2022 às 22:00   |     07/11/2022 às 23:00     |       Vinícius Alves       |    Thiago Vivan   |
+
+## Ponto de Controle 3
+
+|          Atividade           | Data Limite de Entrega | Data Limite Revisão |       Autor(es)        |  Revisor(es)  |
+| :--------------------------: | :--------------------: | :-----------------: | :--------------------: | :-----------: |
+| Princípios gerais do projeto |       11/12/2022 às 12:00       |     11/12/2022 às 20:00      |          Davi          |   Thiago Vivan e Rodolfo Cabral     |
+|     Metas de usabilidade     |       11/12/2022 às 12:00       |     11/12/2022 às 20:00      |     Lucas Gabriel      |   Igor Thiago e Vinícius Alves      |
+|        Guia de estilo        |       11/12/2022 às 12:00       |     11/12/2022 às 20:00      | Nicolas e Lucas Macedo |   Milena Aires e Raphaela Guimarães |
+|   Melhorias da entrega 2     |       11/12/2022 às 12:00       |     11/12/2022 às 20:00      | Nicolas e Lucas Macedo |   Vinícius Alves e Igor Thiago      |
+|   Gravação da apresentação   |       12/12/2022 às 20:00       |     12/12/2022 às 21:00      |  Vinícius Alves, Thiago Vivan, Rodolfo Cabral, Milena Aires, Igor Thiago, Raphaela Guimarães  |      Milena Aires      |
+|    Postar apresentação no YouTube    |       12/12/2022 às 22:00       |     12/12/2022 às 23:00      |        Vinícius Alves        |      Igor Thiago      |
 
 ## 5. Bibliografia
 > SALES, André Barros. PLANO DE ENSINO, Faculdade UnB Gama - 02/2022. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=860907>
@@ -59,3 +60,4 @@ Para seguir corretamente o cronograma e de acordo com os horários disponíveis 
 | 18.11.2022 |  1.0   | Criação do documento e adição do cronograma | Milena Aires e Raphaela Guimarães | Raphaela Guimarães |
 | 06.12.2022 | 1.1 | Adicionadas referências bibliográficas e Introdução | Thiago Vivan Bastos | Igor Thiago |
 | 07.12.2022 | 1.2 | Adicionado Cronograma detalhado | Thiago Vivan | Igor Thiago |
+| 10.12.2022 |  2.0   | Melhorada a visualização do cronograma | Vinícius Alves | Igor Thiago |
