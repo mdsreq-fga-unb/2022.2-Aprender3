@@ -37,18 +37,21 @@ A finalidade é de que o usuário possa preencher com informações para atingir
 O primeiro preenchimento de campo que observamos é logo ao entrar na plataforma que já é solicitado o login do usuário antes de ter acesso a qualquer informação.
  
  ![ho](https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/login_aprender.png)
+ 
  <figcaption align="center">Figura 1 - login Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
 #### 5.1.2 Procursa de turmas 
 Já dentro da plataforma, existe um campo em que é possível procurar por uma turma/ disciplina desejada. 
  
  ![ho](https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/search_courses.png)
+ 
  <figcaption align="center">Figura 2 - procura de turmas Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
 ### 5.1.3 Modificar Perfil 
 Na plataforma é possível encontrar diversos campos disponíveis para o usuário modificar seu perfil, como por exemplo: nome, sobrenome, endereço de email, etc.
  
  ![ho](https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/modificar_perfil.png)
+ 
  <figcaption align="center">Figura 3 - modificar perfil Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
 ### 5.2 Seleção
@@ -58,12 +61,14 @@ As opções de seleção e opções da plataforma disponíveis para o usuário.
 Logo na página inicial há um menu de seleções onde posso selicionar: início, painel, eventos e meus cursos.
  
  ![ho](https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/menu_selecao.png)
+ 
  <figcaption align="center">Figura 4 - menu Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
 #### 5.2.2 Meus cursos
 Apertando meus cursos no menu de seleção obtemos as turmas cadastradas do usuário onde é possível selecioná-las.
  
  ![ho](https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/meus_cursos.png)
+ 
  <figcaption align="center">Figura 5 - menu de cursos Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
  
