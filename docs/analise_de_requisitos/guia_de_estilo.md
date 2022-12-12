@@ -28,7 +28,30 @@ Para manter o guia, deve-se levar em conta os fundamentos de IHC para obter uma 
  
  
 ## 5. Elementos de ação
+Neste tópico será apresentado os elementos de ação presentes na plataforma <a href="https://aprender3.unb.br/login/index.php">Aprender 3</a>.
+
+### 5.1 Preenchimento de campos
+A finalidade é de que o usuário possa preencher com informações para atingir um objeitov, fazer alguma alteração e até mesmo com informações pessoais.
  
+#### 5.1.1 Login na plataforma
+O primeiro preenchimento de campo que observamos é logo ao entrar na plataforma que já é solicitado o login do usuário antes de ter acesso a qualquer informação.
+ 
+ ![ho](https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/login_aprender.png)
+ <figcaption align="center">Figura 1 - login Aprender3, Fonte (Apredender3, 2022)</figcaption>
+ 
+#### 5.1.2 Procursa de turmas 
+Já dentro da plataforma, existe um campo em que é possível procurar por uma turma/ disciplina desejada. 
+ 
+ ![ho](https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/search_courses.png)
+ <figcaption align="center">Figura 2 - procura de turmas Aprender3, Fonte (Apredender3, 2022)</figcaption>
+ 
+### 5.1.3 Modificar Perfil 
+Na plataforma é possível encontrar diversos campos disponíveis para o usuário modificar seu perfil, como por exemplo: nome, sobrenome, endereço de email, etc.
+ 
+ ![ho](https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/modificar_perfil.png)
+ <figcaption align="center">Figura 2 - modificar perfil Aprender3, Fonte (Apredender3, 2022)</figcaption>
+ 
+### 5.2 Seleção
  
 ## 6.  Vocabulário e padrões
  
@@ -40,5 +63,6 @@ Para manter o guia, deve-se levar em conta os fundamentos de IHC para obter uma 
  
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
-| 09.12.2022 | 1.0 | Criação do arquivo |    |                   |
+| 09.12.2022 | 1.0 | Criação do arquivo |   Milena Aires      | Raphaela guimarães |
+| 11.12.2022 | 1.1 | Adicição do tópico de introdução e elementos de seleção | Milena Aires | Raphaela Guimarães |
  
