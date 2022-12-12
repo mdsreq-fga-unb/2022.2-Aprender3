@@ -1,9 +1,9 @@
 # Cronograma 
 
-## 1. Introdução
+## Introdução
 Com o objetivo de melhorar a organização e fazer o planejamento das entregas da disciplina, foi elaborado um HeatMap para falicitar a seleção de um horário para as reuniões da equipe. Bem como foi utilizado como referência o Plano de Ensino da disciplina para a elaboração do cronograma de entregas.
 
-## 2. HeatMap
+## HeatMap
 Para definir de maneira  mais favorável os horários das reuniões, de modo que todos os integrantes possam estar presentes, foi feito um HeatMap, apresentado na Tabela 1, com os horários disponíveis do time.
 
  ![ho](https://user-images.githubusercontent.com/77307847/203675718-99e661c4-0f29-4001-a186-6f3b9cc68e81.png)
@@ -11,7 +11,7 @@ Para definir de maneira  mais favorável os horários das reuniões, de modo que
 
 Para seguir corretamente o cronograma e de acordo com os horários disponíveis dos integrantes, coletado pelo docs e analisado pelo HeatMap, foi acordado que as reuniões de sprint serão às quartas 18h remotamente e as dailies serão após as aulas de IHC presencialmente.
 
-## 3. Cronograma dos Pontos de Controle
+## Cronograma dos Pontos de Controle
 Nesta seção do documento é apresentado o cronograma geral das atividades para cada ponto de controle. Contém as atividades, datas de entrega, autor(es) e revisor(es).
 
 ## Ponto de Controle 1
@@ -130,10 +130,10 @@ Nesta seção do documento é apresentado o cronograma geral das atividades para
 |                 Gravação da apresentação                 |       29/01/2023 às 18:00      |     29/01/2023 às 22:00     | Vinícius , Thiago , Rodolfo , Milena , Igor, Raphaela | Vinícius |
 |            Postar apresentação no YouTube                |  29/01/2023 às 18:00   | 29/01/2023 às 22:00 |       Vinícius        |   Milena    |
 
-## 5. Bibliografia
+## Bibliografia
 > SALES, André Barros. PLANO DE ENSINO, Faculdade UnB Gama - 02/2022. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=860907>
 
-## 6. Histórico de versão
+## Histórico de versão
 |    Data    | Versão | Descrição    | Autor(es)  | Revisor  |
 | :--------: | :----: | :----------: | :--------: | :------: |
 | 18.11.2022 | 1.0 | Criação do documento e adição do cronograma | Milena  e Raphaela | Raphaela |
