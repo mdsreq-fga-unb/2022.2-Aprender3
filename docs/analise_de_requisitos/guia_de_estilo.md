@@ -137,7 +137,8 @@ Como citado acima, é visível que na _figura 1_ de login na plataforma, é prec
  
 ## 4.  Vocabulário e padrões
 ### 4.1 Terminologia
- 
+A plataforma tem um vocabulário de fácil entendimento e nada que fuja do entendimento do usuário. Sendo assim a terminologia é compreensível.
+  
 ### 4.2 Tela 
 A plataforma dá liberdade para que o usuário escolha a tela padrão de sua preferência, escolhendo tamanho da fonte e uma paleta de cores.
  
