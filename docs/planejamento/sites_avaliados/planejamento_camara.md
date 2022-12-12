@@ -63,4 +63,4 @@ Levando em consideração os objetivos desse planejamento será utilizado o mét
 ## 6. Histórico de versão
 |    Data    | Versão | Descrição    | Autor(es)    | Revisor            |
 | :--------: | :----: | :----------: | :----------: | :----------------: |
-| xx |  1.0   | xx  | xx | xx |
+| 19.11.2020 |  1.0   | Criação do documento  | Vinícius Alves | Thiago Vivan |
