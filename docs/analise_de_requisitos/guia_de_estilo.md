@@ -112,7 +112,14 @@ As ações de confirmação está indiretamente ligadas com as ação de campos 
 Como citado acima, é visível que na _figura 1_ de login na plataforma, é preciso confirmar logo após preencher os campos de login para dar continuidade a ação. Como também na _figura 4_ para confirmar a senha é preciso apertar o botão e assim se sucede por toda a plataforma.
  
 ## 6.  Vocabulário e padrões
+### 6.1 Terminologia
  
+### 6.2 Tela 
+A plataforma dá liberdade para que o usuário escolha a tela padrão de sua preferência, escolhendo tamanho da fonte e uma paleta de cores.
+ 
+ ![ho](../images/acessibilidade_padrao.png)
+ 
+ <figcaption align="center">Figura 11 - acessibilidade Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
 ## 7. Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
