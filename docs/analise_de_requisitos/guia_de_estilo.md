@@ -53,6 +53,8 @@ Na plataforma é possível encontrar diversos campos disponíveis para o usuári
  
 ### 5.2 Seleção
  
+### 5.3 Confirmação
+ 
 ## 6.  Vocabulário e padrões
  
  
