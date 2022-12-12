@@ -108,6 +108,8 @@ Quando é selecionado o perfil, é aberto um menu de diversas seleções que o u
  
  
 ### 5.3 Confirmação
+As ações de confirmação está indiretamente ligadas com as ação de campos de preenchimento.
+Como citado acima, é visível que na _figura 1_ de login na plataforma, é preciso confirmar logo após preencher os campos de login para dar continuidade a ação. Como também na _figura 4_ para confirmar a senha é preciso apertar o botão e assim se sucede por toda a plataforma.
  
 ## 6.  Vocabulário e padrões
  
