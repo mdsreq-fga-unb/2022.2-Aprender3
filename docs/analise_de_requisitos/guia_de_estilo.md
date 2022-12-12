@@ -36,7 +36,7 @@ A finalidade é de que o usuário possa preencher com informações para atingir
 #### 5.1.1 Login na plataforma
 O primeiro preenchimento de campo que observamos é logo ao entrar na plataforma que já é solicitado o login do usuário antes de ter acesso a qualquer informação.
  
- ![ho](https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/login_aprender.png)
+ ![ho](../images/login_aprender.png)
  
  <figcaption align="center">Figura 1 - login Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
