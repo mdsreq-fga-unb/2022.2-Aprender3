@@ -71,6 +71,29 @@ Apertando meus cursos no menu de seleção obtemos as turmas cadastradas do usu�
  
  <figcaption align="center">Figura 5 - menu de cursos Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
+#### 5.2.3 Chat
+ 
+  ![ho](../images/chat_selecao.png)
+ 
+ <figcaption align="center">Figura 6 - chat Aprender3, Fonte (Apredender3, 2022)</figcaption>
+ 
+#### 5.2.4 Linguagem
+ 
+ ![ho](../images/linguagem_selecao.png)
+ 
+ <figcaption align="center">Figura 7 - linguagem Aprender3, Fonte (Apredender3, 2022)</figcaption>
+ 
+#### 5.2.5 Notificações
+ 
+ ![ho](../images/notificacoes_selecao.png)
+ 
+ <figcaption align="center">Figura 8 - linguagem Aprender3, Fonte (Apredender3, 2022)</figcaption>
+ 
+#### 5.2.6 Opções do perfil
+ 
+ ![ho](../images/opcoesperfil_selecao.png)
+ 
+ <figcaption align="center">Figura 9 - linguagem Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
  
 ### 5.3 Confirmação
