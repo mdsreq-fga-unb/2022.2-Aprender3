@@ -40,7 +40,7 @@ De acordo aos princípios, a plataforma Aprender 3 oferece a liberdade a todas a
 
 Para facilitar o aprendizado e uso de um sistema, Norman (1988) recomenda assegurar a consistência da interface com o modelo conceitual embutido no sistema. A plataforma Aprender3 possui um layout bem padronizado, contendo ícones explicativos, que fazem com que o aprendizado do usuário seja mais efetivo.
 
-### 2.5 Promovendo a rﬁciência do usuário
+### 2.5 Promovendo a eﬁciência do usuário
 
 A plataforma Aprender3 possui um painel que nele apresenta todas as matérias acessadas recentemente. Possui também um lembrete de todas as atividades a serem entregues. Isto poupa o tempo e o esforço do usuário, fazendo com que o sistema seja mais eficiente.
 
