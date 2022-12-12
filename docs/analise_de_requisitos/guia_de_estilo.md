@@ -1,7 +1,7 @@
 # <center>Guia de Estilo
 
 ## 1. Introdução
-Este guia de estilo visa reunir princípios e diretrizes através de uma documentção. É documentada as decisões de design de forma que sejam utilizadas no processo de contrução do produto final em difentes ambiente, como por exemplo a plataforma utilizada.
+Este guia de estilo visa reunir princípios e diretrizes através de uma documentação. É documentada as decisões de design de forma que sejam utilizadas no processo de contrução do produto final em difentes ambiente, como por exemplo a plataforma utilizada.
 
 ### 1.1 Objetivo
 O guia de estilo tem como objetivo principal a comunicação entre equipes de design e equipes de desenvolvimento do produto. Sendo assim, de grande relevância que o guia de estilo esteja de fácil entendimento para consultas sobre próximas versões e extensões do produto.
@@ -19,13 +19,28 @@ Para utilizar este guia, basta seguir os tópicoe informações disponibilizadas
 Para manter o guia, deve-se levar em conta os fundamentos de IHC para obter uma usabilidade de qualidade. Este guida visa melhorar a plataforma utilzando fundamentos e conhecimentos nesta área. Mesmo realizando refatorações neste documento, estas mudanças seguirem os princípios básicos, é o caminho correto. Caso contrário precise de material para se aprofundar neste conteúdo, verifique osconteúdos citados no tópico de bibliografia do final do documento. 
  
 ## 2. Resultados de análise
+ 2.1 Layout
+ Como é possível ver na imagem 1, a estrutura do site é dividida em 5 partes: 
+ - Barra de navegação;
+ - Cabeçalho;
+ - Coluna;
+ - Miolo;
+ - Rodapé.
  
+ #Imagem1
  
-## 3. Elementos de interface
+ 2.2 Paleta de cores
+ Para desenvolver o site, foi utilizado como base a paleta de cores descrita no manual de identidade da UnB. Na imagem 2, é possível ver a paleta de cores do Aprender 3 gerada pelo site  [**Coolors**](https://coolors.co/).
+ <figcaption><center><i>Imagem 2: Cores do site Aprender 3</i></figcaption>
+#Imagem2
  
- 
-## 4. Elementos de interação
- 
+ 2.3 Tipografia
+  
+ 2.4 Ícones
+ | Ícone | Descrição |
+|----------------------|--------------------------|
+| ![](../assets/imagens/guiaEstilo/top1.gif)| **Domínio Público:** O ícone do domínio público é utilizado na barra do topo do site, presente em todas as telas. |
+
  
 ## 5. Elementos de ação
 Neste tópico será apresentado os elementos de ação presentes na plataforma <a href="https://aprender3.unb.br/login/index.php">Aprender 3</a>.
