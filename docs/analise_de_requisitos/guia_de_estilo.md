@@ -54,6 +54,13 @@ Na plataforma é possível encontrar diversos campos disponíveis para o usuári
  
  <figcaption align="center">Figura 3 - modificar perfil Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
+#### 5.1.4 Senha
+Para se matricular em uma turma é exigido uma senha que é disponibilizada pelo docente da disciplina.
+ 
+ ![ho](../images/senha_selecao.png)
+ 
+ <figcaption align="center">Figura 4 - senha para matrícula em turma Aprender3, Fonte (Apredender3, 2022)</figcaption>
+ 
 ### 5.2 Seleção
 As opções de seleção e opções da plataforma disponíveis para o usuário.
  
@@ -62,42 +69,42 @@ Logo na página inicial há um menu de seleções onde posso selicionar: início
  
  ![ho](../images/menu_selecao.png)
  
- <figcaption align="center">Figura 4 - menu Aprender3, Fonte (Apredender3, 2022)</figcaption>
+ <figcaption align="center">Figura 5 - menu Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
 #### 5.2.2 Meus cursos
 Apertando meus cursos no menu de seleção obtemos as turmas cadastradas do usuário onde é possível selecioná-las.
  
  ![ho](../images/meus_cursos.png)
  
- <figcaption align="center">Figura 5 - menu de cursos Aprender3, Fonte (Apredender3, 2022)</figcaption>
+ <figcaption align="center">Figura 6 - menu de cursos Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
 #### 5.2.3 Chat
 É possível selecionar um chat de mensagens com outros usuários na plataforma.
  
   ![ho](../images/chat_selecao.png)
  
- <figcaption align="center">Figura 6 - chat Aprender3, Fonte (Apredender3, 2022)</figcaption>
+ <figcaption align="center">Figura 7 - chat Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
 #### 5.2.4 Linguagem
 É possível selecionar a linguagem que o usuário deseja na plataforma dentre as opções possíveis.
  
  ![ho](../images/linguagem_selecao.png)
  
- <figcaption align="center">Figura 7 - linguagem Aprender3, Fonte (Apredender3, 2022)</figcaption>
+ <figcaption align="center">Figura 8 - linguagem Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
 #### 5.2.5 Notificações
 O usuário recebe uma notificação sempre que algo é alterado ou adicionado nas turmas em que faz parte, e assim selecionar a notificação desejada que irá ser exibida pela plataforma.
  
  ![ho](../images/notificacoes_selecao.png)
  
- <figcaption align="center">Figura 8 - notificações Aprender3, Fonte (Apredender3, 2022)</figcaption>
+ <figcaption align="center">Figura 9 - notificações Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
 #### 5.2.6 Opções do perfil
 Quando é selecionado o perfil, é aberto um menu de diversas seleções que o usuário pode interagir.
  
  ![ho](../images/opcoesperfil_selecao.png)
  
- <figcaption align="center">Figura 9 - opções do perfil Aprender3, Fonte (Apredender3, 2022)</figcaption>
+ <figcaption align="center">Figura 10 - opções do perfil Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
  
 ### 5.3 Confirmação
