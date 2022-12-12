@@ -87,13 +87,13 @@ Apertando meus cursos no menu de seleção obtemos as turmas cadastradas do usu�
  
  ![ho](../images/notificacoes_selecao.png)
  
- <figcaption align="center">Figura 8 - linguagem Aprender3, Fonte (Apredender3, 2022)</figcaption>
+ <figcaption align="center">Figura 8 - notificações Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
 #### 5.2.6 Opções do perfil
  
  ![ho](../images/opcoesperfil_selecao.png)
  
- <figcaption align="center">Figura 9 - linguagem Aprender3, Fonte (Apredender3, 2022)</figcaption>
+ <figcaption align="center">Figura 9 - opções do perfil Aprender3, Fonte (Apredender3, 2022)</figcaption>
  
  
 ### 5.3 Confirmação
