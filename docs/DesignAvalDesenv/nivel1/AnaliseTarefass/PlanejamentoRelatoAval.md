@@ -16,4 +16,4 @@ Durante as entrevistas, os estrevistadores devem obter conssetimento do usuário
 ## 5. Histórico de Versão
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
-| 06.12.2022 | 1.0 | Realização do Planejamento da Avaliação da Análise de Tarefas | Thiago Vivan | Igor Thiago |
+| 06.12.2022 | 1.0 | Realização do Planejamento da Avaliação da Análise de Tarefas | Milena Aires |  |
