@@ -6,11 +6,11 @@ De acordo com Barbosa[1], a avaliação de IHC é uma atividade fundamental em q
 
 ### 1.1 Por que avaliar?
 
-• os problemas de IHC podem ser corrigidos antes e não depois de o produto ser lançado;
-• a equipe de desenvolvimento pode se concentrar na solução de problemas reais, em vez de gastar tempo debatendo gostos e preferências particulares de cada membro da equipe a respeito do produto;
-• os engenheiros sabem construir um sistema interativo, mas não sabem e não estão em uma posição adequada para discutir sobre a qualidade de uso. Quem será o advogado do usuário para defender seus interesses durante o processo de desenvolvimento?;
-• o tempo para colocar o produto no mercado diminui, pois os problemas de IHC são corrigidos desde o início do processo de desenvolvimento, assim que aparecem, exigindo menos tempo e esforço para serem corrigidos;
-• identificar e corrigir os problemas de IHC permitem entregar um produto mais robusto, ou seja, a próxima versão corretiva não precisa já começar a ser desenvolvida no momento do lançamento do produto no mercado.
+• os problemas de IHC podem ser corrigidos antes e não depois de o produto ser lançado;  
+• a equipe de desenvolvimento pode se concentrar na solução de problemas reais, em vez de gastar tempo debatendo gostos e preferências particulares de cada membro da equipe a respeito do produto;  
+• os engenheiros sabem construir um sistema interativo, mas não sabem e não estão em uma posição adequada para discutir sobre a qualidade de uso. Quem será o advogado do usuário para defender seus interesses durante o processo de desenvolvimento?;  
+• o tempo para colocar o produto no mercado diminui, pois os problemas de IHC são corrigidos desde o início do processo de desenvolvimento, assim que aparecem, exigindo menos tempo e esforço para serem corrigidos;  
+• identificar e corrigir os problemas de IHC permitem entregar um produto mais robusto, ou seja, a próxima versão corretiva não precisa já começar a ser desenvolvida no momento do lançamento do produto no mercado.  
 
 ## 2. Framework DECIDE
 
@@ -20,7 +20,7 @@ Esse framework serve para conduzir o planejamento da avaliação de acordo com s
 **E** - Explorar perguntas a serem respondidas com a avaliação.  
 **C** - Escolher (Choose) os métodos de avaliação a serem utilizados.  
 **I** - Identificar e administrar as questões práticas da avaliação.  
-**D** - Decidir como lidar com as questões éticas. 
+**D** - Decidir como lidar com as questões éticas.  
 **E** - Avaliar (Evaluate), interpretar e apresentar os dados.  
 
 ### 2.1 Determinar os objetivos da avaliação de IHC.
