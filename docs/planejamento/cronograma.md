@@ -16,6 +16,8 @@ Nesta seção do documento é apresentado o cronograma geral das atividades para
 
 ## Ponto de Controle 1
 
+Data: 23/11/2022, 23:59
+
 |            Atividade             | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |     Revisor(es)      |
 | :------------------------------: | :--------------------: | :-----------------: | :------------------: | :------------------: |
 |     Lista de sites avaliados     | 18/11/2022 às 17:00    | 18/11/2022 às 23:00 | Vinícius , Thiago , Rodolfo , Milena , Igor, Raphaela | Milena  e Thiago |
@@ -31,6 +33,8 @@ Nesta seção do documento é apresentado o cronograma geral das atividades para
 
 ## Ponto de Controle 2
 
+Data: 08/12/2022, 23:59
+
 |                   Atividade                    | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |  Revisor(es)   |
 | :--------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :-----------:  |
 | Aspectos éticos de pesquisa envolvendo pessoas |  28/11/2022 às 17:00   |     28/11/2022 às 22:00     |      Milena     | Vinícius  |
@@ -44,6 +48,8 @@ Nesta seção do documento é apresentado o cronograma geral das atividades para
 
 ## Ponto de Controle 3
 
+Data: 12/12/2022, 23:59
+
 |          Atividade           | Data Limite de Entrega | Data Limite Revisão |       Autor(es)        |  Revisor(es)  |
 | :--------------------------: | :--------------------: | :-----------------: | :--------------------: | :-----------: |
 | Princípios gerais do projeto |       11/12/2022 às 12:00       |     11/12/2022 às 20:00      |  Thiago  e Rodolfo   |   Raphaela   |
@@ -55,6 +61,8 @@ Nesta seção do documento é apresentado o cronograma geral das atividades para
 
 
 ## Ponto de Controle 4
+
+Data: 14/12/2022, 23:59
 
 |                                Atividade                   | Data Limite de Entrega         | Data Limite Revisão       |      Autor(es)       |  Revisor(es)  |
 | :--------------------------------------------------------: | :----------------------------: | :-----------------------: | :------------------: | :-----------: |
@@ -70,6 +78,8 @@ Nesta seção do documento é apresentado o cronograma geral das atividades para
 
 ## Ponto de Controle 5
 
+Data: 21/12/2022, 23:59
+
 |                                Atividade                                | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |  Revisor(es)  |
 | :---------------------------------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :-----------: |
 |                   Relato dos resultados do Storyboard                   |  17/12/2022 às 19:00   | 18/12/2022 às 18:00 | Milena  e Rodolfo    | Vinícius  |
@@ -83,6 +93,8 @@ Nesta seção do documento é apresentado o cronograma geral das atividades para
 
 ## Ponto de Controle 6
 
+Data: 11/01/2023, 23:59
+
 |                                     Atividade                                      | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       | Revisor(es) |
 | :--------------------------------------------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :---------: |
 |                    Relato dos resultados do Protótipo de Papel                     |  22/12/2023 às 19:00   | 09/01/2023 às 18:00 | Milena  e Raphaela |    Thiago      |
@@ -93,6 +105,8 @@ Nesta seção do documento é apresentado o cronograma geral das atividades para
 
 
 ## Ponto de Controle 7
+
+Data: 18/01/2023, 23:59
 
 |                        Atividade                         |     Data Limite de Entrega     |      Data Limite Revisão    |      Autor(es)       |  Revisor(es)  |
 | :------------------------------------------------------: | :----------------------------: | :-------------------------: | :------------------: | :-----------: |
@@ -112,6 +126,8 @@ Nesta seção do documento é apresentado o cronograma geral das atividades para
 
 ## Ponto de Controle 8
 
+Data: 25/01/2023, 23:59
+
 |                             Atividade                              |      Data Limite de Entrega    |      Data Limite Revisão    |      Autor(es)       | Revisor(es)  |
 | :----------------------------------------------------------------: | :----------------------------: | :-------------------------: | :------------------: | :----------: |
 | Relato dos resultados da avaliação do protótipo de alta fidelidade |       19/01/2023 às 19:00      |     20/01/2023 às 12:00     |     Thiago e Milena  |   Raphaela   |
@@ -122,6 +138,8 @@ Nesta seção do documento é apresentado o cronograma geral das atividades para
 
 
 ## Entrega Final
+
+Data: 01/02/2023, 23:59
 
 |                        Atividade                         |      Data Limite de Entrega    |     Data Limite Revisão     |         Autor(es)         | Revisor(es) |
 | :------------------------------------------------------: | :----------------------------: | :-------------------------: | :-----------------------: | :---------: |
@@ -141,3 +159,4 @@ Nesta seção do documento é apresentado o cronograma geral das atividades para
 | 07.12.2022 | 1.2 | Adicionado Cronograma detalhado | Thiago  | Igor |
 | 10.12.2022 | 2.0 | Melhorada a visualização do cronograma | Vinícius  | Igor |
 | 11.12.2022 | 2.1 | Adicionado o cronograma dos demais pontos de controle | Vinícius  | Igor |
+| 13.12.2022 | 2.3 | Adicionado ao cronograma as datas dos pontos de controle | Vinícius  | Igor |
