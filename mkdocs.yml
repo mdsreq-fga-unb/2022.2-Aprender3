@@ -31,6 +31,11 @@ nav:
                 - Princípios Gerais do Projeto: analise_de_requisitos/principios_gerais.md
                 - Guia de Estilo: analise_de_requisitos/guia_de_estilo.md
                 - Aspectos Éticos: analise_de_requisitos/aspectos_eticos.md
+        - Design, Avaliação e Desenvolvimento:
+                - Nivel 1:
+                        - Análise de tarefas: 
+                                - Planejamento da Avaliação de Análise de tarefas: DesignAvalDesenv/nivel1/AnaliseTarefass/PlanejamentoAval.md
+                                - Planejamento do Relato dos resultados da Avaliação de Análise de tarefas: DesignAvalDesenv/nivel1/AnaliseTarefass/PlanejamentoRelatoAval.md
         - Apresentações: apresentacoes.md
         - Atas:
                 - 17/11/2022: atas/reuniao-17-11-2022.md
