@@ -97,4 +97,4 @@ Após a conclusão de cada entrevista, o avaliador deverá elaborar o relatório
 
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
-|14/12/2022  | 1.0 | Criação do documento| Vinícius e Raphaela Guimarães | Raphaela Guimarães |
+|14/12/2022  | 1.0 | Criação do documento| Vinícius Alves e Raphaela Guimarães | Raphaela Guimarães |
