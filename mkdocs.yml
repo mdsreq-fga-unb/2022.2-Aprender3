@@ -34,13 +34,11 @@ nav:
         - Design, Avaliação e Desenvolvimento:
                 - Nivel 1:
                         - Storyboard:
-                                - Planejamento da Avaliação: DesignAvalDesenv/nivel1/storyboard/planejamentoAvaliaStorybook.md
+                                - Planejamento da Avaliação: DesignAvalDesenv/nivel1/storyboard/planeja_avalia_storyboard.md
                                 - Planejamento do Relato de Resultados: DesignAvalDesenv/nivel1/storyboard/relato_resultados.md
                         - Análise de Tarefas: 
                                 - Planejamento da Avaliação: DesignAvalDesenv/nivel1/analiseTarefass/PlanejamentoAval.md
                                 - Planejamento do Relato dos Resultados: DesignAvalDesenv/nivel1/analiseTarefass/PlanejamentoRelatoAval.md
-                        
-
         - Apresentações: apresentacoes.md
         - Atas:
                 - 17/11/2022: atas/reuniao-17-11-2022.md
