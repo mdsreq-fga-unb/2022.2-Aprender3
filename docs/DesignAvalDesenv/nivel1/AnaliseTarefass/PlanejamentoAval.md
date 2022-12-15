@@ -80,6 +80,25 @@ O questionário contará com um termo de consentimento, disponibilizado antes do
 
 Antes dos resultados finais da análise será feita uma avaliação acerca do qual confiável e verossímeis são os dados coletados.
 
+## 3. Cronograma
+
+O cronograma abaixo define as datas e horarios que serão realizadas as entrevistas com duração de no máximo 20 minutos.
+
+| Data e horário | Atividade | Autor(es) | Revisor(es) |
+| :-: | - | - | - |
+| 18/12/2022 <br> às 10:00 | Execução do teste piloto | Igor Thiago | Thiago Vivan |
+| 19/12/2022 <br> às 09:00 | Entrevista com o usuário | Milena | Raphaela |
+| 19/12/2022 <br> às 09:30 | Entrevista com o usuário | Milena | Raphaela |
+| 19/12/2022 <br> às 11:00 | Entrevista com o usuário | Igor Thiago | Thiago Vivan |
+| 19/12/2022 <br> às 11:30 | Entrevista com o usuário | Igor Thiago | Thiago Vivan |
+| 19/12/2022 <br> às 13:00 | Entrevista com o usuário | Thiago Vivan | Igor Thiago |
+| 19/12/2022 <br> às 13:30 | Entrevista com o usuário | Thiago Vivan | Igor Thiago |
+| 19/12/2022 <br> às 14:00 | Entrevista com o usuário | Vinícius | Rodolfo |
+| 19/12/2022 <br> às 14:30 | Entrevista com o usuário | Vinícius | Rodolfo |
+| 19/12/2022 <br> às 15:00 | Entrevista com o usuário | Raphaela | Milena |
+| 19/12/2022 <br> às 15:30 | Entrevista com o usuário | Raphaela | Milena |
+| 19/12/2022 <br> às 16:00 | Entrevista com o usuário | Rodolfo | Vinícius |
+| 19/12/2022 <br> às 16:30 | Entrevista com o usuário| Rodolfo | Vinícius |
 
 ## 4. Bibliografia
  [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
@@ -88,4 +107,5 @@ Antes dos resultados finais da análise será feita uma avaliação acerca do qu
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 | 06.12.2022 | 1.0 | Realização do Planejamento da Avaliação da Análise de Tarefas | Thiago Vivan | Igor Thiago |
+| 06.12.2022 | 1.1 | Adicionado o cronograma | Igor Thiago | Thiago Vivan |
 
