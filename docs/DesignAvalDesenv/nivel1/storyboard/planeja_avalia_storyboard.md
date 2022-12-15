@@ -9,10 +9,15 @@ Utilizaremos essa técnica para descrevermos o progresso do usuário na realiza�
 Selecionamos o framework DECIDE, para orientar o planejamento, a execução e a análise da avaliação. Para isso seguimos as instruções dados no próprio acrônimo “DECIDE”,  segue sua definição:
 
 D: Determinar os objetivos gerais da avaliação e identificar por que e para quem tais objetivos são importantes.
+
 E: Explorar perguntas a serem respondidas com a avaliação.
+
 C: Escolher os métodos de avaliação a serem utilizados.
+
 I: Identificar e administrar as questões práticas da avaliação.
+
 D: Decidir como lidar com as questões éticas.
+
 E: Avaliar, interpretar e apresentar os dados.
 
 ## 2. Objetivos
