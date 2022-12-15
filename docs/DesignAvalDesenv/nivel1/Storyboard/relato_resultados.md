@@ -1,10 +1,13 @@
 # Planejamento do relato de resultados da avaliação do Storyboard
 
-## Introdução
+## 1. Introdução
 
 Uma vez concluída a interpretação individual dos dados coletados, seja das previsões dos avaliadores ou das observações das experiências de uso dos participantes, os resultados individuais são consolidados e analisados em conjunto, em uma análise denominada de intersujeito ou interparticipante (Nicolaci-da-Costa, 1994; Nicolaci da Costa et al., 2004).
 
-## Elementos que constituem o planejamento do relato de resultados da avaliação do Storyboard
+## 2. Objetivos
+O objetivo dos avaliadores na avaliação é criar um relatório que destaque as áreas de melhoria e elogios por meio da análise dos resultados do storyboard.
+
+## 3. Metodologia
 
 Após a execução da avaliação, os avaliadores deverão elaborar um relato de resultados, contendo os itens especificados a seguir:
 
@@ -26,3 +29,4 @@ Após a execução da avaliação, os avaliadores deverão elaborar um relato de
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 |14/12/2022  | 1.0 | Criação do documento dos Princípios gerais do projeto  | Rodolfo Cabral | Thiago Vivan |
+|14/12/2022  | 1.1 | Criação do documento dos Princípios gerais do projeto  | Raphaela Guimarães | Milena Aires |
