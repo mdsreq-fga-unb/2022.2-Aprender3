@@ -20,11 +20,11 @@ Após a execução da avaliação, os avaliadores deverão elaborar um relato de
  * Um planejamento para o reprojeto do sistema.
 
 
-# Bibliografia
+## Bibliografia
 
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
-# Histórico de Versão
+## Histórico de Versão
 
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
