@@ -69,7 +69,7 @@ Dessa forma, estaremos utilizando o método de investigação, por meio de um qu
 
 O questionário será desenvolvido pelo grupo atravéz do google forms, uma vez que é uma plataforma de fácil acesso e utilização. Sua distribuição será feita por meio de postagens em grupos(de estudantes e funcionários da Universidade de Brasília, de acordo com o nosso Perfil de usuário) em redes sociais.
 
-O questionário terá como objetivo uma participação mínima de 30 participantes. Foi escolhido esse número de participantes por ser um objetivo cabível de ser alcançado, e ser suficiente para as análises do projeto.
+O questionário terá como objetivo uma participação mínima de 12 participantes. Foi escolhido esse número de participantes por ser um objetivo cabível de ser alcançado, e ser suficiente para as análises do projeto.
 
 ### 2.5 Decidir como lidar com as questões éticas.
 
