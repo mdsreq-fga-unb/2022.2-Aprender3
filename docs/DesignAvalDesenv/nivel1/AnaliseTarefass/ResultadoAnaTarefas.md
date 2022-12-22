@@ -174,7 +174,7 @@ Os resultados das entrevistas serão dispostos nas tabelas 1 a 12 a seguir;
 
 | Questão | Pergunta | Resposta |
 | :-----: | :------: | :------: |
-| 1 | Qual a sua faixa etária? | [] Menor de 18<br>[] Entre 18 e 20<br>[X] Entre 21 e 25<br>[] Entre 26 e 30<br>[] Acima de 30 |
+| 1 | Qual a sua faixa etária? | [] Menor de 18<br>[] Entre 18 e 20<br>**[X] Entre 21 e 25**<br>[] Entre 26 e 30<br>[] Acima de 30 |
 | 2 | Você tem/já teve alguma dificuldade em realizar a procura de uma matéria? | **[X] Sim**<br>[] Não |
 | 3 | Caso tenha respondido Sim para a Pergunta 2, qual o fator que dificulta essa tarefa? | "Os nomes das matérias não são padronizados" |
 | 4 | Você tem/já teve alguma dificuldade em realizar matricula em alguma disciplina?  |  **[X] Sim**<br>[] Não  |
@@ -196,19 +196,19 @@ Os resultados das entrevistas serão dispostos nas tabelas 1 a 12 a seguir;
 
 | Questão | Pergunta | Resposta |
 | :-----: | :------: | :------: |
-| 1 | Qual a sua faixa etária? | [] Menor de 18<br>[] Entre 18 e 20<br>[] Entre 21 e 25<br>[] Entre 26 e 30<br>[] Acima de 30 |
-| 2 | Você tem/já teve alguma dificuldade em realizar a procura de uma matéria? | [] Sim<br>[] Não |
-| 3 | Caso tenha respondido Sim para a Pergunta 2, qual o fator que dificulta essa tarefa? | Sem resposta |
-| 4 | Você tem/já teve alguma dificuldade em realizar matricula em alguma disciplina?  |  [] Sim<br>[] Não  |
+| 1 | Qual a sua faixa etária? | [] Menor de 18<br>[] Entre 18 e 20<br>**[X] Entre 21 e 25**<br>[] Entre 26 e 30<br>[] Acima de 30 |
+| 2 | Você tem/já teve alguma dificuldade em realizar a procura de uma matéria? | [X] Sim<br>[] Não |
+| 3 | Caso tenha respondido Sim para a Pergunta 2, qual o fator que dificulta essa tarefa? | Os nomes de disciplina não tem padrão |
+| 4 | Você tem/já teve alguma dificuldade em realizar matricula em alguma disciplina?  |  [] Sim<br>[X] Não  |
 | 5 | Caso tenha respondido Sim para a Pergunta 4, qual o fator que dificulta essa tarefa? | Sem resposta |
-| 6 | Na sua opinião, quão intuitiva é a plataforma Aprender 3? | [] Muito intuitiva<br>[] Razoavelmente Intuitiva<br>[] Pouco intuitiva<br>[] Nada intuitiva |
-| 7 | Você se sente confortável com o modo em que as informações/funcionalidades estão dispostas na interface?  | [] Sim<br>[] Não  |
+| 6 | Na sua opinião, quão intuitiva é a plataforma Aprender 3? | [] Muito intuitiva<br>[] Razoavelmente Intuitiva<br>[X] Pouco intuitiva<br>[] Nada intuitiva |
+| 7 | Você se sente confortável com o modo em que as informações/funcionalidades estão dispostas na interface?  | [X] Sim<br>[] Não  |
 | 8 | Caso tenha respondido Não para a Pergunta 7, o que você acha que poderia mudar no design?  | Sem resposta |
-| 9 | Você tem/já teve dificuldade em enviar tarefas/trabalhos na plataforma? | [] Sim<br>[] Não |
-| 10 | Caso tenha respondido Sim para a Pergunta 9, qual foi a dificuldade | Sem resposta |
-| 11 | Você já utilizou o recurso de chat da plataforma? | [] Sim<br>[] Não |
-| 12 | Qual funcionalidade/recurso você gostaria presente na plataforma? | Sem resposta |
-| 13 | Quão satisfeito você está com a plataforma? | [] Muito satisfeito<br>[] Razoavelmente satisfeito<br>[] Pouco satisfeito<br>[] Nada satisfeito |
+| 9 | Você tem/já teve dificuldade em enviar tarefas/trabalhos na plataforma? | [X] Sim<br>[] Não |
+| 10 | Caso tenha respondido Sim para a Pergunta 9, qual foi a dificuldade | "Para substituir um documento que já foi enviado pelo outro, a plataforma da muita volta" |
+| 11 | Você já utilizou o recurso de chat da plataforma? | [] Sim<br>[x] Não |
+| 12 | Qual funcionalidade/recurso você gostaria presente na plataforma? | "Uma funcionalidade para listar todos os trabalhos enviados duma determinada matéria" |
+| 13 | Quão satisfeito você está com a plataforma? | [] Muito satisfeito<br>[X] Razoavelmente satisfeito<br>[] Pouco satisfeito<br>[] Nada satisfeito |
 
 <div style="text-align: center">
 <p>Tabela 9: Respostas do Usuário 9</p>
@@ -218,7 +218,7 @@ Os resultados das entrevistas serão dispostos nas tabelas 1 a 12 a seguir;
 
 | Questão | Pergunta | Resposta |
 | :-----: | :------: | :------: |
-| 1 | Qual a sua faixa etária? | [] Menor de 18<br>[] Entre 18 e 20<br>[] Entre 21 e 25<br>[] Entre 26 e 30<br>[] Acima de 30 |
+| 1 | Qual a sua faixa etária? | [] Menor de 18<br>[] Entre 18 e 20<br>[] Entre 21 e 25<br>**[X] Entre 26 e 30**<br>[] Acima de 30 |
 | 2 | Você tem/já teve alguma dificuldade em realizar a procura de uma matéria? | [] Sim<br>[] Não |
 | 3 | Caso tenha respondido Sim para a Pergunta 2, qual o fator que dificulta essa tarefa? | Sem resposta |
 | 4 | Você tem/já teve alguma dificuldade em realizar matricula em alguma disciplina?  |  [] Sim<br>[] Não  |
@@ -240,19 +240,19 @@ Os resultados das entrevistas serão dispostos nas tabelas 1 a 12 a seguir;
 
 | Questão | Pergunta | Resposta |
 | :-----: | :------: | :------: |
-| 1 | Qual a sua faixa etária? | [] Menor de 18<br>[] Entre 18 e 20<br>[] Entre 21 e 25<br>[] Entre 26 e 30<br>[] Acima de 30 |
-| 2 | Você tem/já teve alguma dificuldade em realizar a procura de uma matéria? | [] Sim<br>[] Não |
-| 3 | Caso tenha respondido Sim para a Pergunta 2, qual o fator que dificulta essa tarefa? | Sem resposta |
-| 4 | Você tem/já teve alguma dificuldade em realizar matricula em alguma disciplina?  |  [] Sim<br>[] Não  |
+| 1 | Qual a sua faixa etária? | [] Menor de 18<br>[] Entre 18 e 20<br>**[X] Entre 21 e 25**<br>[] Entre 26 e 30<br>[] Acima de 30 |
+| 2 | Você tem/já teve alguma dificuldade em realizar a procura de uma matéria? | **[X] Sim**<br>[] Não |
+| 3 | Caso tenha respondido Sim para a Pergunta 2, qual o fator que dificulta essa tarefa? | Pesquisar a disciplina pelo nome |
+| 4 | Você tem/já teve alguma dificuldade em realizar matricula em alguma disciplina?  |  [] Sim<br>**[X] Não**  |
 | 5 | Caso tenha respondido Sim para a Pergunta 4, qual o fator que dificulta essa tarefa? | Sem resposta |
-| 6 | Na sua opinião, quão intuitiva é a plataforma Aprender 3? | [] Muito intuitiva<br>[] Razoavelmente Intuitiva<br>[] Pouco intuitiva<br>[] Nada intuitiva |
-| 7 | Você se sente confortável com o modo em que as informações/funcionalidades estão dispostas na interface?  | [] Sim<br>[] Não  |
+| 6 | Na sua opinião, quão intuitiva é a plataforma Aprender 3? | [] Muito intuitiva<br>**[X] Razoavelmente Intuitiva**<br>[] Pouco intuitiva<br>[] Nada intuitiva |
+| 7 | Você se sente confortável com o modo em que as informações/funcionalidades estão dispostas na interface?  | **[X] Sim**<br>[] Não  |
 | 8 | Caso tenha respondido Não para a Pergunta 7, o que você acha que poderia mudar no design?  | Sem resposta |
-| 9 | Você tem/já teve dificuldade em enviar tarefas/trabalhos na plataforma? | [] Sim<br>[] Não |
+| 9 | Você tem/já teve dificuldade em enviar tarefas/trabalhos na plataforma? | [] Sim<br>**[X] Não** |
 | 10 | Caso tenha respondido Sim para a Pergunta 9, qual foi a dificuldade | Sem resposta |
-| 11 | Você já utilizou o recurso de chat da plataforma? | [] Sim<br>[] Não |
-| 12 | Qual funcionalidade/recurso você gostaria presente na plataforma? | Sem resposta |
-| 13 | Quão satisfeito você está com a plataforma? | [] Muito satisfeito<br>[] Razoavelmente satisfeito<br>[] Pouco satisfeito<br>[] Nada satisfeito |
+| 11 | Você já utilizou o recurso de chat da plataforma? | **[X] Sim**<br>[] Não |
+| 12 | Qual funcionalidade/recurso você gostaria presente na plataforma? | "O chat parece ser desenvolvido na década de 90" |
+| 13 | Quão satisfeito você está com a plataforma? | [] Muito satisfeito<br>**[X] Razoavelmente satisfeito**<br>[] Pouco satisfeito<br>[] Nada satisfeito |
 
 <div style="text-align: center">
 <p>Tabela 11: Respostas do Usuário 11</p>
@@ -262,19 +262,19 @@ Os resultados das entrevistas serão dispostos nas tabelas 1 a 12 a seguir;
 
 | Questão | Pergunta | Resposta |
 | :-----: | :------: | :------: |
-| 1 | Qual a sua faixa etária? | [] Menor de 18<br>[] Entre 18 e 20<br>[] Entre 21 e 25<br>[] Entre 26 e 30<br>[] Acima de 30 |
-| 2 | Você tem/já teve alguma dificuldade em realizar a procura de uma matéria? | [] Sim<br>[] Não |
-| 3 | Caso tenha respondido Sim para a Pergunta 2, qual o fator que dificulta essa tarefa? | Sem resposta |
-| 4 | Você tem/já teve alguma dificuldade em realizar matricula em alguma disciplina?  |  [] Sim<br>[] Não  |
+| 1 | Qual a sua faixa etária? | [] Menor de 18<br>**[X] Entre 18 e 20**<br>[] Entre 21 e 25<br>[] Entre 26 e 30<br>[] Acima de 30 |
+| 2 | Você tem/já teve alguma dificuldade em realizar a procura de uma matéria? | **[X] Sim**<br>[] Não |
+| 3 | Caso tenha respondido Sim para a Pergunta 2, qual o fator que dificulta essa tarefa? | "Pesquisar o nome da disciplina" |
+| 4 | Você tem/já teve alguma dificuldade em realizar matricula em alguma disciplina?  |  [] Sim<br>**[X] Não**  |
 | 5 | Caso tenha respondido Sim para a Pergunta 4, qual o fator que dificulta essa tarefa? | Sem resposta |
-| 6 | Na sua opinião, quão intuitiva é a plataforma Aprender 3? | [] Muito intuitiva<br>[] Razoavelmente Intuitiva<br>[] Pouco intuitiva<br>[] Nada intuitiva |
-| 7 | Você se sente confortável com o modo em que as informações/funcionalidades estão dispostas na interface?  | [] Sim<br>[] Não  |
+| 6 | Na sua opinião, quão intuitiva é a plataforma Aprender 3? | [] Muito intuitiva<br>**[X] Razoavelmente Intuitiva**<br>[] Pouco intuitiva<br>[] Nada intuitiva |
+| 7 | Você se sente confortável com o modo em que as informações/funcionalidades estão dispostas na interface?  | [] Sim<br>**[X] Não**  |
 | 8 | Caso tenha respondido Não para a Pergunta 7, o que você acha que poderia mudar no design?  | Sem resposta |
-| 9 | Você tem/já teve dificuldade em enviar tarefas/trabalhos na plataforma? | [] Sim<br>[] Não |
+| 9 | Você tem/já teve dificuldade em enviar tarefas/trabalhos na plataforma? | [] Sim<br>**[X] Não** |
 | 10 | Caso tenha respondido Sim para a Pergunta 9, qual foi a dificuldade | Sem resposta |
-| 11 | Você já utilizou o recurso de chat da plataforma? | [] Sim<br>[] Não |
+| 11 | Você já utilizou o recurso de chat da plataforma? | [] Sim<br>**[X] Não** |
 | 12 | Qual funcionalidade/recurso você gostaria presente na plataforma? | Sem resposta |
-| 13 | Quão satisfeito você está com a plataforma? | [] Muito satisfeito<br>[] Razoavelmente satisfeito<br>[] Pouco satisfeito<br>[] Nada satisfeito |
+| 13 | Quão satisfeito você está com a plataforma? | [] Muito satisfeito<br>**[X] Razoavelmente satisfeito**<br>[] Pouco satisfeito<br>[] Nada satisfeito |
 
 <div style="text-align: center">
 <p>Tabela 12: Respostas do Usuário 12</p>
