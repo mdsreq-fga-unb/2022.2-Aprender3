@@ -16,6 +16,13 @@ Será simulado a utilização da plataforma com as correções propostas pelo me
 ## 4. Cronograma
 
 ## 5. Protótipo de papel 
+De acordo com o escopo e as sugestões sugeridas, a avaliação obterá duas etapas.
+
+### 5.1 Matrícula em disciplina 
+Será feito um protótipo da tela de matrícula em disciplina onde o usuário irá simular a procura por matérias já com as propostas de melhorias simulados no protótipo. Então será feito o processo de busca, escolha e confirmação em alguma disciplina simulada.
+
+### 5.2 Bloco de notas e Organização
+Uma tela prototipada com um bloco de notas para o usuário afim de organizar entregas e atividades das disciplinas, onde terá autonomia de editar e organizar da melhor forma para o mesmo. 
 
 ## 6. Bibliografia
  [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
