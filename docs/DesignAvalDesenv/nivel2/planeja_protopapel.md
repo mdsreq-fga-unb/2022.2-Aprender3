@@ -11,17 +11,16 @@ Este documento visa registrar o planejamento para uma avaliação do protótipo 
 Os objetivos da avaliação são identificar e compreender dificuldades e problemas que os usuários podem vir encontrar no sistema.
 
 ## 3. Metodologia 
+Será simulado a utilização da plataforma com as correções propostas pelo membros do projeto e lavendo em conta as pesquisas feitas com os usuários para os problemas encontrados. Durante esse processo, será observado o comportamento do usuário a fim de se confirmar se o novo design satisfaz as necessidades e é realmente uma solução para os problemas encontrados.   
 
-## 4. Cronograma 
+## 4. Cronograma
 
-## 5. Ferramentas
+## 5. Protótipo de papel 
 
-## 6. Protótipo de papel 
-
-## 7. Bibliografia
+## 6. Bibliografia
  [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-## 8. Histórico de Versão
+## 7. Histórico de Versão
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 | 06.12.2022 | 1.0 | Realização do Planejamento da Avaliação do Protótipo de Papel | Milena Aires |  |
