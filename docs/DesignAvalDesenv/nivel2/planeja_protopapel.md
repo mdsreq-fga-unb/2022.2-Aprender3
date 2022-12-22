@@ -13,15 +13,13 @@ Os objetivos da avaliação são identificar e compreender dificuldades e proble
 ## 3. Metodologia 
 Será simulado a utilização da plataforma com as correções propostas pelo membros do projeto e lavendo em conta as pesquisas feitas com os usuários para os problemas encontrados. Durante esse processo, será observado o comportamento do usuário a fim de se confirmar se o novo design satisfaz as necessidades e é realmente uma solução para os problemas encontrados.   
 
-## 4. Cronograma
-
-## 5. Protótipo de papel 
+## 4. Protótipo de papel 
 De acordo com o escopo e as sugestões sugeridas, a avaliação obterá duas etapas.
 
-### 5.1 Matrícula em disciplina 
-Será feito um protótipo da tela de matrícula em disciplina onde o usuário irá simular a procura por matérias já com as propostas de melhorias simulados no protótipo. Então será feito o processo de busca, escolha e confirmação em alguma disciplina simulada.
+### 4.1 Matrícula em disciplina 
+Será feito um protótipo de papel da tela de matrícula em disciplina onde o usuário irá simular a procura por matérias já com as propostas de melhorias simulados no protótipo. Então será feito o processo de busca, escolha e confirmação em alguma disciplina simulada.
 
-### 5.2 Bloco de notas e Organização
+### 4.2 Bloco de notas e Organização
 Uma tela prototipada com um bloco de notas para o usuário afim de organizar entregas e atividades das disciplinas, onde terá autonomia de editar e organizar da melhor forma para o mesmo. 
 
 ## 6. Bibliografia
@@ -30,4 +28,4 @@ Uma tela prototipada com um bloco de notas para o usuário afim de organizar ent
 ## 7. Histórico de Versão
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
-| 06.12.2022 | 1.0 | Realização do Planejamento da Avaliação do Protótipo de Papel | Milena Aires |  |
+| 21.12.2022 | 1.0 | Realização do Planejamento da Avaliação do Protótipo de Papel | Milena Aires | Raphaela Guimarães |
