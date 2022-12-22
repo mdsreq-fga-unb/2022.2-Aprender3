@@ -1,7 +1,7 @@
 
 # Planejamento do relato de resultados do protótipo de papel
 
-## Introdução
+## 1. Introdução 
 
  Tendo a preparação para a avaliação realizada na última entrega deste projeto, o grupo seguiu para a avaliação do protótipo de papel, produzido na etapa anterior. 
 
@@ -9,11 +9,11 @@ O objetivo dessa avaliação é analisar e levantar o nível de qualidade que o 
 
 Este documento é atribuído ao framework DECIDE predominantemente à atividade de letra E, que representa a fase de "evaluate", em português "avaliar". O avaliadores devem estar atentos a aspectos da avaliação realizada antes de tirar as conclusões e divulgar resultados, considerando principalmente o grau de confiabilidade dos dados, a validade externa do estudo e a validade ecológica do estudo.
 
-## Metodologia
+## 2. Metodologia
 
 O grupo realizou a escolha de utilizar como método para esta avaliação a entrevista, pertencente aos métodos de investigação.O entrevistado será um estudante da Universidade de Brasília, Faculdade do Gama , e para o efeito, será elaborada um termo de consentimento para que haja consenso entre o entrevistado e o entrevistador.
 
-## Ambiente de avaliação
+## 3. Ambiente de avaliação
 
 A avaliação poderá ser feita presencialmente marcando um horário com o entrevistado e o entrevistador. Ou poderá ser feita via on-line, na plataforma Discord ou Microsoft Teams.
 
@@ -26,7 +26,7 @@ Os resultados estão aqui relatados seguindo o roteiro de respostas e interaçõ
 | 1 | Em uma escala de 1 a 5, qual valor você daria para a sua familiaridade com o Virtual Judge, sendo que "1" significa extremamente desabituado e "5", extremamente familiarizado? | 1 - Extremamente desabituado<br/>2 - Desabituado<br/>3 - Neutro<br/>4 - Familiarizado<br/>5 - Extremamente familiarizado<br/> |
 
 <center>
-<figcaption>Tabela 1: Pergunta inicial que deve ser feita ao entrevistado.</figcaption>
+<p style="font-size:13px" align='center' fonte>Tabela 1: Pergunta inicial que deve ser feita ao entrevistado.</figcaption></p>
 </center>
 
 <p style="text-indent: 20px; text-align: justify">
@@ -40,13 +40,17 @@ Além da avaliação pessoal dos entrevistadores, buscará-se também fazer com 
 | 3 | Você cometeu algum erro ou se confundiu em algum processo na hora da realização das tarefas? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO </li> </ul> |
 | 4 | De forma geral, o que você pensou ao realizar todas das tarefas — suas observações e comentários adicionais? | Pergunta discursiva |
 
-## Referências bibliográficas
+<center>
+<p style="font-size:13px" align='center' fonte>Tabela 2: Perguntas complementares.</figcaption></p>
+</center>
+
+## 4. Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 > Nielsen, Jakob (2000). Why You Only Need to Test with 5 Users. Disponível em: <https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/>. Acesso em: 20/04/2021
 
-## Versionamento
+## 5. Histórico de Versão
 
 | Versão | Data | Modificação | Autor | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
-| 1.0 | 21/12/2022 | Criação do documento | Rodolfo Cabral Neves | Milena Aires |
+| 1.0 | 21/12/2022 | Criação do documento | Rodolfo Cabral Neves | Raphaela Guimarães e Milena Aires |
