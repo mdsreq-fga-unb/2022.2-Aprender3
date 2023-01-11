@@ -28,35 +28,20 @@ O formato escolhido pelo time de desenvolvimento foi **a entrevista**. As entrev
 
 As entrevistas serão realizadas de maneira remota devido às dificuldades nas questões de encontros presenciais e será composta por 1 ou 2 entrevistadores e 1 pessoa entrevistada e foram planejadas para não durar mais que meia hora e apresentar um tempo médio de 20 minutos. Antes de começar a etapa de entrevistas, foi desenvolvido um termo de consentimento para que a equipe possa gozar dos insumos obtidos.
 
-## 3.1 Perguntas
+## 3.1 Termo de consentimento
+
+O termo de consentimento pode ser acessado, [clicando aqui](https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/tree/main/docs/assets)
+
+## 3.2 Perguntas
 
 Existem 2 fluxos criados no protótipo de baixa fidelidade, estes são:
 
 - Matrícula em disciplina
-- Bloco de notas e Organização
+- Envio de um trabalho
 
 Para cada fluxo, foram criadas uma bateria de perguntas para a coleta das métricas de avaliação. Esta abordagem foi selecionada para que o grupo possa ter uma medida de cada parte do site de maneira desacoplada e objetivo, desta forma a gerência e evolução de pontos não satisfatórios podem ser feitas de maneira individual e independente de outros fluxos.
 
-
-### 3.2 Matrícula em disciplina
-
-| Índice | Pergunta                                                          |
-| ------ | ----------------------------------------------------------------- |
-| 1      | Como você faria para se matricular numa matéria? |
-| 2      | Você sentiu dificuldade de uso em algum momento do fluxo? |
-| 3      | A interface da plataforma ajuda ? |
-| 4      | O que poderia ser melhorado na interface da plataforma, de modo a realizar a matrícula com mais facilidade ? |
-| 4      | Você teve dificuldade na leitura de alguma informação? |
-| 4      | Você tem algum comentário extra sobre o fluxo que você acabou de percorrer? |
-
-
-### 3.3 Bloco de notas e Organização
-
-| Índice | Pergunta                                                          |
-| ------ | ----------------------------------------------------------------- |
-| 1      | Como você faria para se matricular numa matéria? |
-
-## 3.2 Informações demográficas
+## 3.3 Informações demográficas
 
 | Índice | Pergunta                                                          |
 | ------ | ----------------------------------------------------------------- |
@@ -65,6 +50,28 @@ Para cada fluxo, foram criadas uma bateria de perguntas para a coleta das métri
 | 3      | Você já utilizou o Aprender ? |
 | 4      | Se sim, qual foi o propósito?                                      |
 
+
+### 3.4 Matrícula em disciplina
+
+| Índice | Pergunta                                                          |
+| ------ | ----------------------------------------------------------------- |
+| 1      | Como você faria para se matricular numa matéria? |
+| 2      | Você sentiu dificuldade de uso em algum momento do fluxo? |
+| 3      | A interface da plataforma ajuda ? |
+| 4      | O que poderia ser melhorado na interface da plataforma, de modo a realizar a matrícula com mais facilidade ? |
+| 5      | Você teve dificuldade na leitura de alguma informação? |
+| 6      | Você tem algum comentário extra sobre o fluxo que você acabou de percorrer? |
+
+### 3.5 Envio de um trabalho
+
+| Índice | Pergunta                                                          |
+| ------ | ----------------------------------------------------------------- |
+| 1      | Como você faria para enviar um trabalho? |
+| 2      | Qual é o jeito mais fácil de se fazer isto, dentre as possíveis formas? |
+| 3      | Você sentiu dificuldade de uso em algum momento do fluxo? |
+| 4      | A interface da plataforma ajuda ? |
+| 5      | O que poderia ser melhorado na interface da plataforma, de modo a enviar o trabalho mais facilidade ? |
+| 6      | Você tem algum comentário extra sobre o fluxo que você acabou de percorrer? |
 
 ## 4. Referências
 
