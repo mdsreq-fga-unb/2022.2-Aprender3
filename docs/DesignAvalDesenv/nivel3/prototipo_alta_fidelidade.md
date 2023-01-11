@@ -30,7 +30,7 @@ As entrevistas serão realizadas de maneira remota devido às dificuldades nas q
 
 ## 3.1 Termo de consentimento
 
-O termo de consentimento pode ser acessado, [clicando aqui](https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/tree/main/docs/assets)
+O termo de consentimento pode ser acessado, [clicando aqui](https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/assets/consentimento.pdf)
 
 ## 3.2 Perguntas
 
@@ -41,7 +41,7 @@ Existem 2 fluxos criados no protótipo de baixa fidelidade, estes são:
 
 Para cada fluxo, foram criadas uma bateria de perguntas para a coleta das métricas de avaliação. Esta abordagem foi selecionada para que o grupo possa ter uma medida de cada parte do site de maneira desacoplada e objetivo, desta forma a gerência e evolução de pontos não satisfatórios podem ser feitas de maneira individual e independente de outros fluxos.
 
-## 3.3 Informações demográficas
+### 3.2.1 Informações demográficas
 
 | Índice | Pergunta                                                          |
 | ------ | ----------------------------------------------------------------- |
@@ -51,7 +51,7 @@ Para cada fluxo, foram criadas uma bateria de perguntas para a coleta das métri
 | 4      | Se sim, qual foi o propósito?                                      |
 
 
-### 3.4 Matrícula em disciplina
+### 3.2.2 Matrícula em disciplina
 
 | Índice | Pergunta                                                          |
 | ------ | ----------------------------------------------------------------- |
@@ -62,7 +62,7 @@ Para cada fluxo, foram criadas uma bateria de perguntas para a coleta das métri
 | 5      | Você teve dificuldade na leitura de alguma informação? |
 | 6      | Você tem algum comentário extra sobre o fluxo que você acabou de percorrer? |
 
-### 3.5 Envio de um trabalho
+### 3.2.3 Envio de um trabalho
 
 | Índice | Pergunta                                                          |
 | ------ | ----------------------------------------------------------------- |
