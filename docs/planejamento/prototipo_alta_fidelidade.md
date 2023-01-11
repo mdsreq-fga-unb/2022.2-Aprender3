@@ -18,6 +18,54 @@ A ferramenta escolhida pelo time para a produção do protótipo de alta fidelid
 
 ## 3. Metotologia
 
+O formato escolhido pelo time de desenvolvimento foi **a entrevista**. As entrevistas tem como objetivo avaliar:
+
+- A nova solução de design proposta.
+- A acessibilidade do site.
+- Os fluxos de navegação.
+- As utilidades do escopo.
+- A eficiência e eficácia do site, a partir do ponto de vista do usuário.
+
+As entrevistas serão realizadas de maneira remota devido às dificuldades nas questões de encontros presenciais e será composta por 1 ou 2 entrevistadores e 1 pessoa entrevistada e foram planejadas para não durar mais que meia hora e apresentar um tempo médio de 20 minutos. Antes de começar a etapa de entrevistas, foi desenvolvido um termo de consentimento para que a equipe possa gozar dos insumos obtidos.
+
+## 3.1 Perguntas
+
+Existem 2 fluxos criados no protótipo de baixa fidelidade, estes são:
+
+- Matrícula em disciplina
+- Bloco de notas e Organização
+
+Para cada fluxo, foram criadas uma bateria de perguntas para a coleta das métricas de avaliação. Esta abordagem foi selecionada para que o grupo possa ter uma medida de cada parte do site de maneira desacoplada e objetivo, desta forma a gerência e evolução de pontos não satisfatórios podem ser feitas de maneira individual e independente de outros fluxos.
+
+
+### 3.2 Matrícula em disciplina
+
+| Índice | Pergunta                                                          |
+| ------ | ----------------------------------------------------------------- |
+| 1      | Como você faria para se matricular numa matéria? |
+| 2      | Você sentiu dificuldade de uso em algum momento do fluxo? |
+| 3      | A interface da plataforma ajuda ? |
+| 4      | O que poderia ser melhorado na interface da plataforma, de modo a realizar a matrícula com mais facilidade ? |
+| 4      | Você teve dificuldade na leitura de alguma informação? |
+| 4      | Você tem algum comentário extra sobre o fluxo que você acabou de percorrer? |
+
+
+### 3.3 Bloco de notas e Organização
+
+| Índice | Pergunta                                                          |
+| ------ | ----------------------------------------------------------------- |
+| 1      | Como você faria para se matricular numa matéria? |
+
+## 3.2 Informações demográficas
+
+| Índice | Pergunta                                                          |
+| ------ | ----------------------------------------------------------------- |
+| 1      | Qual sua nacionalidade?                                           |
+| 2      | Qual curso você está fazendo?                                     |
+| 3      | Você já utilizou o Aprender ? |
+| 4      | Se sim, qual foi o propósito?                                      |
+
+
 ## 4. Referências
 
 [1] BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Rio de Janeiro: Elsevier Editora Ltda, 2010.
