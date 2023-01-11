@@ -30,15 +30,15 @@ Para construirmos um protótipo de papel teremos que concluir algumas atividades
 
 ## 4. Protótipo de papel 
 
-![matricula](/docs/images/PP_1.jpeg)
+![Protótipo papel página inicial](docs/images/PP_1.jpeg)
 
 ### 4.1 Matrícula em disciplina 
 
-![matricula](/docs/images/PP_3.jpeg)
+![Protótipo papel matricula em disciplina](docs/images/PP_3.jpeg)
 
 ### 4.2 Bloco de notas e Organização
 
-![matricula](/docs/images/PP_2.jpeg)
+![Protótipo de papel Notas e Organização](docs/images/PP_2.jpeg)
 
 
 
