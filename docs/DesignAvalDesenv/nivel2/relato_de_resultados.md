@@ -8,10 +8,10 @@ Este documento foi feito seguindo o planejamento do relato dos resultados do pro
 
 Essa entrevista aconteceu no dia 09/01/2023 às 16h com o usuário da plataforma Aprender3 Gbriel Luiz que aceitou os termos de consentimento.
 
-Nome do entrevistado: Gabriel Luiz de Sousa Gomez
-idade: 21
-ocupação: Estudante da FGA (Engenharia de software)
-Entrevistador: Igor Thiago Lima de Santana
+Nome do entrevistado: Gabriel Luiz de Sousa Gomez<br/>
+idade: 21<br/>
+ocupação: Estudante da FGA (Engenharia de software)<br/>
+Entrevistador: Igor Thiago Lima de Santana<br/>
 dificuldades: O entrevistado apresentou dificuldade em realizar a tarefa de matrícula em disciplina
 
 | Número | Pergunta | Resposta do entrevistado |
@@ -27,12 +27,12 @@ dificuldades: O entrevistado apresentou dificuldade em realizar a tarefa de matr
 
 ## 2.1 Entrevista 2
 
-Essa entrevista aconteceu no dia 09/01/2023 às 16h com o usuário da plataforma Aprender3 Gbriel Luiz que aceitou os termos de consentimento.
+Essa entrevista aconteceu no dia 09/01/2023 às 16h com o usuário da plataforma Aprender3 Gabriel Luiz que aceitou os termos de consentimento.
 
-Nome do entrevistado: Gabriel Luiz de Sousa Gomez
-idade: 21
-ocupação: Estudante da FGA (Engenharia de software)
-Entrevistador: Igor Thiago Lima de Santana
+Nome do entrevistado: Gabriel Luiz de Sousa Gomez<br/>
+idade: 21<br/>
+ocupação: Estudante da FGA (Engenharia de software)<br/>
+Entrevistador: Igor Thiago Lima de Santana<br/>
 dificuldades: O entrevistado apresentou dificuldade em realizar a tarefa de matrícula em disciplina
 
 | Número | Pergunta | Resposta do entrevistado |
