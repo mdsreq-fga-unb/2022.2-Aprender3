@@ -33,4 +33,4 @@ Requisitos necessários para a realização da avaliação serão:
 ## 5. Histórico de versão
 |    Data    | Versão | Descrição    | Autor(es)    | Revisor            |
 | :--------: | :----: | :----------: | :----------: | :----------------: |
-| 10/01/2023 |  1.0   | Criação do documento inicial |  Milena Aires | Rodolfo Cabral |
+| 10/01/2023 |  1.0   | Criação do documento inicial |  Milena Aires ||
