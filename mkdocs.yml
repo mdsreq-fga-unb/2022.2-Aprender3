@@ -41,9 +41,14 @@ nav:
                                 - Planejamento da Avaliação: DesignAvalDesenv/nivel1/storyboard/planeja_avalia_storyboard.md
                                 - Planejamento do Relato de Resultados: DesignAvalDesenv/nivel1/storyboard/relato_resultados.md
                 - Nivel 2:
-                        - Planejamento protótipo de papel: DesignAvalDesenv/nivel2/planeja_protopapel.md
-                        - Protótipo de papel: DesignAvalDesenv/nivel2/prototipoPapel.md
-                        - Planejamento do relato dos Resultados do protótipo: DesignAvalDesenv/nivel2/relato_resultados_prototipo_papel.md
+                                - Protótipo de Baixa Fidelidade: DesignAvalDesenv/nivel2/prototipoPapel.md
+                                - Planejamento da Avaliação: DesignAvalDesenv/nivel2/planeja_protopapel.md
+                                - Planejamento do Relato dos Resultados: DesignAvalDesenv/nivel2/relato_resultados_prototipo_papel.md
+                                - Relato de Resultados: DesignAvalDesenv/nivel2/relato_de_resultados.md
+                - Nivel 3:
+                                - Protótipo de Alta Fidelidade: DesignAvalDesenv/nivel3/hifi_prototype.md
+                                - Planejamento da Avaliação: DesignAvalDesenv/nivel3/prototipo_alta_fidelidade.md
+                                - Planejamento do Relato dos Resultados: DesignAvalDesenv/nivel3/planejamento _do_relato_resultados_alta_fidelidade.md
         - Apresentações: apresentacoes.md
         - Atas:
                 - 17/11/2022: atas/reuniao-17-11-2022.md
