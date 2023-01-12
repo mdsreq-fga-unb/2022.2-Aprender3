@@ -54,3 +54,4 @@ Além da avaliação pessoal dos entrevistadores, buscará-se também fazer com 
 | Versão | Data | Modificação | Autor | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
 | 1.0 | 21/12/2022 | Criação do documento | Rodolfo Cabral Neves | Raphaela Guimarães e Milena Aires |
+| 1.1 | 11/01/2023 | Atualização do documento | Igor Thiago | Vinícius Alves |
