@@ -30,7 +30,7 @@ Os resultados estão aqui relatados seguindo o roteiro de respostas e interaçõ
 </center>
 
 <p style="text-indent: 20px; text-align: justify">
-Além da avaliação pessoal dos entrevistadores, buscará-se também fazer com que o participante fosse convidado a responder as seguintes perguntas, na medida que se sentisse à vontade de fazer:
+Além da avaliação pessoal dos entrevistadores, buscará-se também fazer com que o participante fosse convidado a responder as perguntas feitas pelo entrevistador, que usará as perguntas da tabela abaixo como guia para a realização da entrevista na medida que o entrevistado se sentisse à vontade de fazer:
 </p>
 
 | Número | Pergunta | Resposta |
@@ -54,3 +54,4 @@ Além da avaliação pessoal dos entrevistadores, buscará-se também fazer com 
 | Versão | Data | Modificação | Autor | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
 | 1.0 | 21/12/2022 | Criação do documento | Rodolfo Cabral Neves | Raphaela Guimarães e Milena Aires |
+| 1.1 | 11/01/2023 | Atualização do documento | Igor Thiago | Vinícius Alves |
