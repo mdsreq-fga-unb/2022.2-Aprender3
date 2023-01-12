@@ -6,7 +6,7 @@ Este documento foi feito seguindo o planejamento do relato dos resultados do pro
 
 ## 2. Entrevista 1
 
-Essa entrevista aconteceu no dia 09/01/2023 às 16h com o usuário da plataforma Aprender3 Gbriel Luiz que aceitou os termos de consentimento.
+Essa entrevista aconteceu no dia 09/01/2023 às 16h com o usuário da plataforma Aprender3 Gabriel Luiz que aceitou os termos de consentimento.
 
 Nome do entrevistado: Gabriel Luiz de Sousa Gomez<br/>
 idade: 21<br/>
@@ -27,7 +27,7 @@ dificuldades: O entrevistado apresentou dificuldade em realizar a tarefa de matr
 
 ## 2.1 Entrevista 2
 
-Essa entrevista aconteceu no dia 09/01/2023 às 16h com o usuário da plataforma Aprender3 Gabriel Luiz que aceitou os termos de consentimento.
+Essa entrevista aconteceu no dia 10/01/2023 às 16h com o usuário da plataforma Aprender3 Pedro Henrique que aceitou os termos de consentimento.
 
 Nome do entrevistado: Pedro Henrique<br/>
 idade: 22<br/>
