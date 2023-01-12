@@ -19,5 +19,5 @@ Com base no protótipo apresentado, que contém uma das melhorias propostas pelo
 ## 5. Histórico de Versão
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
-| 06.12.2022 | 1.0 | Documentação do Protótipo de Alta Fidelidade | Milena Aires e Rodolfo Cabral | Milena Aires |
+| 10.01.2023 | 1.0 | Documentação do Protótipo de Alta Fidelidade | Milena Aires e Rodolfo Cabral | Milena Aires |
 
