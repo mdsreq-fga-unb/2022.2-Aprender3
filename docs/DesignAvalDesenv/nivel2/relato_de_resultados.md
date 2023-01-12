@@ -29,11 +29,11 @@ dificuldades: O entrevistado apresentou dificuldade em realizar a tarefa de matr
 
 Essa entrevista aconteceu no dia 09/01/2023 às 16h com o usuário da plataforma Aprender3 Gabriel Luiz que aceitou os termos de consentimento.
 
-Nome do entrevistado: Gabriel Luiz de Sousa Gomez<br/>
-idade: 21<br/>
+Nome do entrevistado: Pedro Henrique<br/>
+idade: 22<br/>
 ocupação: Estudante da FGA (Engenharia de software)<br/>
 Entrevistador: Igor Thiago Lima de Santana<br/>
-dificuldades: O entrevistado apresentou dificuldade em realizar a tarefa de matrícula em disciplina
+dificuldades: O entrevistado apresentou dificuldade em entender o protótipo de papel
 
 | Número | Pergunta | Resposta do entrevistado |
 |:--:|:---|:---|

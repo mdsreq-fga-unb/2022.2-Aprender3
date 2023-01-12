@@ -34,14 +34,15 @@ Para construirmos um protótipo de papel teremos que concluir algumas atividades
 Protótipo de papel página inicial
 
 ### 4.1 Matrícula em disciplina 
-<img width="600px" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/PP_2.jpeg?raw=true">]
+<img width="600px" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/PP_3.jpeg?raw=true">
+
 
 Protótipo de papel página de procura de disciplina
 
 
 
 ### 4.2 Bloco de notas e Organização
-<img width="600px" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/PP_3.jpeg?raw=true">
+<img width="600px" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/PP_2.jpeg?raw=true">]
 
 Protótipo de papel página de notas
 
