@@ -3,7 +3,7 @@
 ## 1. Introdução
 A prototipação de alta fidelidade tem como objetivo criar uma representação visual do produto de software proposto, simulando as telas da aplicação na qual o usuário pode visualizar o que é proposto. O protótipo de alta fidelidade procura ao máximo parecer ao máximo com o produto final, ou seja, simulando o produto finalizado. 
 
-2. Objetivo
+## 2. Objetivo
 Foi definido que o objetivo da criação do protótipo de alta fidelidade seria propor melhorias para o site do Aprender3. Com o objetivo de melhorar a interface e o sistema de acordo com entrevistas passadas realizadas entre os usuários, foi realizado um protótipo de alta fidelidade seguindo o padrão do site ja existente do Aprender3.
 
 ## 3. Protótipo
