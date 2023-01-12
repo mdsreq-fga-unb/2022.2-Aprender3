@@ -16,10 +16,10 @@ dificuldades: O entrevistado apresentou dificuldade em realizar a tarefa de matr
 
 | Número | Pergunta | Resposta do entrevistado |
 |:--:|:---|:---|
-| 1 | Em uma escala de 1 a 5, qual valor você daria para a sua familiaridade com o Aprender3, sendo que "1" significa extremamente desabituado e "5", extremamente familiarizado? | 4 - Familiarizado |
+| 1 | Em uma escala de 1 a 5, qual valor você daria para a sua familiaridade com o Aprender3, sendo que "1" significa extremamente desabituado e "5", extremamente familiarizado? | <li>4 - Familiarizado |
 | 2 | Você conseguiu efetuar todas as atividades propostas por meio do que foi feito? | <ul> <li> Não</li>  </ul> |
 | 2.1 | Qual foi a dificuldade que você encontrou? | Tive dificuldade de realizar a pesquisa de matérias, não consegui achar a matéria. A tela dos resultados de busca por disciplina não é amigavel |
-| 3 | Em uma escala de 1 a 5, qual valor você daria para a dificuldade na execução das atividades, sendo que "1" significa extremamente trivial e "5", extremamente complicado? | <ul> <li>3 - Neutro<li></ul> |
+| 3 | Em uma escala de 1 a 5, qual valor você daria para a dificuldade na execução das atividades, sendo que "1" significa extremamente trivial e "5", extremamente complicado? | <ul> <li>3 - Neutro</ul> |
 | 3.1 | Qual atividade foi mais difícil? | Matrícula de disiciplina |
 | 4 | Você cometeu algum erro ou se confundiu em algum processo na hora da realização das tarefas? | <ul> <li> SIM</li> </ul> |
 | 4.1 | Em qual tarefa você se confundiu ou cometeu um erro? | Me confundi na hora de encontrar a matéria |
@@ -37,9 +37,9 @@ dificuldades: O entrevistado apresentou dificuldade em realizar a tarefa de matr
 
 | Número | Pergunta | Resposta do entrevistado |
 |:--:|:---|:---|
-| 1 | Em uma escala de 1 a 5, qual valor você daria para a sua familiaridade com o Aprender3, sendo que "1" significa extremamente desabituado e "5", extremamente familiarizado? | 5 - Extremamente familiarizado |
+| 1 | Em uma escala de 1 a 5, qual valor você daria para a sua familiaridade com o Aprender3, sendo que "1" significa extremamente desabituado e "5", extremamente familiarizado? | <li>5 - Extremamente familiarizado |
 | 2 | Você conseguiu efetuar todas as atividades propostas por meio do que foi feito? | <ul> <li> SIM</li>  </ul> |
-| 3 | Em uma escala de 1 a 5, qual valor você daria para a dificuldade na execução das atividades, sendo que "1" significa extremamente trivial e "5", extremamente complicado? | <ul> <li>2 - Trivial<li></ul> |
+| 3 | Em uma escala de 1 a 5, qual valor você daria para a dificuldade na execução das atividades, sendo que "1" significa extremamente trivial e "5", extremamente complicado? | <ul> <li>2 - Trivial</ul> |
 | 3.1 | Qual atividade foi mais difícil? | Matrícula de disiciplina |
 | 4 | Você cometeu algum erro ou se confundiu em algum processo na hora da realização das tarefas? | <ul> <li> SIM</li> </ul> |
 | 4.1 | Em qual tarefa você se confundiu ou cometeu um erro? | Fiquei confuso na hora da matrícula em disciplina  |
