@@ -1,4 +1,4 @@
-# Preparação para a verificação
+# Planejamento para a verificação
 
 ## 1. Introdução
 
