@@ -49,6 +49,11 @@ nav:
                                 - Protótipo de Alta Fidelidade: DesignAvalDesenv/nivel3/hifi_prototype.md
                                 - Planejamento da Avaliação: DesignAvalDesenv/nivel3/prototipo_alta_fidelidade.md
                                 - Planejamento do Relato dos Resultados: DesignAvalDesenv/nivel3/planejamento _do_relato_resultados_alta_fidelidade.md
+        - Verificação: 
+                - Análise de tarefas: docs/Avaliacao/verificacao_analisedetarefas.md
+                - Personas: docs/Avaliacao/verificacao_personas.md
+                - Perfil do Usuário: docs/Avaliacao/verificacao_perfildousuario.md
+                - Storyboard: docs/Avaliacao/verificação_Storyboard.md
         - Apresentações: apresentacoes.md
         - Atas:
                 - 17/11/2022: atas/reuniao-17-11-2022.md
