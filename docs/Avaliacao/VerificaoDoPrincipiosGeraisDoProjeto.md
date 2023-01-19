@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Neste documento é apresentado o checklist para verificar os resultados da verificação do artefato [Guia de Estilo](https://interacao-humano-computador.github.io/2022.2-Aprender3/analise_de_requisitos/guia_de_estilo/).
+Neste documento é apresentado o checklist para verificar os resultados da verificação do artefato [Guia de Estilo](https://interacao-humano-computador.github.io/2022.2-Aprender3/analise_de_requisitos/principios_gerais/).
 
 ## 2. Metodologia 
 
