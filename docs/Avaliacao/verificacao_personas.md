@@ -53,14 +53,10 @@ O gráfico a seguir mostra a porcentagem em que o artefato seguiu as exigências
 <center>Figura 1 - Gráfico de inspeção</center>
 
 ## 6. Referências  
-> Cooper, A.; Reimann, R.; Cronin, D. About Face 3: Th e Essentials of Interaction Design. New York, NY: John Wiley & Sons, 2007.
-
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.Interação Humano-Computador e Experiência do usuário. 2021. Autopublicação. ISBN: 978-65-00-19677-1
-
-> This Person Does Not Exist, 2022. Disponível em: <https://this-person-does-not-exist.com>. Acesso em: 7 de dezembro de 2022.
+> - [Aula 20 de requisitos - Verificação e Validação](https://aprender3.unb.br/pluginfile.php/2307566/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf)
 
 ## 7. Histórico de Versão
 
 | Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------|
-| 1.0    | 17/01/2023 | 18/01/2023 | Criação do documento de verificação da persona| Milena Aires |  |
+| 1.0    | 17/01/2023 | 18/01/2023 | Criação do documento de verificação da persona| Milena Aires | Raphaela Guimarães |
