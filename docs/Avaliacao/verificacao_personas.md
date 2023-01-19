@@ -37,14 +37,14 @@ Seguindo o planejando da verificação e o checklist representado acima na tabel
         <br><small>Autor: Milena Aires</small>
 </figcaption> 
 
-#### 3.1. Acompanhamento inspeção Planejamento da Avaliação do Storyboard
+#### 3.1. Acompanhamento inspeção Planejamento da Avaliação das Personas
 
 &emsp;&emsp; Portanto, o resultado do checklist deste artefato foi:
 
   - ✅: 17 artefatos conforme
   - ❌: 3 artefatos não conforme
 
-## 5. Gráfico 
+## 4. Gráfico 
 O gráfico a seguir mostra a porcentagem em que o artefato seguiu as exigências do checklist de inspeção.
 
 <center>
@@ -52,10 +52,10 @@ O gráfico a seguir mostra a porcentagem em que o artefato seguiu as exigências
 </center>
 <center>Figura 1 - Gráfico de inspeção</center>
 
-## 6. Referências  
+## 5. Referências  
 > - [Aula 20 de requisitos - Verificação e Validação](https://aprender3.unb.br/pluginfile.php/2307566/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf)
 
-## 7. Histórico de Versão
+## 6. Histórico de Versão
 
 | Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------|
