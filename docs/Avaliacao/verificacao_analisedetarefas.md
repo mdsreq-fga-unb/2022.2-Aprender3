@@ -6,9 +6,8 @@ Esse documento tem o objetivo realizar a verificação do artefato da Análise d
 ## 2. Rastreabilidade 
 A seguir encontra-se o redirecionamento para o artefato que está sendo analisado neste documento:  <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/analise_de_requisitos/analise_de_tarefas/">Análise de Tarefas</a>.
 
-## 3. Checklist
 
-## 4. Inspeção 
+## 3. Inspeção 
 Seguindo o planejando da verificação e o checklist representado acima na tabela 1, a seguinte tabela mostra os resultados utilizando o método de inspeção, indicando se o documento possui o artefato indicado. 
 
 | ID | Descrição | Avaliação | Problema | Correção | Observações |
@@ -27,16 +26,35 @@ Seguindo o planejando da verificação e o checklist representado acima na tabel
 | 12 | As imagens possuem fontes? | ✅ | - | - | - |
 | 13 | As imagens possuem chamadas dentro do texto? | ✅ | - | - | - |
 | 14 | O artefato possui links? | ❌ | - | - | O documento não necessita de links |
-| 15 | - | - | - | - | - |
+| 15 | A página possui referências do conteúdo? | ✅ | - | - | - |
+| 16 | A linguagem está simples e compreensível? | ✅ | - | - | - |
+| 17 | As informações estão consistentes e objetivas? | ✅ | - | - | - |
 
-## 5. Gráfico 
+<figcaption align='center'>
+    <b>Tabela checklist da inspeção</b>
+        <br><small>Autor: Milena Aires</small>
+</figcaption> 
 
-## 6. Observações 
+#### 3.1. Acompanhamento inspeção Planejamento da Análise de Tarefas
 
-## 7. Referências  
+&emsp;&emsp; Portanto, o resultado do checklist deste artefato foi:
 
-## 8. Histórico de Versão
+  - ✅: 12 artefatos conforme
+  - ❌: 5 artefatos não conforme
+
+## 4. Gráfico 
+O gráfico a seguir mostra a porcentagem em que o artefato seguiu as exigências do checklist de inspeção.
+
+<center>
+    <img width="80%" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/grafico_verifi_analiset.png"/>
+</center>
+<center>Figura 1 - Gráfico de inspeção</center>
+
+## 5. Referências  
+> - [Aula 20 de requisitos - Verificação e Validação](https://aprender3.unb.br/pluginfile.php/2307566/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf)
+
+## 6. Histórico de Versão
 
 | Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------|
-| 1.0    | 17/01/2023 | 18/01/2023 | Criação do documento de verificação da análise de tarefas | Milena Aires |  |
+| 1.0    | 17/01/2023 | 18/01/2023 | Criação do documento de verificação da persona| Milena Aires | Raphaela Guimarães |
