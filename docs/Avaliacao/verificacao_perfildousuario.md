@@ -6,9 +6,7 @@ Esse documento tem o objetivo realizar a verificação do artefato Perfil do Usu
 ## 2. Rastreabilidade 
 A seguir encontra-se o redirecionamento para o artefato que está sendo analisado neste documento:  <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/analise_de_requisitos/perfil_do_usuario/">Perfil do Usuário</a>.
 
-## 3. Checklist
-
-## 4. Inspeção 
+## 3. Inspeção 
 Seguindo o planejando da verificação e o checklist representado acima na tabela 1, a seguinte tabela mostra os resultados utilizando o método de inspeção, indicando se o documento possui o artefato indicado. 
 
 | ID | Descrição | Avaliação | Problema | Correção | Observações |
@@ -27,16 +25,40 @@ Seguindo o planejando da verificação e o checklist representado acima na tabel
 | 12 | As imagens possuem fontes? | ✅ | - | - | - |
 | 13 | As imagens possuem chamadas dentro do texto? | ✅ | - | - | - |
 | 14 | O artefato possui links? | ❌ | - | - | O documento não necessita de links |
-| 15 | - | - | - | - | - |
+| 15 | Possui as ferramentas ou tecnologias as quais o usuário tem acesso? | ✅ | - | - | - |
+| 16 | Possui a quantidade de conhecimento do usuário sobre o assunto em questão, bibliotecas digitais? | ✅ | - | - | - |
+| 17 | Possui o grau de educação do usuário? | ✅ | - | - | - |
+| 18 | Possui as ferramentas ou tecnologias as quais o usuário tem acesso? | ✅ | - | - | - |
+| 19 | Possui a atitude e os valores do usuário? | ❌ | - | - | - |
+| 20 | Possui os dados demográficos do usuário? | ✅ | - | - | - |
 
-## 5. Gráfico 
 
-## 6. Observações 
+<figcaption align='center'>
+    <b>Tabela checklist da inspeção</b>
+        <br><small>Autor: Milena Aires</small>
+</figcaption> 
 
-## 7. Referências  
+#### 3.1.1 Acompanhamento inspeção Planejamento do Perfil do Usuário
 
-## 8. Histórico de Versão
+&emsp;&emsp; Portanto, o resultado do checklist deste artefato foi:
+
+  - ✅: 18 artefatos conforme
+  - ❌: 2 artefatos não conforme
+
+## 4. Gráfico
+O gráfico a seguir mostra a porcentagem em que o artefato seguiu as exigências do checklist de inspeção.
+
+<center>
+    <img width="80%" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/grafico_verifi_perfilusu.png"/>
+</center>
+<center>Figura 1 - Gráfico de inspeção</center>
+
+## 5. Referências
+
+- [Aula 20 de requisitos - Verificação e Validação](https://aprender3.unb.br/pluginfile.php/2307566/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf)
+
+## 6. Histórico de Versão
 
 | Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------|
-| 1.0    | 17/01/2023 | 18/01/2023 | Criação do documento de verificação do perfil do usuário| Milena Aires |  |
+| 1.0    | 17/01/2023 | 18/01/2023 | Criação do documento de verificação do perfil do usuário| Milena Aires | Raphaela Guimarães |
