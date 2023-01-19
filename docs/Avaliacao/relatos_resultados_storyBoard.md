@@ -51,7 +51,7 @@
   - ✅: 9 artefatos conforme
   - ❌: 13 artefatos não conforme
 
-![imagem](../../assets/graficos/GraficoPlanejamentoRelatoResultados.png)
+![imagem](../assets/graficos/GraficoPlanejamentoRelatoResultados.png)
 <figcaption align='center'>
     <b>Gráfico de pizza</b>
         <br><small>Autor: Rodolfo Cabral Neves</small>
