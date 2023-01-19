@@ -1,4 +1,4 @@
-# Verificação dos Princípios Gerais do Projeto
+# Verificação dos Guia de Estilo
 
 ## 1. Introdução
 
