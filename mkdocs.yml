@@ -50,10 +50,10 @@ nav:
                                 - Planejamento da Avaliação: DesignAvalDesenv/nivel3/prototipo_alta_fidelidade.md
                                 - Planejamento do Relato dos Resultados: DesignAvalDesenv/nivel3/planejamento _do_relato_resultados_alta_fidelidade.md
         - Verificação: 
-                - Análise de tarefas: docs/Avaliacao/verificacao_analisedetarefas.md
-                - Personas: docs/Avaliacao/verificacao_personas.md
-                - Perfil do Usuário: docs/Avaliacao/verificacao_perfildousuario.md
-                - Storyboard: docs/Avaliacao/verificação_Storyboard.md
+                - Análise de tarefas: Avaliacao/verificacao_analisedetarefas.md
+                - Personas: Avaliacao/verificacao_personas.md
+                - Perfil do Usuário: Avaliacao/verificacao_perfildousuario.md
+                - Storyboard: Avaliacao/verificação_Storyboard.md
                 - Princípios Gerais do Projeto: Avaliacao/VerificaoDoPrincipiosGeraisDoProjeto.md
                 - Metas de Usabilidade: Avaliacao/VerificacaoDoMetasDeUsabilidade.md
                 - Guia de Estilo: Avaliacao/VerificacaoDoGuiaDeEstilo.md
