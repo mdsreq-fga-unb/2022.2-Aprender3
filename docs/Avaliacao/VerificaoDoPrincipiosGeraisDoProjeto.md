@@ -1,4 +1,4 @@
-# Verificação dos Guia de Estilo
+# Verificação dos Princípios Gerais do Projeto
 
 ## 1. Introdução
 
@@ -51,7 +51,7 @@ Também optamos por inserir um gráfico de setores como forma de acompanhamento 
 | 23 | O artefato trata do princípio do projeto para erros? | ✅ | - | - | - |
 
 <figcaption align='center'>
-    <b>Checklist da inspeção do Guia de Estilo</b>
+    <b>Checklist da inspeção dos Princípios Gerais do Projeto</b>
         <br><small>Autor: Vinícius Alves de Sousa</small>
 </figcaption> 
 
