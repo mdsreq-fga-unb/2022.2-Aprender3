@@ -45,7 +45,12 @@ Seguindo o planejando da verificação e o checklist representado acima na tabel
   - ❌: 3 artefatos não conforme
 
 ## 5. Gráfico 
+O gráfico a seguir mostra a porcentagem em que o artefato seguiu as exigências do checklist de inspeção.
 
+<center>
+    <img width="80%" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/grafico_verifi_personas.png"/>
+</center>
+<center>Figura 1 - Gráfico de inspeção</center>
 
 ## 6. Referências  
 > Cooper, A.; Reimann, R.; Cronin, D. About Face 3: Th e Essentials of Interaction Design. New York, NY: John Wiley & Sons, 2007.
