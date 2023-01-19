@@ -40,18 +40,15 @@ Também optamos por inserir um gráfico de setores como forma de acompanhamento 
 | 06 | O artefato possui histórico de versão padronizado? | ✅ | - | - | - |
 | 07 | O artefato possui os autores? | ✅ | - | - | - |
 | 08 | O artefato possui os revisores? | ✅ | - | - | - |
-| 09 | As tabelas possuem legendas? | ✅ | - | - | - |
-| 10 | As tabelas possuem fontes? | ❌ | - | Adicionar fonte | - |
-| 11 | As tabelas possuem chamadas dentro do texto? | ✅ | - | - | - |
-| 12 | As imagens possuem legendas? | ✅ | - | - | - |
-| 13 | As imagens possuem fontes? | ❌ | - | Adicionar fonte | - |
-| 14 | As imagens possuem chamadas dentro do texto? | ✅ | - | - | - |
-| 15 | O artefato possui links? | ✅ | - | - | - |
-| 16 | O artefato apresenta as cores da interface? | ✅ | - | - | - |
-| 17 | O artefato condiz com o site? | ✅ | - | - | - |
-| 18 | O artefato instrui de forma completa como utilizar o guia de estilo? | ✅ | - | - | - |
-| 19 | O artefato apresenta a tipografia utilizada? | ✅ | - | - | - |
-| 20 | O artefato possui layout com siposição em grid? | ❌ | - | Adicionar o tópico no artefato | - |
+| 15 | O artefato possui links? | ❌ | - | - | - |
+| 16 | O artefato trata do princípio da correspondência com as expectativas dos usuários? | ✅ | - | - | - |
+| 17 | O artefato trata do princípio da simplicidade nas estruturas das tarefas? | ✅ | - | - | - |
+| 18 | O artefato trata do princípio do equilíbrio entre controle e liberdade do usuário? | ✅ | - | - | - |
+| 19 | O artefato trata do princípio da consistência e padronização? | ✅ | - | - | - |
+| 20 | O artefato trata do princípio da eﬁciência do usuário? | ✅ | - | - | - |
+| 21 | O artefato trata do princípio da antecipação? | ✅ | - | - | - |
+| 22 | O artefato trata do princípio da visibilidade e reconhecimento? | ✅ | - | - | - |
+| 23 | O artefato trata do princípio do projeto para erros? | ✅ | - | - | - |
 
 <figcaption align='center'>
     <b>Checklist da inspeção do Guia de Estilo</b>
@@ -62,12 +59,12 @@ Também optamos por inserir um gráfico de setores como forma de acompanhamento 
 
 Portanto, o resultado do checklist deste artefato foi:
 
-  - ✅: 17 artefatos conforme
-  - ❌: 3 artefatos não conforme
+  - ✅: 22 artefatos conforme
+  - ❌: 1 artefatos não conforme
 
 <br>
 
-![Grafico_verificação_GuiaDeEstilo](https://user-images.githubusercontent.com/77307847/213331886-041f2e2d-b894-4798-9376-cfbeaa113ab9.png)
+![Grafico_verificação_Principios](https://user-images.githubusercontent.com/77307847/213335339-23fe0177-80a3-4e13-812f-8c8960aedbdc.png)
 <figcaption align='center'>
     <b>Relação do checklist entre conformidade/não conformidade</b>
         <br><small>Autor: Vinícius Alves de Sousa</small>
