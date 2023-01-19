@@ -44,6 +44,11 @@ A seguir encontra-se o redirecionamento para o artefato que está sendo analisad
 
 &emsp;&emsp; Portanto, o resultado do checklist deste artefato foi:
 
+![Gráfico Checklist Storyboard](docs\assets\graficos\Grafico_Storyboard.png)
+<figcaption align='center'>
+    <b>Gráfico Checklist Storyboard</b>
+        <br><small>Autor: Thiago Vivan Bastos</small>
+</figcaption> 
   - ✅: 15 artefatos conforme
   - ❌: 4 artefatos não conforme
 
