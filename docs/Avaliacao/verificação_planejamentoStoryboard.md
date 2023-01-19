@@ -48,18 +48,12 @@ A seguir encontra-se o redirecionamento para o artefato que está sendo analisad
   - ❌: 4 artefatos não conforme
 
 
-![imagem](../../../Assets/gráficos_verificação/GráficoExemplo.png)
-<figcaption align='center'>
-    <b>Imagem exemplo do gráfico de pizza de cada artefato</b>
-        <br><small>Autor: Rodolfo Cabral Neves</small>
-</figcaption> 
-
 ## 4. Referências
 
 - [Aula 20 de requisitos - Verificação e Validação](https://aprender3.unb.br/pluginfile.php/2307566/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf)
 
 ## 5. Histórico de Versão
 
-| Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
+| Versão | Data da realização | Data revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------|
-| 1.0    | 17/01/2023 | 18/01/2023 | Criação da página | Thiago Vivan | Igor Thiago |
+| 1.0    | 17/01/2023 | 18/01/2023 | Criação da página | Thiago Vivan | Igor Thiago e Raphaela Guimarães |
