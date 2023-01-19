@@ -11,6 +11,9 @@ Por motivos de falta de tempo não foi possível elaborar a avaliação de todos
 | Avaliação do Planejamento da Avaliação do Protótipo de Papel | Rodolfo Cabral Neves | 24/01/2023 |
 | Avaliação do Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Rodolfo Cabral Neves | 24/01/2023 |
 | Avaliação do Protótipo de Papel | Rodolfo Cabral Neves | 24/01/2023 |
+| Refinamento da Avaliação da Análise de Tarefas | Milena Aires | 24/01/2023 |
+| Refinamento da Avaliação do Perfil do Usuário | Milena Aires | 24/01/2023 |
+| Refinamento da Avaliação das Personas | Milena Aires | 24/01/2023 |
 
 <figcaption align='center'>
     <b>Checklist das atividades que faltam.</b>
