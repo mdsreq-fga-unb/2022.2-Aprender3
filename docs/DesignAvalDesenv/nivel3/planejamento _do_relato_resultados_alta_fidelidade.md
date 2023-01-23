@@ -22,9 +22,9 @@ No teste piloto haverá:
 As avaliações serão por meio da plataforma Discord, uma das ferramentas já utilizadas no projeto pelos membros. 
 Requisitos necessários para a realização da avaliação serão:
 
--Conexão internet de banda larga;
--Dispositivo com suporte para a plataforma Discord;
--Microfone externo ou imbutido.
+ - Conexão internet de banda larga;
+ - Dispositivo com suporte para a plataforma Discord;
+ - Microfone externo ou imbutido.
 
 ## 4. Referências
 

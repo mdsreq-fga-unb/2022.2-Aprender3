@@ -58,16 +58,15 @@ Para cada fluxo, foram criadas uma bateria de perguntas para a coleta das métri
 | 5      | Você teve dificuldade na leitura de alguma informação? |
 | 6      | Você tem algum comentário extra sobre o fluxo que você acabou de percorrer? |
 
-### 3.2.3 Envio de um trabalho
+### 3.2.3 Bloco de notas
 
 | Índice | Pergunta                                                          |
 | ------ | ----------------------------------------------------------------- |
-| 1      | Como você faria para enviar um trabalho? |
-| 2      | Qual é o jeito mais fácil de se fazer isto, dentre as possíveis formas? |
-| 3      | Você sentiu dificuldade de uso em algum momento do fluxo? |
-| 4      | A interface da plataforma ajuda ? |
-| 5      | O que poderia ser melhorado na interface da plataforma, de modo a enviar o trabalho mais facilidade ? |
-| 6      | Você tem algum comentário extra sobre o fluxo que você acabou de percorrer? |
+| 1      | O que você acha sobre a funcionalidade de um bloco de notas na plataforma Aprender ? |
+| 2      | Você já teve alguma necessidade de guardar notas na plataforma Aprender? |
+| 3      | Como você normalmente faz para salvar apontamentos de uma matéria? |
+| 4      | A interface do protótipo ajuda ? |
+| 5      | O que poderia ser melhorado na interface do protótipo ? |
 
 ## 4. Referências
 
@@ -77,3 +76,4 @@ Para cada fluxo, foram criadas uma bateria de perguntas para a coleta das métri
 |    Data    | Versão | Descrição    | Autor(es)    | Revisor            |
 | :--------: | :----: | :----------: | :----------: | :----------------: |
 | 10/01/2023 |  1.0   | Criação do documento inicial |  Rodolfo Cabral Neves | Milena Aires |
+| 22/01/2023 |  1.1   | Atualização de fluxo de trabalho |  Rodolfo Cabral Neves | Milena Aires |
