@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>Análise de Tarefas - Aprender 3</title>
+        <link href="../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css">
+        <link href="../../assets/style.css" rel="stylesheet">
+
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../..">Aprender 3</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem">
+                                <a href="../.." class="nav-link">Home</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Planejamento <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Sites avaliados</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../planejamento/sites_avaliados/avaliacao_camara/" class="dropdown-item">Avaliação Câmara</a>
+</li>
+            
+<li>
+    <a href="../../planejamento/sites_avaliados/avaliacao_aprender3/" class="dropdown-item">Avaliacao Aprender 3</a>
+</li>
+            
+<li>
+    <a href="../../planejamento/sites_avaliados/avaliacao_detran/" class="dropdown-item">Avaliacao Detran</a>
+</li>
+            
+<li>
+    <a href="../../planejamento/sites_avaliados/planejamento_camara/" class="dropdown-item">Planejamento Câmara</a>
+</li>
+            
+<li>
+    <a href="../../planejamento/sites_avaliados/planejamento_aprender3/" class="dropdown-item">Planejamento Aprender 3</a>
+</li>
+            
+<li>
+    <a href="../../planejamento/sites_avaliados/planejamento_inas/" class="dropdown-item">Planejamento INAS</a>
+</li>
+            
+<li>
+    <a href="../../planejamento/sites_avaliados/planejamento_int/" class="dropdown-item">Planejamento INT</a>
+</li>
+    </ul>
+  </li>
+                                    
+<li>
+    <a href="../../planejamento/cronograma/" class="dropdown-item">Cronograma</a>
+</li>
+                                    
+<li>
+    <a href="../../planejamento/metodologia/" class="dropdown-item">Metodologia</a>
+</li>
+                                    
+<li>
+    <a href="../../planejamento/processo_design/" class="dropdown-item">Processo Design</a>
+</li>
+                                    
+<li>
+    <a href="../../planejamento/escolha_site/" class="dropdown-item">Escolha do Site</a>
+</li>
+                                    
+<li>
+    <a href="../../planejamento/ferramentas/" class="dropdown-item">Ferramentas</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown active">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Análise de Requisitos <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../perfil_do_usuario/" class="dropdown-item">Perfil do Usuário</a>
+</li>
+                                    
+<li>
+    <a href="../personas/" class="dropdown-item">Personas</a>
+</li>
+                                    
+<li>
+    <a href="./" class="dropdown-item active">Análise de Tarefas</a>
+</li>
+                                    
+<li>
+    <a href="../metas_de_usabilidade/" class="dropdown-item">Metas de Usabilidade</a>
+</li>
+                                    
+<li>
+    <a href="../principios_gerais/" class="dropdown-item">Princípios Gerais do Projeto</a>
+</li>
+                                    
+<li>
+    <a href="../guia_de_estilo/" class="dropdown-item">Guia de Estilo</a>
+</li>
+                                    
+<li>
+    <a href="../aspectos_eticos/" class="dropdown-item">Aspectos Éticos</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Design, Avaliação e Desenvolvimento <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Nivel 1</a>
+    <ul class="dropdown-menu">
+            
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Análise de Tarefas</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel1/AnaliseTarefass/PlanejamentoAval/" class="dropdown-item">Planejamento da Avaliação tarefas</a>
+</li>
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel1/AnaliseTarefass/PlanejamentoRelatoAval/" class="dropdown-item">Planejamento do Relato dos Resultados tarefas</a>
+</li>
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel1/AnaliseTarefass/ResultadoAnaTarefas/" class="dropdown-item">Relato dos resultados</a>
+</li>
+    </ul>
+  </li>
+            
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Storyboard</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel1/storyboard/planeja_avalia_storyboard/" class="dropdown-item">Planejamento da Avaliação</a>
+</li>
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel1/storyboard/relato_resultados/" class="dropdown-item">Planejamento do Relato de Resultados</a>
+</li>
+    </ul>
+  </li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Nivel 2</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel2/prototipoPapel/" class="dropdown-item">Protótipo de Baixa Fidelidade</a>
+</li>
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel2/planeja_protopapel/" class="dropdown-item">Planejamento da Avaliação</a>
+</li>
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel2/relato_resultados_prototipo_papel/" class="dropdown-item">Planejamento do Relato dos Resultados</a>
+</li>
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel2/relato_de_resultados/" class="dropdown-item">Relato de Resultados</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Nivel 3</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel3/hifi_prototype/" class="dropdown-item">Protótipo de Alta Fidelidade</a>
+</li>
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel3/prototipo_alta_fidelidade/" class="dropdown-item">Planejamento da Avaliação</a>
+</li>
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel3/planejamento%20_do_relato_resultados_alta_fidelidade/" class="dropdown-item">Planejamento do Relato dos Resultados</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Verificação <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../Avaliacao/cronograma/" class="dropdown-item">Cronograma</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/modelo/" class="dropdown-item">Modelo da Verificação</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/verificacao_perfildousuario/" class="dropdown-item">Perfil do Usuário</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/verificacao_personas/" class="dropdown-item">Personas</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/VerificaoDoPrincipiosGeraisDoProjeto/" class="dropdown-item">Princípios Gerais do Projeto</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/VerificacaodoMetasdeUsabilidade/" class="dropdown-item">Metas de Usabilidade</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/VerificacaoDoGuiaDeEstilo/" class="dropdown-item">Guia de Estilo</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/verifica%C3%A7%C3%A3o_planejamentoStoryboard/" class="dropdown-item">Planejamento da Avaliação do Storyboard</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/relatos_resultados_storyBoard/" class="dropdown-item">Relato dos Resultados do StoryBoard</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/verificacao_planejamento_analise_tarefas/" class="dropdown-item">Planejamento da Análise de Tarefas</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/verificacao_analisedetarefas/" class="dropdown-item">Análise de Tarefas</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="navitem">
+                                <a href="../../apresentacoes/" class="nav-link">Apresentações</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Atas <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../atas/reuniao-17-11-2022/" class="dropdown-item">17/11/2022</a>
+</li>
+                                    
+<li>
+    <a href="../../atas/reuniao-19-11-2022/" class="dropdown-item">19/11/2022</a>
+</li>
+                                    
+<li>
+    <a href="../../atas/reuniao-23-11-2022/" class="dropdown-item">23/11/2022</a>
+</li>
+                                    
+<li>
+    <a href="../../atas/reuniao-07-12-2022/" class="dropdown-item">07/12/2022</a>
+</li>
+                                    
+<li>
+    <a href="../../atas/reuniao-08-11-2022/" class="dropdown-item">08/12/2022</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../personas/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../metas_de_usabilidade/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#analise-de-tarefas" class="nav-link">Análise de Tarefas</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#1-introducao" class="nav-link">1. Introdução</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#2-analise-hierarquica-de-tarefas-aht" class="nav-link">2. Análise Hierárquica de Tarefas (AHT)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#3-goms-objetivos-operadores-metodos-e-regras-de-selecao" class="nav-link">3. GOMS (Objetivos, Operadores, Métodos e Regras de seleção)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#4-bibliografia" class="nav-link">4. Bibliografia</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#5-historico-de-versao" class="nav-link">5. Histórico de Versão</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="analise-de-tarefas"><center>Análise de Tarefas</h1>
+<h2 id="1-introducao">1. Introdução</h2>
+<p>A análise de tarefas nada mais é do que uma ferramenta de análise de dados para entender as etapas do processo de interação do usuário com o sistema. Isso consiste em dividir as tarefas em subtarefas, de forma que seja possível entender a sequência, hierarquia, condições e critérios de desempenho das tarefas a serem executadas. A análise de tarefas não tem o objetivo de avaliar a usabilidade do produto, somente de documentar o fluxo dos processos.</p>
+<h2 id="2-analise-hierarquica-de-tarefas-aht">2. Análise Hierárquica de Tarefas (AHT)</h2>
+<p>Esta análise se inicia a partir dos objetivos do usuário para identificar as tarefas a serem realizadas a fim de atingir tais objetivos. Um plano serve para indicar a sequencia de tarefas que se deve realizar para atingir um determinado objetivo. Na notação textual, os itens de número zero representam os objetivos, os itens subsequentes são as tarefas e seus subitens representam sub tarefas. Uma operação é especiﬁcada pelas circunstâncias nas quais o objetivo é ativado (input ou entrada), pelas atividades ou ações (actions) que contribuem para atingi-lo e pelas condições que indicam o seu atingimento (feedback).Existem 3 tipos de notação[Tabela 1]:</p>
+<ul>
+<li><strong>1&gt;2</strong> indica que o objetivo é sequencial;</li>
+<li><strong>1+2</strong> indica que o objetivo pode se executado em paralelo;</li>
+<li><strong>1/2</strong> indica que o objetivo é de seleção, ou seja, quando o usuário seleciona uma determinada opção.</li>
+</ul>
+<p><img alt="TabelaHTA" src="/docs/images/TabelaHTA.png" />
+ 
+<figcaption align="center">Tabela HTA, Fonte([1])</figcaption>
+</p>
+<h3 id="21-representacao-textual">2.1 Representação textual</h3>
+<h4 id="211-representacao-textual-do-objetivo-de-se-matricular-em-uma-disciplina">2.1.1 Representação textual do objetivo de se matricular em uma disciplina</h4>
+<p><strong>0.</strong> Matrícula em disciplina
+<br>&emsp;&emsp;<strong>1.</strong> Faça login
+<br>&emsp;&emsp;&emsp;<strong>1.1</strong> Acesse o site do aprender 3
+<br>&emsp;&emsp;&emsp;<strong>1.2</strong> Insira CPF e senha
+<br>&emsp;&emsp;<strong>2.</strong> Localize a matéia desejada
+<br>&emsp;&emsp;&emsp;<strong>2.1</strong> Acesse a busca de matérias (no "Search courses)
+<br>&emsp;&emsp;&emsp;<strong>2.2</strong> Insira o nome da matéria desejada
+<br>&emsp;&emsp;&emsp;<strong>2.3</strong> Pesquise pela matéria clicando na lupa
+<br>&emsp;&emsp;<strong>3.</strong> Matricule-se na matéria
+<br>&emsp;&emsp;&emsp;<strong>3.1</strong> Selecione a matéria desejada
+<br>&emsp;&emsp;&emsp;<strong>3.2</strong> Insira a chave de inscrição (no campo "senha")</p>
+<p>Plano 0: faça 1 - 2 - 3</p>
+<p>Plano 1: faça 1 - 2 - 3 - 4</p>
+<table>
+<thead>
+<tr>
+<th align="left">Objetivos/ operações</th>
+<th align="left">Problemas e recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">0. Matrícula em disciplina</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">1. Faça login 1&gt;2</td>
+<td align="left"><strong>Input</strong>: página do aprender 3 aberta.</td>
+</tr>
+<tr>
+<td align="left">1.1 Acesse o site do aprender 3 1/2</td>
+<td align="left"><strong>Input</strong>: Tela de login</td>
+</tr>
+<tr>
+<td align="left">1.2 Insira CPF e senha 1+2</td>
+<td align="left"><strong>Input</strong>: identificação/senha; <br> <strong>Action</strong>: Inserir a identificação de usuário , senha e clicar no botão de acessar; <br><strong>Feedback</strong>: Quando o site está com um grande número de acessos simultâneos se torna praticamente impossível o login; <br><strong>Problema</strong>: Falha ao efetuar o login;<br> <strong>Recomendação</strong>: Tornar o sistema mais escalável</td>
+</tr>
+<tr>
+<td align="left">2. Localize a matéia desejada 1&gt;2</td>
+<td align="left"><strong>Input</strong>: Tela inicial do aprender após o login</td>
+</tr>
+<tr>
+<td align="left">2.1 Acesse a busca de matérias  (no "Search courses) 1&gt;2</td>
+<td align="left"><strong>Input</strong>: Barra de pesquisa na parte superior direita do site; <br> <strong>Action</strong>: clique no campo de pesquisa</td>
+</tr>
+<tr>
+<td align="left">2.2 Insira o nome da matéria desejada 1&gt;2</td>
+<td align="left"><strong>Input</strong>: Barra de pesquisa na parte superior direita do site;<br> <strong>Action</strong>: Digite o nome da matéria desejada</td>
+</tr>
+<tr>
+<td align="left">2.3 Pesquise pela matéria clicando na lupa 1&gt;2</td>
+<td align="left"><strong>Input</strong>: Barra de pesquisa na parte superior direita do site;<br><strong>Action</strong>: clique na lupa;<br> <strong>Feedback</strong>: Ao pesquisar uma matéria a plataforma não oferece nenhum tipo de filtro, ou seja, mostra todos os resultados que contenham o nome pesquisado; <br><strong>Problema</strong>: Como não tem filtro, se torna confuso achar a matéria desejada , pois além de ter 4 campus na universidade cada matéria tem várias turmas;<br> <strong>Recomendação</strong>: Realizar a criação de filtros para facilitar a pesquisa</td>
+</tr>
+<tr>
+<td align="left">3. Matricule-se na matéria 1&gt;2</td>
+<td align="left"><strong>Input</strong>: Tela de pesquisa (após clicar na lupa)</td>
+</tr>
+<tr>
+<td align="left">3.1 Selecione a matéria desejada 1/2</td>
+<td align="left"><strong>Input</strong>: Tela de pesquisa (após clicar na lupa);<br><strong>Feedback</strong>: Assim que clicar na matéria selecionada o usuário será direcionado para a tela de matrícula da disciplina;<br><strong>Action</strong>: Clicar na matéria selecionada</td>
+</tr>
+<tr>
+<td align="left">3.2 Insira a chave de inscrição (no campo "senha") 1&gt;2</td>
+<td align="left"><strong>Input</strong>: página de matrícula na disciplina; <br><strong>Feedback</strong>: Esta tela mostra o nome do professor responsável pela matéria, uma menssagem de apresentação da disciplina e o grau da disciplina<br><strong>Problema</strong>: Esta tela não tem a opção de vizualizar a senha antes de se matricular, o que atrapalha o usuário;<br><strong>Recomendações</strong>: Criação de uma opção que permita o usuário vizualizar a senha que está sendo digitada antes de se matricular</td>
+</tr>
+</tbody>
+</table>
+<h2 id="3-goms-objetivos-operadores-metodos-e-regras-de-selecao">3. GOMS (Objetivos, Operadores, Métodos e Regras de seleção)</h2>
+<p>De acordo com Barbosa et al [1], o conjunto de modelos GOMS (Goals, Operators, Methods and Selection Rules - Objetivos, Operadores, Métodos e Regras de Seleção), visa analisar o desempenho de usuários que já dominam a ferramenta e não cometem erros, para fornecer uma representação formalizada que pode ser utilizada para prever o desempenho da tarefa.</p>
+<h3 id="31-representacao-da-tarefa-de-entregar-um-trabalho">3.1 Representação da tarefa de entregar um trabalho</h3>
+<p>O modelo GOMS a seguir é feito para analisar um usuário experiente utilizando a plataforma do aprender 3 para entregar um trabalho</p>
+<p>GOAL 0
+GOAL 0: Entregar um trabalho</p>
+<p>GOAL 1: Fazer login</p>
+<p>OP. 1.1: Acessar o site aprender</p>
+<p>OP. 1.2: Preencher dados(CPF e Senha)</p>
+<p>OP. 1.3: Clicar no botão acessar</p>
+<p>GOAL 2: Localizar matéria</p>
+<p>OP. 2.1: reupousar o mouse em cima do botão Meus cursos</p>
+<p>OP. 2.2: clicar na opção desejada</p>
+<p>GOAL 3: Localizar tarefa no meu matéria</p>
+<p>OP. 3.1: clicar na tarefa</p>
+<p>GOAL 4: Enviar tarefa</p>
+<p>OP. 4.1: Clicar no botão adicionar tarefa</p>
+<p>OP. 4.2: Clicar em Arquivos</p>
+<p>OP. 4.3: Selecionar arquivo para fazer upload</p>
+<p>OP. 4.4: Clicar em Salvar Mudanças</p>
+<h2 id="4-bibliografia">4. Bibliografia</h2>
+<p>[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.</p>
+<h2 id="5-historico-de-versao">5. Histórico de Versão</h2>
+<table>
+<thead>
+<tr>
+<th align="center">Data</th>
+<th align="center">Versão</th>
+<th align="center">Descrição</th>
+<th align="center">Autor</th>
+<th align="center">Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">06.12.2022</td>
+<td align="center">1.0</td>
+<td align="center">Realização da Análise de Tarefas</td>
+<td align="center">Igor Thiago</td>
+<td align="center">Milena Aires</td>
+</tr>
+<tr>
+<td align="center">07.12.2022</td>
+<td align="center">1.1</td>
+<td align="center">Padronizando histórico de versão</td>
+<td align="center">Milena Aires</td>
+<td align="center">Vinícius Alves</td>
+</tr>
+<tr>
+<td align="center">07.12.2022</td>
+<td align="center">1.2</td>
+<td align="center">Adicionado o GOMS</td>
+<td align="center">Thiago Vivan</td>
+<td align="center">Igor Thiago</td>
+</tr>
+</tbody>
+</table></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

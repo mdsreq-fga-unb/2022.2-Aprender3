@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>Processo Design - Aprender 3</title>
+        <link href="../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css">
+        <link href="../../assets/style.css" rel="stylesheet">
+
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../..">Aprender 3</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem">
+                                <a href="../.." class="nav-link">Home</a>
+                            </li>
+                            <li class="dropdown active">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Planejamento <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Sites avaliados</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../sites_avaliados/avaliacao_camara/" class="dropdown-item">Avaliação Câmara</a>
+</li>
+            
+<li>
+    <a href="../sites_avaliados/avaliacao_aprender3/" class="dropdown-item">Avaliacao Aprender 3</a>
+</li>
+            
+<li>
+    <a href="../sites_avaliados/avaliacao_detran/" class="dropdown-item">Avaliacao Detran</a>
+</li>
+            
+<li>
+    <a href="../sites_avaliados/planejamento_camara/" class="dropdown-item">Planejamento Câmara</a>
+</li>
+            
+<li>
+    <a href="../sites_avaliados/planejamento_aprender3/" class="dropdown-item">Planejamento Aprender 3</a>
+</li>
+            
+<li>
+    <a href="../sites_avaliados/planejamento_inas/" class="dropdown-item">Planejamento INAS</a>
+</li>
+            
+<li>
+    <a href="../sites_avaliados/planejamento_int/" class="dropdown-item">Planejamento INT</a>
+</li>
+    </ul>
+  </li>
+                                    
+<li>
+    <a href="../cronograma/" class="dropdown-item">Cronograma</a>
+</li>
+                                    
+<li>
+    <a href="../metodologia/" class="dropdown-item">Metodologia</a>
+</li>
+                                    
+<li>
+    <a href="./" class="dropdown-item active">Processo Design</a>
+</li>
+                                    
+<li>
+    <a href="../escolha_site/" class="dropdown-item">Escolha do Site</a>
+</li>
+                                    
+<li>
+    <a href="../ferramentas/" class="dropdown-item">Ferramentas</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Análise de Requisitos <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../analise_de_requisitos/perfil_do_usuario/" class="dropdown-item">Perfil do Usuário</a>
+</li>
+                                    
+<li>
+    <a href="../../analise_de_requisitos/personas/" class="dropdown-item">Personas</a>
+</li>
+                                    
+<li>
+    <a href="../../analise_de_requisitos/analise_de_tarefas/" class="dropdown-item">Análise de Tarefas</a>
+</li>
+                                    
+<li>
+    <a href="../../analise_de_requisitos/metas_de_usabilidade/" class="dropdown-item">Metas de Usabilidade</a>
+</li>
+                                    
+<li>
+    <a href="../../analise_de_requisitos/principios_gerais/" class="dropdown-item">Princípios Gerais do Projeto</a>
+</li>
+                                    
+<li>
+    <a href="../../analise_de_requisitos/guia_de_estilo/" class="dropdown-item">Guia de Estilo</a>
+</li>
+                                    
+<li>
+    <a href="../../analise_de_requisitos/aspectos_eticos/" class="dropdown-item">Aspectos Éticos</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Design, Avaliação e Desenvolvimento <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Nivel 1</a>
+    <ul class="dropdown-menu">
+            
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Análise de Tarefas</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel1/AnaliseTarefass/PlanejamentoAval/" class="dropdown-item">Planejamento da Avaliação tarefas</a>
+</li>
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel1/AnaliseTarefass/PlanejamentoRelatoAval/" class="dropdown-item">Planejamento do Relato dos Resultados tarefas</a>
+</li>
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel1/AnaliseTarefass/ResultadoAnaTarefas/" class="dropdown-item">Relato dos resultados</a>
+</li>
+    </ul>
+  </li>
+            
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Storyboard</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel1/storyboard/planeja_avalia_storyboard/" class="dropdown-item">Planejamento da Avaliação</a>
+</li>
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel1/storyboard/relato_resultados/" class="dropdown-item">Planejamento do Relato de Resultados</a>
+</li>
+    </ul>
+  </li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Nivel 2</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel2/prototipoPapel/" class="dropdown-item">Protótipo de Baixa Fidelidade</a>
+</li>
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel2/planeja_protopapel/" class="dropdown-item">Planejamento da Avaliação</a>
+</li>
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel2/relato_resultados_prototipo_papel/" class="dropdown-item">Planejamento do Relato dos Resultados</a>
+</li>
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel2/relato_de_resultados/" class="dropdown-item">Relato de Resultados</a>
+</li>
+    </ul>
+  </li>
+                                    
+  <li class="dropdown-submenu">
+    <a href="#" class="dropdown-item">Nivel 3</a>
+    <ul class="dropdown-menu">
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel3/hifi_prototype/" class="dropdown-item">Protótipo de Alta Fidelidade</a>
+</li>
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel3/prototipo_alta_fidelidade/" class="dropdown-item">Planejamento da Avaliação</a>
+</li>
+            
+<li>
+    <a href="../../DesignAvalDesenv/nivel3/planejamento%20_do_relato_resultados_alta_fidelidade/" class="dropdown-item">Planejamento do Relato dos Resultados</a>
+</li>
+    </ul>
+  </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Verificação <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../Avaliacao/cronograma/" class="dropdown-item">Cronograma</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/modelo/" class="dropdown-item">Modelo da Verificação</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/verificacao_perfildousuario/" class="dropdown-item">Perfil do Usuário</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/verificacao_personas/" class="dropdown-item">Personas</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/VerificaoDoPrincipiosGeraisDoProjeto/" class="dropdown-item">Princípios Gerais do Projeto</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/VerificacaodoMetasdeUsabilidade/" class="dropdown-item">Metas de Usabilidade</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/VerificacaoDoGuiaDeEstilo/" class="dropdown-item">Guia de Estilo</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/verifica%C3%A7%C3%A3o_planejamentoStoryboard/" class="dropdown-item">Planejamento da Avaliação do Storyboard</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/relatos_resultados_storyBoard/" class="dropdown-item">Relato dos Resultados do StoryBoard</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/verificacao_planejamento_analise_tarefas/" class="dropdown-item">Planejamento da Análise de Tarefas</a>
+</li>
+                                    
+<li>
+    <a href="../../Avaliacao/verificacao_analisedetarefas/" class="dropdown-item">Análise de Tarefas</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="navitem">
+                                <a href="../../apresentacoes/" class="nav-link">Apresentações</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Atas <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../atas/reuniao-17-11-2022/" class="dropdown-item">17/11/2022</a>
+</li>
+                                    
+<li>
+    <a href="../../atas/reuniao-19-11-2022/" class="dropdown-item">19/11/2022</a>
+</li>
+                                    
+<li>
+    <a href="../../atas/reuniao-23-11-2022/" class="dropdown-item">23/11/2022</a>
+</li>
+                                    
+<li>
+    <a href="../../atas/reuniao-07-12-2022/" class="dropdown-item">07/12/2022</a>
+</li>
+                                    
+<li>
+    <a href="../../atas/reuniao-08-11-2022/" class="dropdown-item">08/12/2022</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../metodologia/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../escolha_site/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#processo-de-design" class="nav-link">Processo de Design</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#1-introducao" class="nav-link">1. Introdução</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#2-objetivo" class="nav-link">2. Objetivo</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#3-processos-de-design" class="nav-link">3. Processos de Design</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#4-justificativa" class="nav-link">4. Justificativa</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#5-bibliografia" class="nav-link">5. Bibliografia</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#6-historico-de-versao" class="nav-link">6. Histórico de versão</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="processo-de-design">Processo de Design</h1>
+<h2 id="1-introducao">1. Introdução</h2>
+<p>O Processo de Design contempla três atividades básicas, são elas: análise da situação atual, síntese de uma intervenção e a avaliação da nova situação. Estas atividades têm como objetivos, estudar e interpretar a situação atual, para que seja possível desenvolver um planejamento e realizar a melhor execução de uma intervenção na situação atual e, por fim, examinar os efeitos da intervenção realizada, comparando a situação analisada anteriormente com a nova situação, atingida após a intervenção (Barbosa, 1999).</p>
+<p>Os processos de design possuem a execução de atividades de forma interativa, ou seja, permite que realizemos refinamentos sucessivos da análise da situação atual e da proposta de intervenção em questão.</p>
+<h2 id="2-objetivo">2. Objetivo</h2>
+<p>Este documento tem por objetivo indicar os diferentes ciclos de intervenção — processos de design — analisados, expor como suas atividades básicas são divididas e definidas em cada modelo. O estudo dos processos e a análise das problemáticas do site escolhido, permitirá realizar a escolha do modelo mais adequado a ser escolhido.</p>
+<h2 id="3-processos-de-design">3. Processos de Design</h2>
+<h3 id="31-engenharia-de-usabilidade-mayhew">3.1 Engenharia de Usabilidade Mayhew</h3>
+<p>Baseando-se em uma visão holística,  o ciclo Mayhew — Proposto por Deborah Mayhew (1999) — reúne a organização de diferentes atividades propostas pela área de Interação Humano-Computador para orientar o trabalho do design. Apresenta três fases principais que devem ser seguidas durante o processo iterativo.</p>
+<p><center>
+    <img width="80%" src="https://user-images.githubusercontent.com/77307847/203667451-8f9045a5-bff9-40fa-97d9-4abc18a1e1f0.png"/>
+</center>
+<center>Figura 1 - Engenharia de Usabilidade Mayhew</center></p>
+<ul>
+<li>
+<p><strong>Análise de requisitos:</strong> a análise de requisitos configura a primeira fase do ciclo de Mayhew, onde são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e os princípios gerais de design do projeto.</p>
+</li>
+<li>
+<p><strong>Design, avaliação e desenvolvimento:</strong> a segunda fase do ciclo, caracterizada por design, avaliação e desenvolvimento, tem por objetivo a criação de uma solução que se baseia nas metas de usabilidade definidas durante a análise de requisitos. Esta etapa se divide em três níveis de detalhe, basicamente divididos em: projeto e avaliação do modelo conceitual, prototipação e avaliação do design de interfaces, e análise interativa das interfaces propostas.</p>
+</li>
+<li>
+<p><strong>Instalação:</strong> na terceira e última fase do ciclo, é feita a coleta de opiniões dos usuários após um tempo de uso do produto. Tais opiniões serão utilizadas para futuras melhorias do sistema.</p>
+</li>
+</ul>
+<h3 id="32-engenharia-de-usabilidade-nielsen">3.2 Engenharia de Usabilidade Nielsen</h3>
+<p>De acordo com Jakob Nielsen (1993) , a engenharia de usabilidade visa o desenvolvimento de interfaces com os seguintes atributos:</p>
+<ul>
+<li>
+<p><strong>Produtividade na realização de atividades:</strong> a interface deve permitir bom desempenho do usuário na realização de suas tarefas.</p>
+</li>
+<li>
+<p><strong>Facilidade de aprendizado:</strong> deve ser fácil para o usuário aprender a utilizar o software.</p>
+</li>
+<li>
+<p><strong>Retenção do aprendizado com uso intermitente:</strong> a interface deve permitir que o usuário consiga utilizar o software adequadamente mesmo quando fica sem usá-lo por um período relativamente longo de tempo.</p>
+</li>
+<li>
+<p><strong>Prevenção de erros do usuário:</strong> o sistema deve prevenir erros do usuário quando o utiliza em suas atividades.</p>
+</li>
+<li>
+<p><strong>Satisfação:</strong> o usuário deve gostar de utilizar o sistema.</p>
+</li>
+</ul>
+<h3 id="33-ciclo-de-vida-em-estrela">3.3 Ciclo de Vida em Estrela</h3>
+<p>Proposto por Hartson e Hix em 1989, o ciclo de vida em estrela, a sequência das atividades é decisão do designer, que leva em consideração os recursos disponíveis no momento de iniciar o projeto, se tornando flexível e exigindo experiência dos profissionais. O ciclo divide-se em quatro atividades principais:</p>
+<p><center>
+    <img width="80%" src="https://user-images.githubusercontent.com/77307847/203668449-099b9600-3988-4540-a044-cfc9dc18ebc8.png"/>  <br />
+</center></p>
+<p><center>Figura 2 - Ciclo de Vida em Estrela</center></p>
+<ul>
+<li>
+<p><strong>Análise de tarefas, usuários e funções:</strong> o objetivo é identificar e compreender os problemas da situação atual, levantamento das necessidades e das oportunidades de melhoria</p>
+</li>
+<li>
+<p><strong>Especificação de requisitos:</strong> irá definir quais problemas serão resolvidos com a intervenção proposta. Esta atividade visa consolidar a análise realizada durante a primeira etapa.</p>
+</li>
+<li>
+<p><strong>Síntese:</strong> é segmentada em:</p>
+<ul>
+<li><strong>Criação</strong> da solução de IHC, chamada de projeto conceitual e especificação do design</li>
+<li><strong>Prototipação</strong>, onde são elaboradas versões interativas para a solução proposta;</li>
+<li>Atividade de <strong>implementação</strong>, momento em que a solução será colocada efetivamente em vigor.</li>
+</ul>
+</li>
+<li>
+<p><strong>Avaliação:</strong> colocada como principal atividade do modelo, após a conclusão de cada atividade, o designer deve avaliar os resultados obtidos para verificar se encontrou ou está no caminho certo para encontrar uma solução satisfatória.</p>
+</li>
+</ul>
+<h2 id="4-justificativa">4. Justificativa</h2>
+<p>Entre os modelos discutidos, o Ciclo de Mayhew foi avaliado como o modelo mais adequado para o projeto do site aprender 3. Pelo fato de seus artefatos serem mais completos e existir um direcionamento entre as etapas, todos os participantes do grupo julgaram este ser o modelo ideal a ser utilizado na disciplina de Interação Humano-Computador, sendo possível, a utilização de alguns artefatos de outros modelos, não se restringindo a um único modelo que pode se mostrar incompleto em algum dos processos do projeto.</p>
+<h2 id="5-bibliografia">5. Bibliografia</h2>
+<blockquote>
+<p>BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.</p>
+</blockquote>
+<h2 id="6-historico-de-versao">6. Histórico de versão</h2>
+<table>
+<thead>
+<tr>
+<th align="center">Data</th>
+<th align="center">Versão</th>
+<th align="center">Descrição</th>
+<th align="center">Autor(es)</th>
+<th align="center">Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">19.11.2022</td>
+<td align="center">1.0</td>
+<td align="center">Criação do documento e adição do Processo de Design escolhido</td>
+<td align="center">Vinícius Alves de Sousa</td>
+<td align="center">Thiago Vivan Bastos</td>
+</tr>
+</tbody>
+</table></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

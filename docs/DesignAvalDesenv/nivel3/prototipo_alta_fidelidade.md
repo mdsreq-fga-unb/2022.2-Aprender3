@@ -54,9 +54,8 @@ Para cada fluxo, foram criadas uma bateria de perguntas para a coleta das métri
 | 1      | Como você faria para se matricular numa matéria? |
 | 2      | Você sentiu dificuldade de uso em algum momento do fluxo? |
 | 3      | A interface da plataforma ajuda ? |
-| 4      | O que poderia ser melhorado na interface da plataforma, de modo a realizar a matrícula com mais facilidade ? |
-| 5      | Você teve dificuldade na leitura de alguma informação? |
-| 6      | Você tem algum comentário extra sobre o fluxo que você acabou de percorrer? |
+| 4      | O que acha do protótipo desenvolvido ? |
+| 5      | O que pode ser melhorado nesse protótipo ? |
 
 ### 3.2.3 Bloco de notas
 

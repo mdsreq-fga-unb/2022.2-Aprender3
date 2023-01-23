@@ -4,7 +4,7 @@ extra_css:
         - assets/style.css
 
 theme:
-  name: material
+  name: mkdocs
   language: pt
   
 nav:
