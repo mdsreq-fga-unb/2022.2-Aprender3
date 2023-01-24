@@ -7,8 +7,7 @@ Por motivos de falta de tempo não foi possível elaborar a avaliação de todos
 
 |  Descrição | Responsável | Data de entrega |
 |-----------|-----------|-----------|
-| Avaliação do Relato dos resultados da Análise de tarefas | Rodolfo Cabral Neves | 24/01/2023 |
-| Avaliação do Planejamento da Avaliação do Protótipo de Papel | Rodolfo Cabral Neves | 24/01/2023 |
+| Planejamento da Avaliação do Protótipo de Papel | Rodolfo Cabral Neves | 24/01/2023 |
 | Avaliação do Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Rodolfo Cabral Neves | 24/01/2023 |
 | Avaliação do Protótipo de Papel | Rodolfo Cabral Neves | 24/01/2023 |
 | Refinamento da Avaliação da Análise de Tarefas | Milena Aires | 24/01/2023 |
