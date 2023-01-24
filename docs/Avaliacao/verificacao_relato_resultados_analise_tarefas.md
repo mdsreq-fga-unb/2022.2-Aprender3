@@ -63,5 +63,4 @@
 
 | Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------|
-| 1.0    | 24/01/2023 | 24/01/2023 | Adicionar o documento da avaliação do Relato dos resultados da Análise de tarefas
- | Rodolfo Cabral Neves | Milena Aires |
+| 1.0    | 24/01/2023 | 24/01/2023 | Adicionar o documento da avaliação do Relato dos resultados da Análise de tarefas | Rodolfo Cabral Neves | Milena Aires |
