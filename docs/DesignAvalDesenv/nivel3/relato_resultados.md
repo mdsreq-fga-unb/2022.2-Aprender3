@@ -55,3 +55,4 @@ O processo de escolha dos participantes e o número de participantes foram escol
 | Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------|
 | 1.0    | 25/01/2023 | 25/01/2023 | Criação do documento inicial | Rodolfo Cabral Neves | Thiago Vivan |
+| 1.1    | 25/01/2023 | 25/01/2023 | Adição de entrevista e elementos da pág | Thiago Vivan Bastos | Rodolfo Cabral Neves |
