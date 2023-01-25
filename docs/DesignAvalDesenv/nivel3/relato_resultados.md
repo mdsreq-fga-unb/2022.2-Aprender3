@@ -21,7 +21,7 @@ De acordo com Barbosa e Silva (2010), entrevistas permitem ao avaliador coletar 
 ## 4. Entrevistas
 
 <p align="justify">
-No total foram realizadas apenas 2 entrevistas e ambas foram usadas para avaliação do protótipo. Sendo os participantes estudantes regulares graduação da Faculdade do Gama - FGA. 
+O processo de escolha dos participantes e o número de participantes foram escolhidos de acordo com as observações de [1]Dummas e Redish(1999), os quais afirmam que um teste de usabilidade deve ter no mínimo de 2 a 3 pessoas. Dessa forma, o Processo de recrutamento dos entrevistados levou em consideração a escolha de participantes os quais, utilizaram em um passado recente, ou utilizaram a plataforma Aprender 3 em um futuro próximo. 
 </p>
 
 ### 4.1 Entrevista 1
@@ -34,9 +34,22 @@ No total foram realizadas apenas 2 entrevistas e ambas foram usadas para avalia�
  Durante a entrevista tivemos alguns problemas com relação a pequenos cortes de Internet, porém nada que comprometesse a integridade da entrevista.
 </p>
 
+### 4.2 Entrevista 2
+
+<iframe width="560" height="315" src="https://youtu.be/K5cOvuAPqPo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+<p align="justify">
+ A Segunda entrevista foi realizada no dia 24 de Janeiro de 2023, as 20:00 e teve a duração total de 4 minutos e 39 segundos. O participante se chama Lucas Amorim Saldanha, estudante do curso de graduação Engenharia de Energia da Faculdade do Gama - FGA.
+</p>
+
+#### 4.2.1 Notas do Avaliador
+    - Existe a necessidade de melhorar o estilo de alguns botões, para deixá-los mais intuitivos e fáceis de serem encontrados. Ex: Botão de realizar mátricula em Disciplina, Botão de excluir notas.
+
+    - Existe a possibilidade de refatorar o elemento visual o qual indica que a matrícula foi concluida para melhorar o entendimento. (Adicionar uma frase "Matricula concluída" ao lado do elemento visual "check").
+
 
 ## . Referências
-
+[1]ROSA, José Guilherme. Avaliação E Projeto No Design De Interfaces, Editora : 2AB (1 janeiro 2010)
 ## . Histórico de versão
 
 | Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
