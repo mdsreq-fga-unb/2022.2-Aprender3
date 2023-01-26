@@ -33,7 +33,8 @@ O processo de escolha dos participantes e o número de participantes foram escol
 
  Durante a entrevista tivemos alguns problemas com relação a pequenos cortes de Internet, porém nada que comprometesse a integridade da entrevista.
 
-O Johnson , a partir do nosso protótipo navegou no fluxo de pesquisa de matéria e bloco de notas, e através dele identificou significativas melhorias e alguns pontos a melhorar no protótipo, mas que no final afirmou que o protótipo apresentou informações relevantes e apenas aquilo que é necessário para a utilização do fluxo. 
+O Johnson , a partir do nosso protótipo navegou no fluxo de pesquisa de matéria e bloco de notas, e através dele identificou significativas melhorias e alguns pontos a melhorar no protótipo, mas que no final afirmou que o protótipo apresentou informações relevantes e apenas aquilo que é necessário para a utilização do fluxo.
+</p>
 
 #### 4.1.1 Notas do Avaliador
 
@@ -41,7 +42,6 @@ O Johnson , a partir do nosso protótipo navegou no fluxo de pesquisa de matéri
 
     - No fluxo de pesquida de matéria, o protótipo deve manter a nagecação na mesma página, de modo a melhorar a usabilidade.
 
-</p>
 
 ### 4.2 Entrevista 2
 
@@ -65,3 +65,4 @@ O Johnson , a partir do nosso protótipo navegou no fluxo de pesquisa de matéri
 |--------|------|------|-----------|-------|---------|
 | 1.0    | 25/01/2023 | 25/01/2023 | Criação do documento inicial | Rodolfo Cabral Neves | Thiago Vivan |
 | 1.1    | 25/01/2023 | 25/01/2023 | Adição de entrevista e elementos da pág | Thiago Vivan Bastos | Rodolfo Cabral Neves |
+| 1.2    | 25/01/2023 | 25/01/2023 | Pequenas correções | Rodolfo Cabral Neves |Thiago Vivan Bastos|
