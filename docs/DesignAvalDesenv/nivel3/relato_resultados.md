@@ -29,9 +29,18 @@ O processo de escolha dos participantes e o número de participantes foram escol
 <iframe width="560" height="315" src="https://youtu.be/OMEpeEg8zFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <p align="justify">
- A primeira entrevista foi realizada no dia 24 de Janeiro de 2023, as 13:00 e teve a duração total de 12 minutos e 26 segundos. O participante se chama Emmanuel Kwabena Mensah Johnson, natural de Ghana e estudante do curso de graduação Engenharia Eletrônica da Faculdade do Gama - FGA.
+ A primeira entrevista foi realizada no dia 24 de Janeiro de 2023, as 13:00 e teve a duração total de 12 minutos e 26 segundos. O avaliador chama-se Rodolfo neves, estudante regular do curso de Engenharia de Software da Faculdade do Gama - FGA, e o participante se chama Emmanuel Kwabena Mensah Johnson, natural de Ghana e estudante do curso de graduação Engenharia Eletrônica da mesma faculdade.
 
  Durante a entrevista tivemos alguns problemas com relação a pequenos cortes de Internet, porém nada que comprometesse a integridade da entrevista.
+
+O Johnson , a partir do nosso protótipo navegou no fluxo de pesquisa de matéria e bloco de notas, e através dele identificou significativas melhorias e alguns pontos a melhorar no protótipo, mas que no final afirmou que o protótipo apresentou informações relevantes e apenas aquilo que é necessário para a utilização do fluxo. 
+
+#### 4.1.1 Notas do Avaliador
+
+    - O protótipo apresenta um design limpo, informações somente necessárias, porém deve melhorar no quesito de utilização de pop-ups no fluxo de bloco de notas.
+
+    - No fluxo de pesquida de matéria, o protótipo deve manter a nagecação na mesma página, de modo a melhorar a usabilidade.
+
 </p>
 
 ### 4.2 Entrevista 2
