@@ -26,7 +26,7 @@ O processo de escolha dos participantes e o número de participantes foram escol
 
 ### 4.1 Entrevista 1
 
-<iframe width="560" height="315" src="https://youtu.be/OMEpeEg8zFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OMEpeEg8zFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <p align="justify">
  A primeira entrevista foi realizada no dia 24 de Janeiro de 2023, as 13:00 e teve a duração total de 12 minutos e 26 segundos. O avaliador chama-se Rodolfo neves, estudante regular do curso de Engenharia de Software da Faculdade do Gama - FGA, e o participante se chama Emmanuel Kwabena Mensah Johnson, natural de Ghana e estudante do curso de graduação Engenharia Eletrônica da mesma faculdade.
@@ -45,7 +45,7 @@ O Johnson , a partir do nosso protótipo navegou no fluxo de pesquisa de matéri
 
 ### 4.2 Entrevista 2
 
-<iframe width="560" height="315" src="https://youtu.be/K5cOvuAPqPo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K5cOvuAPqPo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <p align="justify">
  A Segunda entrevista foi realizada no dia 24 de Janeiro de 2023, as 20:00 e teve a duração total de 4 minutos e 39 segundos. O participante se chama Lucas Amorim Saldanha, estudante do curso de graduação Engenharia de Energia da Faculdade do Gama - FGA.
