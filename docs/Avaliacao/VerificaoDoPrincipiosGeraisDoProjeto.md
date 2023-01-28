@@ -70,8 +70,7 @@ Portanto, o resultado do checklist deste artefato foi:
         <br><small>Autor: Vinícius Alves de Sousa</small>
 </figcaption> 
 
-## 4. Referências
-
+## 4. Bibliografia
 - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 - [Lista de Verificação da Qualidade de Artefatos - Checklist Ágil - Ministério da Agricultura, Pecuária e Abastecimento](https://www.gov.br/agricultura/pt-br/pregao-eletronico-no-05-2018/diretrizes/lista-de-verificacao-da-qualidade-de-artefatos-checklist-agil.xls/view) <div id="ExemploChecklist" />
 - [Aula 20 de requisitos - Verificação e Validação](https://aprender3.unb.br/pluginfile.php/2307566/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf)
