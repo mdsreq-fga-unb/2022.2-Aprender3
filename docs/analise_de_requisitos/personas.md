@@ -84,7 +84,7 @@
 <p>Tabela 4: Antipersona</p>
 </div>
     
-## 6. Referência
+## 6. Bibliografia
 
 > Cooper, A.; Reimann, R.; Cronin, D. About Face 3: Th e Essentials of Interaction Design. New York, NY: John Wiley & Sons, 2007.
 
