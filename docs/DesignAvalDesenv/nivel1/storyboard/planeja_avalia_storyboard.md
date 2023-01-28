@@ -94,11 +94,11 @@ Para a realização das entrevistas, o avaliador deve apresentar o termo de cons
 
 Após a conclusão de cada entrevista, o avaliador deverá elaborar o relatório dos resultados obtidos na entrevista, nele deve conter as respostas dadas pelo entrevistado suas sugestões e a análise do entrevistador referente a esses dados obtidos.
 
-## Bibliografia
+## 13. Bibliografia
 
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
-## Histórico de Versão
+## 14. Histórico de Versão
 
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
