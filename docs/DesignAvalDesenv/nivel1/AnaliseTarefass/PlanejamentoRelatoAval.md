@@ -29,10 +29,10 @@ Durante as entrevistas, os estrevistadores devem obter conssetimento do usuário
 | 20/12/2022 <br> às 22:00 | Documentação da análise de entrevistas | Milena | Raphaela |
 
 
-## 4. Bibliografia
+## 5. Bibliografia
  [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-## 5. Histórico de Versão
+## 6. Histórico de Versão
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 | 06.12.2022 | 1.0 | Realização do Planejamento da Avaliação da Análise de Tarefas | Milena Aires | Igor Thiago |
