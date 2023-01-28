@@ -50,7 +50,7 @@ O gráfico a seguir mostra a porcentagem em que o artefato seguiu as exigências
 </center>
 <center>Figura 1 - Gráfico de inspeção</center>
 
-## 5. Referências  
+## 5. Bibliografia  
 > - [Aula 20 de requisitos - Verificação e Validação](https://aprender3.unb.br/pluginfile.php/2307566/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf)
 
 ## 6. Histórico de Versão
