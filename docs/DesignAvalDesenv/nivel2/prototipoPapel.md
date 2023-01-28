@@ -47,10 +47,10 @@ Protótipo de papel página de procura de disciplina
 Protótipo de papel página de notas
 
 
-## 6. Bibliografia
+## 5. Bibliografia
  [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-## 7. Histórico de Versão
+## 6. Histórico de Versão
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 | 10.01.2023 | 1.0 | Criação do documento e protótipo de papel |  Thiago Vivan |   |
