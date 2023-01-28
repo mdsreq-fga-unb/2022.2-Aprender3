@@ -26,7 +26,7 @@ Requisitos necessários para a realização da avaliação serão:
  - Dispositivo com suporte para a plataforma Discord;
  - Microfone externo ou imbutido.
 
-## 4. Referências
+## 4. Bibliografia
 
 [1] BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Rio de Janeiro: Elsevier Editora Ltda, 2010.
 
