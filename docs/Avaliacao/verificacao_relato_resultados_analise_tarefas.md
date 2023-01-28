@@ -55,7 +55,7 @@
         <br><small>Autor: Rodolfo Cabral Neves</small>
 </figcaption>
 
-## 4. Referências
+## 4. Bibliografia 
 
  - [Interação Humano-Computador e Experiência do Usuário de Simone Barbosa](https:/www.amazon.com.br/Intera%C3%A7%C3%A3o-Humano-Computador-Simone-Junqueira-Barbosa/dp/8535234187)
 
