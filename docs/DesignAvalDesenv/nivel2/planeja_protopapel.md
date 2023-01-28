@@ -22,10 +22,10 @@ Será feito um protótipo de papel da tela de matrícula em disciplina onde o us
 ### 4.2 Bloco de notas e Organização
 Uma tela prototipada com um bloco de notas para o usuário afim de organizar entregas e atividades das disciplinas, onde terá autonomia de editar e organizar da melhor forma para o mesmo. 
 
-## 6. Bibliografia
+## 5. Bibliografia
  [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-## 7. Histórico de Versão
+## 6. Histórico de Versão
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 | 21.12.2022 | 1.0 | Realização do Planejamento da Avaliação do Protótipo de Papel | Milena Aires | Raphaela Guimarães |
