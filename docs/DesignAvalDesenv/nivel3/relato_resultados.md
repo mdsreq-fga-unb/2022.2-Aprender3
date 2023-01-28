@@ -57,9 +57,11 @@ O Johnson , a partir do nosso protótipo navegou no fluxo de pesquisa de matéri
     - Existe a possibilidade de refatorar o elemento visual o qual indica que a matrícula foi concluida para melhorar o entendimento. (Adicionar uma frase "Matricula concluída" ao lado do elemento visual "check").
 
 
-## . Referências
+## 5. Bibliografia 
+
 [1]ROSA, José Guilherme. Avaliação E Projeto No Design De Interfaces, Editora : 2AB (1 janeiro 2010)
-## . Histórico de versão
+
+## 6. Histórico de versão
 
 | Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------|
