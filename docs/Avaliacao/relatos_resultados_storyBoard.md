@@ -57,8 +57,7 @@
         <br><small>Autor: Rodolfo Cabral Neves</small>
 </figcaption>
 
-## 4. Referências
-
+## 4. Bibliografia
 -  [Aula 12](https://aprender3.unb.br/course/view.php?id=16386)
 - [Planejamento do relato dos resultados do StoryBoard](../../DesignAvalDesenv/nivel1/storyboard/relato_resultados.md)
 
