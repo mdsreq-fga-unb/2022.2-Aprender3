@@ -67,7 +67,7 @@ Para cada fluxo, foram criadas uma bateria de perguntas para a coleta das métri
 | 4      | A interface do protótipo ajuda ? |
 | 5      | O que poderia ser melhorado na interface do protótipo ? |
 
-## 4. Referências
+## 4. Bibliografia
 
 [1] BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Rio de Janeiro: Elsevier Editora Ltda, 2010.
 
