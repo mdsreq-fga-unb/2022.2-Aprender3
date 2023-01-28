@@ -53,7 +53,7 @@ A seguir encontra-se o redirecionamento para o artefato que está sendo analisad
   - ❌: 4 artefatos não conforme
 
 
-## 4. Referências
+## 4. Bibliografia
 
 - [Aula 20 de requisitos - Verificação e Validação](https://aprender3.unb.br/pluginfile.php/2307566/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf)
 
