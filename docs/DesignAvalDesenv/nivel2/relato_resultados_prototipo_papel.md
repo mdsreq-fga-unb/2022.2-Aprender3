@@ -18,7 +18,7 @@ O grupo realizou a escolha de utilizar como método para esta avaliação a entr
 A avaliação poderá ser feita presencialmente marcando um horário com o entrevistado e o entrevistador. Ou poderá ser feita via on-line, na plataforma Discord ou Microsoft Teams.
 
 <p style="text-indent: 20px; text-align: justify"> 
-Os resultados estão aqui relatados seguindo o roteiro de respostas e interações dos entrevistados conforme as perguntas que o grupo havia roteirizado no planejamento, e que podem ser visualizados na tabela abaixo:
+Os planejamentos dos resultados estão aqui relatados seguindo o roteiro de respostas e interações dos entrevistados conforme as perguntas que o grupo havia roteirizado no planejamento, e que podem ser visualizados na tabela abaixo:
 </p>
 
 | Número | Pergunta | Resposta |
