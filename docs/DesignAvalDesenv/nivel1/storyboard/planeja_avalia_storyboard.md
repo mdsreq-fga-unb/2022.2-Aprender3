@@ -48,7 +48,7 @@ Em seguida, após a ambientação do entrevistado será mostrado a análise de r
 
 ## 5. Recrutamento dos participantes
 
-Por meio do perfil de usuário foi traçado o público-alvo do projeto. O grupo é composto por estudantes dos cursos de  ciências exatas e de tecnologia na Universidade de Brasília, na faixa etária de 17 a 24 anos. E esse será o perfil buscado para as entrevistas.
+Por meio do [perfil de usuário](../../../analise_de_requisitos/perfil_do_usuario.md) foi traçado o público-alvo do projeto. O grupo é composto por estudantes dos cursos de  ciências exatas e de tecnologia na Universidade de Brasília, na faixa etária de 17 a 24 anos. E esse será o perfil buscado para as entrevistas.
 
 ## 6. Papéis dos Avaliadores
 
@@ -94,12 +94,51 @@ Para a realização das entrevistas, o avaliador deve apresentar o termo de cons
 
 Após a conclusão de cada entrevista, o avaliador deverá elaborar o relatório dos resultados obtidos na entrevista, nele deve conter as respostas dadas pelo entrevistado suas sugestões e a análise do entrevistador referente a esses dados obtidos.
 
-## 13. Bibliografia
+## 13. Storyboard.
+
+Um Storyboard consiste em uma série de desenhos mostrando como um usuário pode progredir em uma tarefa utilizando o produto que está sendo desenvolvido. Para construção do nosso Storyboard definiremos então:
+
+### Pessoas envolvidas.
+
+Utilizaremos um aluno do primeiro semestre como personagem principal, seguindo o modelo do [perfil de usuário](../../../analise_de_requisitos/perfil_do_usuario.md), seus colegas de classe e professor.
+
+### Ambiente da história.
+
+A história se passa em uma sala de aula da faculdade. Foi escolhido esse cenário uma vez que se trata de um ambiente comum para todos os usuários da plataforma.
+
+### Tarefas abordadas. 
+
+As tarefas designadas para serem avaliadas atravéz do Storyboard foram escolhidas de acordo com o artefato [Análise de tarefas](../../../analise_de_requisitos/analise_de_tarefas.md) sendo elas:
+
+Tarefa 1- Realizar matrícula em disciplina.
+
+Tarefa 2- Adicionar uma nova nota.
+
+### O que leva uma pessoa a usar a aplicação.
+
+O ambiente Aprender 3 foi desenvolvido com o intuito de auxiliar os estudantes e estabelecer uma conexão entre alunos e professores. Dessa forma, o usuário será instruído pelo professor a se matricular em sua disciplina para ter acesso aos conteúdos das matérias, bem como o usuário pode utilizar o ambiente de notas como um caderno.
+
+### Como a tarefa será abordada.
+
+A primeira tarefa será abordada com o professor indicando a chave de acesso para matrícula em disciplina, em seguida o personagem principal reclama do processo de matricula, nesse momento um colega de classe diz que o sistema do aprender 3 foi refatorado e que é muito mais fácil agora. Assim, o personagem principal faz login e busca a matéria e por fim, realiza a sua matrícula e fica feliz por já conseguir acessar o conteúdo disponibilizado pelo professor.
+
+A segunda tarefa ocorre com o personagem principal enfrentando dificuldades e se frustrando ao estudar por ter que utilizar um caderno para anotações e um computador para fazer pesquisas e estudar. Em seguida o personagem principal se pergunta se não teria um modo mais fácil de organizar suas anotações no próprio computador ao invés do caderno. Por fim, o personagem principal utiliza as notas no aprender 3 e fica feliz de poder estudar e fazer suas anotações na mesma plataforma.
+
+### Realizações que a aplicação permite.
+
+O Storyboard mostra que utilizando a plataforma o usuário pode utilizar mais facilmente os conteúdos disponibilizados pelos professores, bem como manter anotações atravéz do computador sem ter que utilizar outros aplicativos.
+
+### Necessidades que a aplicação se propõe a sanar.
+
+O atraso e frustração dos usuários ao se cadastrar em uma matéria, bem como a frustração de ter que utilizar diferentes aplicativos para fazer anotações e estudar o conteúdo.
+
+## 14. Bibliografia
 
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
-## 14. Histórico de Versão
+## 15. Histórico de Versão
 
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 |14/12/2022  | 1.0 | Criação do documento| Vinícius Alves e Raphaela Guimarães | Raphaela Guimarães |
+|30/01/2023  | 1.1 | Adição da Descrição do storyboard | Thiago Vivan | Raphaela Guimarães |
