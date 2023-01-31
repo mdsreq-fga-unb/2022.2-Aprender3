@@ -23,7 +23,8 @@ nav:
                 - Processo Design: planejamento/processo_design.md
                 - Escolha do Site: planejamento/escolha_site.md
                 - Ferramentas: planejamento/ferramentas.md
-        - Análise de Requisitos:
+        - Análise de Requisitos: 
+                - Planejamento da Pesquisa: analise_de_requisitos/planejamento_da_pesquisa.md
                 - Perfil do Usuário: analise_de_requisitos/perfil_do_usuario.md
                 - Personas: analise_de_requisitos/personas.md
                 - Análise de Tarefas: analise_de_requisitos/analise_de_tarefas.md
