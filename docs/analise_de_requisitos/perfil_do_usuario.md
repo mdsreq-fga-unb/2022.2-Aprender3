@@ -14,7 +14,14 @@ com	tecnologia,	seu	conhecimento	sobre	domínio	e	tarefas."_ (BARBOSA E SILVA, 2
 ## 3. Metodologia 
   Pesquisa por meio de um questionário online (Google Forms), direcionado aos frequentadores da UnB, com perguntas de resposta única e uma pergunta discursivas.
 
-## 4. Resultados
+## 4. Termo de consentimento 
+Levando em conta os aspectos éticos envolvendo pessoas, antes do usuário responder a pesquisa era submetido a um termo de consentimento.
+  
+- Declaro, por meio deste termo, que concordei em participar na pesquisa referente ao projeto que visa oferecer melhorias para a plataforma Aprender3. O projeto está sendo desenvolvido na Disciplina de Interação Humano Computador – IHC, na Universidade de Brasília, campus do Gama. 
+Afirmo que aceitei participar por minha própria vontade, sem receber qualquer incentivo financeiro ou ter qualquer bônus e com a finalidade exclusiva de colaborar para o sucesso da pesquisa. 
+Fui informado(a) dos objetivos estritamente acadêmicos do estudo e me coloquei a disposição para colaborar. Minha participação se fará anônima e o acesso aos dados se farão apenas pelo avaliador e equipe responsável pelo projeto. Fui ainda informado(a) de que posso me retirar desse(a) estudo / pesquisa a qualquer momento, sem prejuízo para meu acompanhamento ou sofrer quaisquer sanções ou constrangimentos.
+  
+## 5. Resultados
 Os resultados do questionário apresentaram-se insuficientes para traçar os perfis dos usuários dado que foi respondido apenas por alunos. Alguns dados obtidos pelo questionário são:
 
 - Vínculo com a UnB;
@@ -33,7 +40,7 @@ O questionário foi iniciado com o termo de consentimento onde todos os usuário
 </p>
 
 <p style="font-size:13px" align='center' fonte>Figura 1 - Gráfico de aceitação do termo de consentimento</p>
-
+<p style="font-size:13px" align='center' fonte>Fonte: Autor</p>
 <br>
 
 O questionário atingiu apenas os alunos da UnB, e não foi efetivo para traçarmos o perfil do usuário dos professores. Segue o gráfico na figura 2. 
@@ -43,7 +50,7 @@ O questionário atingiu apenas os alunos da UnB, e não foi efetivo para traçar
 </p>
 
 <p style="font-size:13px" align='center'>Figura 2 - Gráfico de vínculo com a UnB</p>
-
+<p style="font-size:13px" align='center' fonte>Fonte: Autor</p>
 <br>
 
 Foi possível notar que os usuários usam constantemente o site Aprender 3 devido aos seguintes dados coletados (figura 3 e 4):
@@ -54,7 +61,7 @@ Foi possível notar que os usuários usam constantemente o site Aprender 3 devid
 </p>
 
 <p style="font-size:13px" align='center'>Figura 3 - Gráfico que mostra se o site Aprender 3 foi usado no semestre 2/2022</p>
-
+<p style="font-size:13px" align='center' fonte>Fonte: Autor</p>
 <br>
 
 <p align='center'>
@@ -63,7 +70,7 @@ Foi possível notar que os usuários usam constantemente o site Aprender 3 devid
 </p>
 
 <p style="font-size:13px" align='center'>Figura 4 - Gráfico que mensura a utilização dos site pelos usuários</p>
-
+<p style="font-size:13px" align='center' fonte>Fonte: Autor</p>
 <br>
 
 A faixa etária dos usuários está em torno de 90% entre, menor de 18 até 23 anos. E apenas 10% se encontra na faixa etária dos 24 ou mais. Mostrando que os usuários do site são jovens (veja a figura 5), desses jovens 90% têm o ensino superior incompleto (figura 6), podemos concluir que são estudantes da UnB que estão cursando o seu primeiro ensino superior nas mais diversas áreas do conhecimento, mas majoritariamente na área da tecnologia e ciências humanas (figura 7).
@@ -73,25 +80,23 @@ A faixa etária dos usuários está em torno de 90% entre, menor de 18 até 23 a
 </p>
 
 <p style="font-size:13px" align='center'>Figura 4 - Gráfico que mensura a utilização dos site pelos usuários</p>
-
+<p style="font-size:13px" align='center' fonte>Fonte: Autor</p>
 <br>
 
 <p align='center'>
     <img width="85%" src="https://user-images.githubusercontent.com/77307847/206328708-d5b33cbe-cc30-4ec8-a82d-07647d45cf5d.png"/>
 </p>
 
-<p style="font-size:13px" align='center'>Figura 6 - Gráfico do nível de escolaridade do usuário
-</p>
-
+<p style="font-size:13px" align='center'>Figura 6 - Gráfico do nível de escolaridade do usuário</p>
+<p style="font-size:13px" align='center' fonte>Fonte: Autor</p>
 <br>
 
 <p align='center'>
     <img width="85%" src="https://user-images.githubusercontent.com/77307847/206328724-6b9e0026-86e7-4ddd-9bc2-ebc45918792f.png"/>
 </p>
 
-<p style="font-size:13px" align='center'>Figura 7 - Gráfico da área do conhecimento do curso do usuário
-</p>
-
+<p style="font-size:13px" align='center'>Figura 7 - Gráfico da área do conhecimento do curso do usuário</p>
+<p style="font-size:13px" align='center' fonte>Fonte: Autor</p>
 <br>
 
 O questionário também revelou que, aproximadamente 50% dos usuários são do sexo feminino (figura 8). Demonstrando que não há um público majoritário nesse quesito. 
@@ -101,7 +106,7 @@ O questionário também revelou que, aproximadamente 50% dos usuários são do s
 </p>
 
 <p style="font-size:13px" align='center'>Figura 8 - Gráfico do gênero dos usuários</p>
-
+<p style="font-size:13px" align='center' fonte>Fonte: Autor</p>
 <br>
 
 Outra característica de suma importância para a análise do usuário foi a definição do dispositivo mais usado para acessar o site Aprender 3, a pesquisa aponta que quase 90% dos usuários utilizam um computador próprio (figura 9) em detrimento dos smartphones e outros dispositivos. Devemos análise se isso se dá devido ao mau desenvolvimento do site nessas outras plataformas.
@@ -111,7 +116,7 @@ Outra característica de suma importância para a análise do usuário foi a def
 </p>
 
 <p style="font-size:13px" align='center'>Figura 9 - Gráfico da distribuição do uso dos dispositivos usados para acessar o site</p>
-
+<p style="font-size:13px" align='center' fonte>Fonte: Autor</p>
 <br>
 
 Foi verificado, ao final, sugestões de melhorias para o site. Assim poderíamos analisar pontos críticos onde deveríamos focar a nossa atenção, pois essas são as maiores dores dos usuários. Seguem as sugestões:
@@ -140,13 +145,14 @@ Foi verificado, ao final, sugestões de melhorias para o site. Assim poderíamos
 - Editar o texto, é difícil e ruim de se colocar fórmulas matemáticas;
 - Layout mais compreensível;
 
-## 5. Bibliografia
+## 6. Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.Interação Humano-Computador e Experiência do usuário. 2021. Autopublicação. ISBN: 978-65-00-19677-1
 
-## 6. Histórico de Versão
+## 7. Histórico de Versão
 
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
-| 07.12.2022 | 1.0 | Criação do documento de perfil do usuário | Milena Aires | Vinícius Alves |
+| 07.12.2022 | 1.0 | Criação e adição do documento de perfil do usuário | Milena Aires | Vinícius Alves |
 | 07.12.2022 | 1.1 | Exposição e análise dos resultados da pesquisa | Vinícius Alves | Milena Aires  |
 | 08.12.2022 | 1.2 | Melhorias apontadas na entrega 2 | Vinícius Alves | Igor Thiago |
+| 31.01.2023 | 1.3 | Adição do termo de consentimento | Milena Aires | Vinícius Alves |
