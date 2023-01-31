@@ -23,37 +23,92 @@ O objetivo dessa atividade é avaliar se o usuário será capaz de realizar a ma
 
 A avaliação deverá ocorrer da seguinte maneira:
 
-Antes de começar essa avaliação, mostre a tela tela do site principal do Aprender3.
+1. Antes de começar essa avaliação, mostre a tela tela do site principal do Aprender3.
 
-Contextualize o usuário, avisando sobre qual a tarefa a ser feita.
+2. Contextualize o usuário, avisando sobre qual a tarefa a ser feita.
 
-Uma vez entendido o contexto, peça para o participante realizar a matrícula.
+3. Uma vez entendido o contexto, peça para o participante realizar a matrícula.
 
-Peça para o usuário realizar o login
+4. Peça para o usuário realizar o login
 
-Se o usuário falar que não sabe qual senha deve inserir, peça para o mesmo recuperar sua senha.
+5. Se o usuário falar que não sabe qual senha deve inserir, peça para o mesmo recuperar sua senha.
 
-Mostre a tela de recuperação de senha. Quando o usuário completar os detalhes referentes a sua conta (CPF ou Email).
+6. Mostre a tela de recuperação de senha. Quando o usuário completar os detalhes referentes a sua conta (CPF ou Email).
 
-Mostre a tela do painel principal da plataforma.
+7. Mostre a tela do painel principal da plataforma.
 
-Observe o participante, caso ele não saiba o que fazer, ajude-o. Informe que é preciso buscar no campo de pesquisa a disciplina.
+8. Observe o participante, caso ele não saiba o que fazer, ajude-o. Informe que é preciso buscar no campo de pesquisa a disciplina.
 
-Após o usuário clicar no de pesquisa, mostre a tela referente à matrícula onde deve ser inserido o nome da disciplina.
+9. Após o usuário clicar no botão de pesquisa, mostre a tela referente à matrícula onde deve ser inserido o nome da disciplina.
 
-Com a pesquisa feita, o usuário deve encontrar a disciplina desejada.
+10. Com a pesquisa feita, o usuário deve encontrar a disciplina desejada.
 
-Deve ser feita a confirmação de matrícula na disciplina deseja e confirmada.
+11. Deve ser feita a confirmação de matrícula na disciplina deseja e confirmada.
 
-Peça para o usuário realizar o logout
+12. Peça para o usuário realizar o logout
+
+Para a tarefa ser dada como concluída o usuário deve conseguir realizar o login, matrícula e por fim logout.
 
 ### 4.2 Bloco de notas 
+O bloco de notas é uma das melhorias que o projeto está propondo afim de que o usuário possa ter uma organização maior na plataforma.
 
+O objetivo dessa atividade é avaliar se o usuário será capaz de utilizar o bloco de notas.
 
-## 5. Bibliografia
+A avaliação deverá ocorrer da seguinte maneira:
+
+1. Antes de começar essa avaliação, mostre a tela tela do site principal do Aprender3.
+
+2. Contextualize o usuário, avisando sobre qual a tarefa a ser feita.
+
+3. Uma vez entendido o contexto, peça para o participante utilizar o bloco de notas.
+
+4. Peça para o usuário realizar o login
+
+5. Se o usuário falar que não sabe qual senha deve inserir, peça para o mesmo recuperar sua senha.
+
+6. Mostre a tela de recuperação de senha. Quando o usuário completar os detalhes referentes a sua conta (CPF ou Email).
+
+7. Mostre a tela do painel principal da plataforma.
+
+8. Observe o participante, caso ele não saiba o que fazer, ajude-o. Informe onde se encontra o bloco de notas.
+
+9. Após o usuário clicar no bloco de notas, mostre a tela referente ao bloco de notas.
+
+10. Com o bloco de notas aberto, o usuário deve utilizar, editar, escrever,etc.
+
+11. Deve ser feita a confirmação de atualização do bloco de notas.
+
+12. Peça para o usuário realizar o logout
+
+Para a tarefa ser dada como concluída o usuário deve conseguir realizar o login, utilizar o bloco de notas e por fim logout.
+
+## 5. Definição dos Participantes e Recrutamento
+
+É de grande importância que os participantes sigam a linha de perfil do usuário que o projeto necessita.
+
+As atividades nessa avaliação podem ser executas pelos seguintes perfis de usuários:
+- Alunos de Graduação
+- Alunos de Pós-Graduação 
+- Alunos de Mestrado
+
+Qualquer pessoa que se encaixe nesse perfil estão aptos a serem recrutados para a atividade de validação.
+
+## 6. Teste Piloto
+
+Realize a avaliação com um membro do projeto escolhido para o teste piloto.
+
+Caso encontre problemas ou surja novas questões de avaliação, anote.
+
+Quando finalizado o teste piloto, leia as anotações e realize as modificações necessárias.
+
+## 7. Conclusão
+
+O presente documento visa orientar e aulixiar o avaliador na avaliação que será realizada. Também dando liberdade ao avaliador para possíveis mudanças da avaliação, mas sempre mantendo a consistência do usuário.
+
+## 8. Bibliografia
  [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-## 6. Histórico de Versão
+## 9. Histórico de Versão
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 | 21.12.2022 | 1.0 | Realização do Planejamento da Avaliação do Protótipo de Papel | Milena Aires | Raphaela Guimarães |
