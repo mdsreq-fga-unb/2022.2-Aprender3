@@ -7,11 +7,9 @@ Entregas da Disciplina
 
 **Especificações para entrega**
 
-O arquivo deve contar a url da wiki do projeto. A wiki deve possuir o planejamento do Projeto    apresentando a equipe, a listas de sites avaliados, o site selecionado para o projeto da disciplina, a ferramentas do projeto, o Processo de Design selecionado, o cronograma detalhado das atividades do projeto (com data de inicio e fim de cada atividade, responsáveis e período de gravação da apresentação de cada etapa).
+ Planejamento do Projeto, a listas de sites avaliados, o site selecionado para o projeto da disciplina, a ferramentas do projeto, o Processo de Design selecionado, o cronograma detalhado das atividades do projeto (com data de inicio e fim de cada atividade, responsáveis e período de gravação da apresentação de cada etapa).
 
 Link para [video da apresentação](https://youtu.be/tGAahnjMLjE)
-
-
 
 
 ## Perfil do usuário, Personas e Análise de tarefas 07/12/2022
