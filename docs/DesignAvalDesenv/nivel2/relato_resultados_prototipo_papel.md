@@ -13,7 +13,11 @@ Este documento é atribuído ao framework DECIDE predominantemente à atividade 
 
 O grupo realizou a escolha de utilizar como método para esta avaliação a entrevista, pertencente aos métodos de investigação. O entrevistado será um estudante da Universidade de Brasília, Faculdade do Gama , e para o efeito, será elaborada um termo de consentimento para que haja consenso entre o entrevistado e o entrevistador.
 
-## 3. Ambiente de avaliação
+## 3. Planejamento do relatório das avaliações
+
+Para fazer o relatório o entrevistador deverá observar com atenção o entrevistado e assim tomar notas em relação ao comportamento e dificuldades do mesmo. Além disso o entrevistador deve gravar a entrevista e colocar um link para sua visualização.
+
+## 4. Ambiente de avaliação
 
 A avaliação poderá ser feita presencialmente marcando um horário com o entrevistado e o entrevistador. Ou poderá ser feita via on-line, na plataforma Discord ou Microsoft Teams.
 
@@ -46,14 +50,15 @@ Além da avaliação pessoal dos entrevistadores, buscará-se também fazer com 
         <br><small>Autor: Igor Thiago</small>
 </figcaption> 
 
-## 4. Bibliografia
+## 5. Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 > Nielsen, Jakob (2000). Why You Only Need to Test with 5 Users. Disponível em: <https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/>. Acesso em: 20/04/2021
 
-## 5. Histórico de Versão
+## 6. Histórico de Versão
 
 | Versão | Data | Modificação | Autor | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
 | 1.0 | 21/12/2022 | Criação do documento | Rodolfo Cabral Neves | Raphaela Guimarães e Milena Aires |
 | 1.1 | 11/01/2023 | Atualização do documento | Igor Thiago | Vinícius Alves |
+| 1.2 | 31/01/2023 | Atualização do documento | Igor Thiago | Vinícius Alves |
