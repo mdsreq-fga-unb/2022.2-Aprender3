@@ -51,6 +51,8 @@ A seguir encontra-se o redirecionamento para o artefato que está sendo analisad
 </figcaption> 
   - ✅: 15 artefatos conforme
   - ❌: 4 artefatos não conforme
+  - ➖: 0 artefatos incompletos
+
 
 
 ## 4. Bibliografia

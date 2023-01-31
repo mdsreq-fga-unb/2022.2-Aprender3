@@ -50,6 +50,8 @@
 
   - ✅: 9 artefatos conforme
   - ❌: 11 artefatos não conforme
+  - ➖: 0 artefatos incompletos
+
 
 ![imagem](../assets/graficos/PlanejamentoPrototipoPapel.png)
 <figcaption align='center'>

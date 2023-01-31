@@ -50,6 +50,7 @@
 
   - ✅: 9 artefatos conforme
   - ❌: 13 artefatos não conforme
+  - ➖: 0 artefatos incompletos
 
 ![imagem](../assets/graficos/GraficoPlanejamentoRelatoResultados.png)
 <figcaption align='center'>

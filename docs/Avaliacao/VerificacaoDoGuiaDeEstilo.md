@@ -64,6 +64,8 @@ Portanto, o resultado do checklist deste artefato foi:
 
   - ✅: 17 artefatos conforme
   - ❌: 3 artefatos não conforme
+  - ➖: 0 artefatos incompletos
+
 
 <br>
 

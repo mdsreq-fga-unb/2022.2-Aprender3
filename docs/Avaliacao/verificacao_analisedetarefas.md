@@ -41,6 +41,8 @@ Seguindo o planejando da verificação e o checklist representado acima na tabel
 
   - ✅: 12 artefatos conforme
   - ❌: 5 artefatos não conforme
+  - ➖: 0 artefatos incompletos
+
 
 ## 4. Gráfico 
 O gráfico a seguir mostra a porcentagem em que o artefato seguiu as exigências do checklist de inspeção.

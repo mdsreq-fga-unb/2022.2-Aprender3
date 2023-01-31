@@ -59,6 +59,7 @@
 
   - ✅: X artefatos conforme
   - ❌: X artefatos não conforme
+  - ➖: X artefatos incompletos
 
 
 ![imagem](../../../Assets/gráficos_verificação/GráficoExemplo.png)

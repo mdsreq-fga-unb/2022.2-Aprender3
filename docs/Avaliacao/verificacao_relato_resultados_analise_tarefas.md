@@ -48,6 +48,8 @@
 
   - ✅: 17 artefatos conforme
   - ❌: 4 artefatos não conforme
+  - ➖: 0 artefatos incompletos
+
 
 ![imagem](../assets/graficos/GraficoPlanejamentoRelatoResultados.png)
 <figcaption align='center'>

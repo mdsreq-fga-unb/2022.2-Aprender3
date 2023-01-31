@@ -60,6 +60,8 @@
 
   - ✅: 10 artefatos conforme
   - ❌: 2 artefatos não conforme
+  - ➖: 0 artefatos incompletos
+
 
 
 ## 4. Bibliografia 
