@@ -78,3 +78,4 @@ Portanto, o resultado do checklist deste artefato foi:
 | Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------|
 | 1.0    | 17/01/2023 | 18/01/2023 | Criação da documentação | Vinícius Alves | Rodolfo |
+| 1.1    | 31/01/2023 | 01/02/2023 | Melhoria do artefato | Rodolfo Cabral Neves | Milena Aires |

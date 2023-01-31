@@ -74,3 +74,4 @@
 | Versão | Data da realização | Data revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------|
 | 1.0    | 18/01/2023 | 18/01/2023 | Criação do documento | Raphaela Guimarães | Milena Aires e Igor |
+| 1.1    | 31/01/2023 | 01/02/2023 | Melhoria do artefato | Rodolfo Cabral Neves | Milena Aires |

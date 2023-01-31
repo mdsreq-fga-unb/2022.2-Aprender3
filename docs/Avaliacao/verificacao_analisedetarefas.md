@@ -60,3 +60,4 @@ O gráfico a seguir mostra a porcentagem em que o artefato seguiu as exigências
 | Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------|
 | 1.0    | 17/01/2023 | 18/01/2023 | Criação do documento de verificação da persona| Milena Aires | Raphaela Guimarães |
+| 1.1    | 31/01/2023 | 01/02/2023 | Melhoria do artefato | Rodolfo Cabral Neves | Milena Aires |
