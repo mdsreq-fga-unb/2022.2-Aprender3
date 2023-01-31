@@ -32,8 +32,8 @@ O termo de consentimento pode ser acessado, [clicando aqui](https://github.com/I
 
 Existem 2 fluxos criados no protótipo de baixa fidelidade, estes são:
 
-- Matrícula em disciplina
-- Envio de um trabalho
+- Matrícula em disciplina, conforme a tabela 3.2.2
+- Bloco de notas, conforme a tabela 3.2.3
 
 Para cada fluxo, foram criadas uma bateria de perguntas para a coleta das métricas de avaliação. Esta abordagem foi selecionada para que o grupo possa ter uma medida de cada parte do site de maneira desacoplada e objetivo, desta forma a gerência e evolução de pontos não satisfatórios podem ser feitas de maneira individual e independente de outros fluxos.
 
@@ -46,6 +46,12 @@ Para cada fluxo, foram criadas uma bateria de perguntas para a coleta das métri
 | 3      | Você já utilizou o Aprender ? |
 | 4      | Se sim, qual foi o propósito?                                      |
 
+<figcaption align='center'>
+    <b>Tabela das informações demográficas</b>
+         <br><small>Autor: Rodolfo Cabral Neves </small>
+<br><small>Fonte: do autor </small>
+
+</figcaption>
 
 ### 3.2.2 Matrícula em disciplina
 
@@ -57,6 +63,14 @@ Para cada fluxo, foram criadas uma bateria de perguntas para a coleta das métri
 | 4      | O que acha do protótipo desenvolvido ? |
 | 5      | O que pode ser melhorado nesse protótipo ? |
 
+<figcaption align='center'>
+    <b>Tabela sobre matrícula em disciplina</b>
+         <br><small>Autor: Rodolfo Cabral Neves </small>
+<br><small>Fonte: do autor </small>
+
+</figcaption>
+
+
 ### 3.2.3 Bloco de notas
 
 | Índice | Pergunta                                                          |
@@ -67,6 +81,13 @@ Para cada fluxo, foram criadas uma bateria de perguntas para a coleta das métri
 | 4      | A interface do protótipo ajuda ? |
 | 5      | O que poderia ser melhorado na interface do protótipo ? |
 
+<figcaption align='center'>
+    <b>Tabela sobre bloco de notas</b>
+         <br><small>Autor: Rodolfo Cabral Neves </small>
+<br><small>Fonte: do autor </small>
+
+</figcaption>
+
 ## 4. Bibliografia
 
 [1] BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Rio de Janeiro: Elsevier Editora Ltda, 2010.
@@ -76,3 +97,4 @@ Para cada fluxo, foram criadas uma bateria de perguntas para a coleta das métri
 | :--------: | :----: | :----------: | :----------: | :----------------: |
 | 10/01/2023 |  1.0   | Criação do documento inicial |  Rodolfo Cabral Neves | Milena Aires |
 | 22/01/2023 |  1.1   | Atualização de fluxo de trabalho |  Rodolfo Cabral Neves | Milena Aires |
+| 31/01/2023 |  1.2   | Melhoria do documento |  Rodolfo Cabral Neves | Milena Aires |
