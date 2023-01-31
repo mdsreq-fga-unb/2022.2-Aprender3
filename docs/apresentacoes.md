@@ -40,16 +40,14 @@ Planejamento da avaliação do Storyboard e análise de tarefas e planejamento d
 
 **Especificações para entrega**
 
-Relato dos resultados do Story Board e da análise de tarefas, o planejamento da
-avaliação do protótipo de papel e do planejamento do relato dos resultados da avaliação do protótipo de papel.
+Relato dos resultados do Story Board e da análise de tarefas, o planejamento da avaliação do protótipo de papel e do planejamento do relato dos resultados da avaliação do protótipo de papel.
 
 
 ## Apresentação x - Entrega 7
 
 **Especificações para entrega**
 
-Relato dos resultados do protótipo de papel, o planejamento da avaliação do protótipo
-de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade.
+Relato dos resultados do protótipo de papel, o planejamento da avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade.
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/l6MnjeT0_jc?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
