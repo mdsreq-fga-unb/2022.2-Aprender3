@@ -4,7 +4,19 @@
 
 Este documento foi feito seguindo o planejamento do relato dos resultados do protótipo de papel, já desenvolvido seguindo sua metodologia e suas tarefas. Tem como objetivo relatar os dados obtidos na entrevista de um usuário do Aprender3 por meio do protótipo de papel.
 
-## 2. Entrevista 1
+## 2. Objetivo
+
+Este documento tem como objetivo coletar as informações dos usúarios adquiridas por meio das entrevistas e com elas identificar o que está bom e o que é nescessário modificar no protótipo de papel. 
+
+## 3. Metodologia
+
+O grupo optou pelo método de entrevistas, onde um dos integrantes será o entrevistador e tomará notas em relação ao desempenho do entrevistado.
+
+O questionário consiste em perguntas relacionadas as tarefas propostas no protótipo de papel do site Aprender 3 , onde o entrevistado é questionado sobre sua familiaridade com a plataforma , suas dificuldades na realização das tarefas e no que ele pensou ao realiza-las.
+
+Somente depois do entrevistado concordar com termo de consentimento que o questionário será aplicado.
+
+## 4. Entrevista 1
 
 Essa entrevista aconteceu no dia 09/01/2023 às 16h com o usuário da plataforma Aprender3 Gabriel Luiz que aceitou os termos de consentimento.
 
@@ -25,7 +37,7 @@ dificuldades: O entrevistado apresentou dificuldade em realizar a tarefa de matr
 | 4.1 | Em qual tarefa você se confundiu ou cometeu um erro? | Me confundi na hora de encontrar a matéria |
 | 5 | De forma geral, o que você pensou ao realizar todas das tarefas — suas observações e comentários adicionais? | De forma geral as tarefas eram simples de serem realizadas e possuiam um bom fluxo para sua realização. |
 
-## 2.1 Entrevista 2
+## 4.1 Entrevista 2
 
 Essa entrevista aconteceu no dia 10/01/2023 às 16h com o usuário da plataforma Aprender3 Pedro Henrique que aceitou os termos de consentimento.
 
@@ -45,16 +57,17 @@ dificuldades: O entrevistado apresentou dificuldade em entender o protótipo de 
 | 4.1 | Em qual tarefa você se confundiu ou cometeu um erro? | Fiquei confuso na hora da matrícula em disciplina  |
 | 5 | De forma geral, o que você pensou ao realizar todas das tarefas — suas observações e comentários adicionais? | As tarefas em questão são tranquilas , porém fica confuso entender o que está se passando por conta do método do protótipo de papel |
 
-## 3. Conclusão
+## 5. Conclusão
 
 Com as entrevistas realizadas foi possível analisar os pontos onde os usuários obtiveram maiores dificuldades, permitindo com que pudéssemos realizar as melhorias necessárias no protótipo de baixa fidelidade para assim construirmos protótipos mais sólidos e com maior fidelidade à medida que entendemos as características dos usuários para a construção da melhor solução possível.
 
-## 4. Bibliografia
+## 6. Bibliografia
 
 [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1 .
 
-## 5. Histórico de Versão
+## 7. Histórico de Versão
 
 | Versão | Data | Modificação | Autor | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
 | 1.0 | 11/01/2023 | Criação do documento | Igor Thiago Lima de Santana | Vinícius Alves |
+| 1.1 | 31/01/2023 | Modificação do documento | Igor Thiago Lima de Santana | Vinícius Alves |
