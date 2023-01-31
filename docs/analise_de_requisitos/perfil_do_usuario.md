@@ -145,13 +145,14 @@ Foi verificado, ao final, sugestões de melhorias para o site. Assim poderíamos
 - Editar o texto, é difícil e ruim de se colocar fórmulas matemáticas;
 - Layout mais compreensível;
 
-## 5. Bibliografia
+## 6. Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.Interação Humano-Computador e Experiência do usuário. 2021. Autopublicação. ISBN: 978-65-00-19677-1
 
-## 6. Histórico de Versão
+## 7. Histórico de Versão
 
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 | 07.12.2022 | 1.0 | Criação e adição do documento de perfil do usuário | Milena Aires | Vinícius Alves |
 | 07.12.2022 | 1.1 | Exposição e análise dos resultados da pesquisa | Vinícius Alves | Milena Aires  |
 | 08.12.2022 | 1.2 | Melhorias apontadas na entrega 2 | Vinícius Alves | Igor Thiago |
+| 31.01.2023 | 1.3 | Adição do termo de consentimento | Milena Aires | Vinícius Alves |
