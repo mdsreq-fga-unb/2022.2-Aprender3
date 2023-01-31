@@ -70,4 +70,4 @@ Com as entrevistas realizadas foi possível analisar os pontos onde os usuários
 | Versão | Data | Modificação | Autor | Revisor |
 |:--:|:--:|:--:|:--:|:--:|
 | 1.0 | 11/01/2023 | Criação do documento | Igor Thiago Lima de Santana | Vinícius Alves |
-| 1.1 | 11/01/2023 | Modificação do documento | Igor Thiago Lima de Santana | Vinícius Alves |
+| 1.1 | 31/01/2023 | Modificação do documento | Igor Thiago Lima de Santana | Vinícius Alves |

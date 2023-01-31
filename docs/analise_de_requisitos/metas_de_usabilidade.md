@@ -46,4 +46,5 @@ O grupo optou pela escolha dessas metas de usabilidade a partir das tarefas prop
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 | 10.12.2022| 1.0 | Definindo as metas de usabilidade |  Igor Thiago  | Vinícius Alves |
 | 11.12.2022| 1.1 | Metas de usabilidade no aprender 3 |  Igor Thiago  | Vinícius Alves |
+| 31.01.2023| 1.2 | Alteração no documento |  Igor Thiago  | Vinícius Alves |
 
