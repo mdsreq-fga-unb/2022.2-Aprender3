@@ -25,9 +25,10 @@ Os planejamentos dos resultados estão aqui relatados seguindo o roteiro de resp
 |:--:|:---|:----|
 | 1 | Em uma escala de 1 a 5, qual valor você daria para a sua familiaridade com o Virtual Judge, sendo que "1" significa extremamente desabituado e "5", extremamente familiarizado? | 1 - Extremamente desabituado<br/>2 - Desabituado<br/>3 - Neutro<br/>4 - Familiarizado<br/>5 - Extremamente familiarizado<br/> |
 
-<center>
-<p style="font-size:13px" align='center' fonte>Tabela 1: Pergunta inicial que deve ser feita ao entrevistado.</figcaption></p>
-</center>
+<figcaption align='center'>
+    <b>Tabela 1: Pergunta inicial que deve ser feita ao entrevistado.</b>
+        <br><small>Autor: Igor Thiago</small>
+</figcaption> 
 
 <p style="text-indent: 20px; text-align: justify">
 Além da avaliação pessoal dos entrevistadores, buscará-se também fazer com que o participante fosse convidado a responder as perguntas feitas pelo entrevistador, que usará as perguntas da tabela abaixo como guia para a realização da entrevista na medida que o entrevistado se sentisse à vontade de fazer:
@@ -40,9 +41,10 @@ Além da avaliação pessoal dos entrevistadores, buscará-se também fazer com 
 | 3 | Você cometeu algum erro ou se confundiu em algum processo na hora da realização das tarefas? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO </li> </ul> |
 | 4 | De forma geral, o que você pensou ao realizar todas das tarefas — suas observações e comentários adicionais? | Pergunta discursiva |
 
-<center>
-<p style="font-size:13px" align='center' fonte>Tabela 2: Perguntas complementares.</figcaption></p>
-</center>
+<figcaption align='center'>
+    <b>Tabela 2: Perguntas complementares.</b>
+        <br><small>Autor: Igor Thiago</small>
+</figcaption> 
 
 ## 4. Bibliografia
 

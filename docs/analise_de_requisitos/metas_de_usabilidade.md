@@ -14,9 +14,10 @@ A utilização das metas de usabilidade durante o projeto ajuda a solucionar pre
 | Aprendizagem | É a capacidade de aprendizagem do usuário ao utilizar o sistema. O objetivo é fazer o usuário aprender a utilizar o sistema o mais rápido possível. | o sistema permite o aprendizado de uso facilmente? | 
 | Memorização | Tem como objetivo fazer com que o usuário se lembre de como utilizar o sistema depois de já te-lo aprendido. | Que tipos de suporte de interface foram fornecidos com o objetivo de ajudar os usuários a lembrarem como realizar as tarefas, especialmente para produtos e operações que são utilizados com pouca frequência? | 
 
-<center>
-<p style="font-size:13px" align='center' fonte>Tabela 1: Definição das metas de usabilidade.</figcaption></p>
-</center>
+<figcaption align='center'>
+    <b>Tabela 1: Definição das metas de usabilidade.</b>
+        <br><small>Autor: Igor Thiago</small>
+</figcaption> 
 
 
 ## 3. Metas no aprender 3
