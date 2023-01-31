@@ -28,23 +28,30 @@ Para construirmos um protótipo de papel teremos que concluir algumas atividades
 ### Relato dos resultados
 - Relatar os problemas encontrados e soluções sugeridas.
 
-## 4. Protótipo de papel 
+## 4. Conclusão
+Temos então as páginas do protótipo de papel prontas para a etapa de coleta de dados.
+
 <img width="600px" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/PP_1.jpeg?raw=true">
 
-Protótipo de papel página inicial
+<figcaption align='center'>
+    <b>Protótipo de papel página inicial</b>
+</figcaption> 
 
 ### 4.1 Matrícula em disciplina 
 <img width="600px" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/PP_3.jpeg?raw=true">
 
-
-Protótipo de papel página de procura de disciplina
-
+<figcaption align='center'>
+    <b>Protótipo de papel página de procura de disciplina</b>
+</figcaption> 
 
 
 ### 4.2 Bloco de notas e Organização
-<img width="600px" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/PP_2.jpeg?raw=true">]
+<img width="600px" src="https://github.com/Interacao-Humano-Computador/2022.2-Aprender3/blob/main/docs/images/PP_2.jpeg?raw=true">
 
-Protótipo de papel página de notas
+<figcaption align='center'>
+    <b>Protótipo de papel página de notas</b>
+</figcaption> 
+
 
 
 ## 5. Bibliografia
