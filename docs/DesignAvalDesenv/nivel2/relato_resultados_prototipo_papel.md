@@ -11,7 +11,7 @@ Este documento é atribuído ao framework DECIDE predominantemente à atividade 
 
 ## 2. Metodologia
 
-O grupo realizou a escolha de utilizar como método para esta avaliação a entrevista, pertencente aos métodos de investigação.O entrevistado será um estudante da Universidade de Brasília, Faculdade do Gama , e para o efeito, será elaborada um termo de consentimento para que haja consenso entre o entrevistado e o entrevistador.
+O grupo realizou a escolha de utilizar como método para esta avaliação a entrevista, pertencente aos métodos de investigação. O entrevistado será um estudante da Universidade de Brasília, Faculdade do Gama , e para o efeito, será elaborada um termo de consentimento para que haja consenso entre o entrevistado e o entrevistador.
 
 ## 3. Ambiente de avaliação
 
