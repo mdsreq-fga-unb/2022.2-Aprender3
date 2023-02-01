@@ -153,6 +153,6 @@ A plataforma dá liberdade para que o usuário escolha a tela padrão de sua pre
  
 | Data       | Versão | Descrição            | Autor             | Revisor |
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
-| 09.12.2022 | 1.0 | Criação do arquivo |   Milena Aires      | Raphaela guimarães |
+| 09.12.2022 | 1.0 | Criação do arquivo |   Milena Aires e Raphaela Guimarães  | Raphaela guimarães |
 | 11.12.2022 | 1.1 | Adicição do tópico de introdução e elementos de seleção | Milena Aires | Raphaela Guimarães |
  
