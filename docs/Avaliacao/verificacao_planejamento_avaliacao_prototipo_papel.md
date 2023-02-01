@@ -50,6 +50,8 @@
 
   - ✅: 9 artefatos conforme
   - ❌: 11 artefatos não conforme
+  - ➖: 0 artefatos incompletos
+
 
 ![imagem](../assets/graficos/PlanejamentoPrototipoPapel.png)
 <figcaption align='center'>
@@ -66,3 +68,4 @@
 | Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------|
 | 1.0    | 24/01/2023 | 24/01/2023 | Adicionar a Verificação do Planejamento da Avaliação do Protótipo de Papel | Rodolfo Cabral Neves | Milena Aires |
+| 1.1    | 31/01/2023 | 01/02/2023 | Melhoria do artefato | Rodolfo Cabral Neves | Milena Aires |

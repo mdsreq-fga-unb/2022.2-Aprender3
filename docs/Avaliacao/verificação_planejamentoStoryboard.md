@@ -51,6 +51,8 @@ A seguir encontra-se o redirecionamento para o artefato que está sendo analisad
 </figcaption> 
   - ✅: 15 artefatos conforme
   - ❌: 4 artefatos não conforme
+  - ➖: 0 artefatos incompletos
+
 
 
 ## 4. Bibliografia
@@ -62,3 +64,4 @@ A seguir encontra-se o redirecionamento para o artefato que está sendo analisad
 | Versão | Data da realização | Data revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------|
 | 1.0    | 17/01/2023 | 18/01/2023 | Criação da página | Thiago Vivan | Igor Thiago e Raphaela Guimarães |
+| 1.1    | 31/01/2023 | 01/02/2023 | Melhoria do artefato | Rodolfo Cabral Neves | Milena Aires |

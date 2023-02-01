@@ -59,6 +59,7 @@
 
   - ✅: X artefatos conforme
   - ❌: X artefatos não conforme
+  - ➖: X artefatos incompletos
 
 
 ![imagem](../../../Assets/gráficos_verificação/GráficoExemplo.png)
@@ -77,3 +78,4 @@
 | Versão | Data da realização | Data prevista revisão | Descrição | Autor | Revisor |
 |--------|------|------|-----------|-------|---------|
 | 1.0    | 17/01/2023 | 18/01/2023 | Criação da página modelo | Rodolfo Cabral Neves | Milena Aires |
+| 1.1    | 31/01/2023 | 01/02/2023 | Melhoria do artefato | Rodolfo Cabral Neves | Milena Aires |
