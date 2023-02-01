@@ -65,6 +65,8 @@ nav:
         - Fase final:
                 - Síntese de Técnicas: fase_final/sintese_tecnicas.md
                 - Síntese de Artefatos: fase_final/sintese_artefatos.md
+                - Síntese de Verificações: fase_final/sintese_verificacoes.md
+                - Síntese de Avaliações: fase_final/sintese_avaliacoes.md
                 - Resultados alcançados: fase_final/resultados_alcancados.md  
         - Apresentações: apresentacoes.md
         - Atas:
