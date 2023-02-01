@@ -13,11 +13,8 @@ nav:
                 - Sites avaliados:
                                 - Avaliação Câmara: planejamento/sites_avaliados/avaliacao_camara.md
                                 - Avaliacao Aprender 3: planejamento/sites_avaliados/avaliacao_aprender3.md
-                                - Avaliacao Detran: planejamento/sites_avaliados/avaliacao_detran.md
                                 - Planejamento Câmara: planejamento/sites_avaliados/planejamento_camara.md
                                 - Planejamento Aprender 3: planejamento/sites_avaliados/planejamento_aprender3.md
-                                - Planejamento INAS: planejamento/sites_avaliados/planejamento_inas.md
-                                - Planejamento INT: planejamento/sites_avaliados/planejamento_int.md
                 - Cronograma: planejamento/cronograma.md
                 - Metodologia: planejamento/metodologia.md
                 - Processo Design: planejamento/processo_design.md
@@ -66,7 +63,8 @@ nav:
                 - Planejamento da Avaliação do Protótipo de Papel: Avaliacao/verificacao_planejamento_avaliacao_prototipo_papel.md               
                 - Relato dos resultados da Análise de tarefas: Avaliacao/verificacao_relato_resultados_analise_tarefas.md               
         - Fase final:
-                - Síntese das Técnicas: fase_final/sintese_tecnicas.md
+                - Síntese de Técnicas: fase_final/sintese_tecnicas.md
+                - Síntese de Artefatos: fase_final/sintese_artefatos.md
                 - Resultados alcançados: fase_final/resultados_alcancados.md  
         - Apresentações: apresentacoes.md
         - Atas:
@@ -77,3 +75,9 @@ nav:
                 - 08/12/2022: atas/reuniao-08-11-2022.md
                 - 12/12/2022: atas/reuniao-12-12-2022.md
                 - 14/12/2022: atas/reuniao-14-12-2022.md
+                - 21/12/2022: atas/reuniao-21-12-2022.md
+                - 11/01/2023: atas/reuniao-11-01-2023.md
+                - 18/01/2023: atas/reuniao-18-01-2023.md
+                - 25/01/2023: atas/reuniao-25-01-2023.md
+                - 28/12/2023: atas/reuniao-28-01-2023.md
+                - 01/02/2023: atas/reuniao-01-02-2023.md
