@@ -12,7 +12,7 @@ A tabela a seguir sintetiza quais técnicas foram utilizadas ao longo do projeto
 | Princípios Gerais do Projeto | Norman (1988) | Princípios mais acessíveis e melhores para uso |
 | Planejamentos de avaliações | Framework DECIDE | Utiliza de atividades interligadas e executadas iterativamente |
 | Avaliações e testes-piloto | Entrevista | Fácil interação e contato com o usuário e um rápido feedback |
-| Storyboard | -| - |
+| Storyboard | Introspecção | Apresenta um apoio rápido e esclarecedor |
 | Protótipo de Baixa Fidelidade | Protótipo de Papel | Por ser de rápida a confecção e de fácil compreensão pro usuário |
 | Verificações | Checklist | Forma prática e eficiente de fazer as verificações dos artefatos |
 | Apresentações | Gravações | Foram realizadas gravações com apresentações dos artefatos confeccionados ao longo do projeto, afim de seguir uma ordem e registar as entregas ao docente da disciplina IHC |
