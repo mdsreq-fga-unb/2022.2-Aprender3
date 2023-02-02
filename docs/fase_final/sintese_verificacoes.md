@@ -22,10 +22,11 @@ relativos à elaboração do documento e do checklist.
 | Planejamento da Avaliação da Análise da Tarefas | Thiago e Igor | Thiago e Igor | Inspeção de Fagan 
 
 
-<p align="center"> <i>Figura 1</i>: Tabela de síntese das veirificações do projeto </p>
+<p align="center"> <i>Tabela 1</i>: Tabela de síntese das veirificações do projeto Fonte: Raphaela Guimarães</p>
   
 ## Hiperlinks
-Este tópico, por meio da *Tabela 1* a baixo, tem como finalidade auxiliar o leitor a localizar mais facilmente os artefatos por meio de hiperlinks.
+Este tópico, por meio da *Tabela 2* a baixo, tem como finalidade auxiliar o leitor a localizar mais facilmente os artefatos por meio de hiperlinks.
+
 
 |Artefato|
 |-----------------------------------------------------------------------------------------------------------------------------|
@@ -41,7 +42,8 @@ Este tópico, por meio da *Tabela 1* a baixo, tem como finalidade auxiliar o lei
 |[Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2022.2-Aprender3/DesignAvalDesenv/nivel2/planeja_protopapel/)|
 |[Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2022.2-Aprender3/DesignAvalDesenv/nivel1/AnaliseTarefass/PlanejamentoAval/)|
 
-*Tabela 1*: Tabela de localização dos artefatos de verificação
+*Tabela 2*: Tabela de localização dos artefatos de verificação
+Fonte: Raphaela Guimarães
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------| ------- |
