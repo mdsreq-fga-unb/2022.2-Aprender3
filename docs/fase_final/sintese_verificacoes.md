@@ -3,6 +3,27 @@
 ## Introdução
 O presente artefato tem como objetivo sintetizar as informações mais relevantes sobre os artefatos de verificação presente no projeto.
 
+## Tabela de Sintese das Verificações
+A **tabela 1** a seguir apresenta uma síntese do método utilizado em cada artefato de verificação, assim como o autor (responsável) e revisor 
+relativos à elaboração do documento e do checklist.
+  
+| Artefato | Autor | Revisor | Método |
+| ---------|-------|---------|--------|
+| Análise de Tarefas| Igor, Milena e Thiago | Milena, Vinícius e Igor | Inspeção de Fagan 
+| Guia de Estilo | Milena e Raphaela | Raphaela | Inspeção de Fagan 
+| Metas de Usabilidade | Igor | Vinícius | Inspeção de Fagan
+| Perfil do Usuário | Milena e Vinícius | Milena, Vinícius e Igor | Inspeção de Fagan 
+| Personas | Raphaela e Vinícius | Milena e Igor | Inspeção de Fagan
+| Princípios Gerais do Projeto | Rodolfo | Thiago | Inspeção de Fagan 
+| Storyboard | Thiago e Raphaela | Rodolfo | Inspeção de Fagan  
+| Resultado da Avaliação do Storyboard | Raphaela e Milena | Vinícius e Rodolfo | Inspeção de Fagan 
+| Planejamento da Avaliação do Storyboard | Vinícius, Raphaela e Thiago | Raphaela | Inspeção de Fagan 
+| Planejamento da Avaliação do Protótipo de Papel | Milena | Raphaela | Inspeção de Fagan 
+| Planejamento da Avaliação da Análise da Tarefas | Thiago e Igor | Thiago e Igor | Inspeção de Fagan 
+
+
+<p align="center"> <i>Figura 1</i>: Tabela de síntese das veirificações do projeto </p>
+  
 ## Hiperlinks
 Este tópico, por meio da *Tabela 1* a baixo, tem como finalidade auxiliar o leitor a localizar mais facilmente os artefatos por meio de hiperlinks.
 
