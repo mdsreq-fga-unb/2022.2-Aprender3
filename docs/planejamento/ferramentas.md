@@ -11,8 +11,10 @@ Nesta seção são apresentadas as ferramentas que foram utilizadas pelo time du
 | FR02 |  [Youtube](https://www.youtube.com)  | ![youtube](https://duckduckgo.com/i/d6e2c0bd.png) |  Plataforma de compartilhamento de vídeos.  | Armazenamento das gravações das reuniões e apresentações feitas. |
 | FR03 |  [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint)  | ![powepoint](https://duckduckgo.com/i/e86c128a.png) |  Software de apresentações  | Criação da apresentações do projeto, em cada ponto de controle. |
 | FR04 |  [Google Drive](https://www.google.com/drive/)  | ![drive](https://duckduckgo.com/i/509a9ea5.png)|  Serviço de armazenamento e sincronização desenvolvida pela Google. Permite que os usuários armazenem dados na nuvem, sincronizem e partilhem ficheiros entre os dispositivos  | Armazenamento auxiliar de arquivos. |
-| FR05 |  [Notion](https://www.notion.so/)  | ![notion](https://duckduckgo.com/i/f6441cab.png) |  Software de anotações, criada para ajudar os membros de organizações ou empresas a administrar os seus conhecimentos para maior eficiência e produtividade.   Escrever as atas de reuniões e outras anotações importantes que surgirem ao acaso. |
-| FR06 |  [GitHub](https://github.com/)  | ![github](https://duckduckgo.com/i/27ff1233.png) |  plataforma de desenvolvimento e versionamento e projetos que usa o Git como base. | Base para o seu desenvolvimento do projeto. |
+| FR05 |  [Google Docs](https://www.docs.google.com/)  | ![docs](https://duckduckgo.com/i/5646f452.png) |  Pacote de aplicativos do Google baseado em AJAX | Foi utilizada para escrever documentos |
+| FR06 |  [GitHub](https://github.com/)  | ![github](https://duckduckgo.com/i/27ff1233.png) |  Plataforma de desenvolvimento e versionamento e projetos que usa o Git como base. | Base para o seu desenvolvimento do projeto. |
+| FR07 |  [Google Forms](https://www.google.com/intl/pt-BR/forms/about/)  | ![forms](https://duckduckgo.com/i/8d4843ef.png) |  Crie e compartilhe facilmente formulários e pesquisas on-line e analise as respostas em tempo real.  | Foi utilizada para criar formulários. |
+| FR08 |  [Discord](https://discord.com/)  | ![discord](https://duckduckgo.com/i/0c51752c.png) |  Aplicativo de voz sobre IP proprietário e gratuito, projetado inicialmente para comunidades de jogos.  | Foi utilizada para as reuniões do gruṕo. |
 
 
 <figcaption align='center'>
