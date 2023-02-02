@@ -90,7 +90,12 @@ As tabelas presentes nesse documento sintetizam quais artefatos foram criados em
 
 | Artefato        | Autor             | Revisor         |
 |-----------------|-------------------|-----------------|
-| - | - | - |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/fase_final/sintese_tecnicas/"> Síntese de Técnicas Utilizadas</a> | Milena | Raphaela |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/fase_final/sintese_artefatos/"> Síntese de Artefatos Produzidos</a> | Milena | Raphaela |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/fase_final/sintese_verificacoes/"> Síntese das Verificações do Projeto</a> | Raphaela | Milena |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/fase_final/sintese_avaliacoes/"> Síntese de Avaliações Realizadas</a> | Raphaela | Milena |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/fase_final/resultados_alcancados/"> Resultados alcançados com o projeto</a> | Thiago | Rodolfo |
+
 
 <figcaption>Tabela 7: Síntese de Artefatos da Fase Final - Fonte: Autor</figcaption>
 
@@ -166,7 +171,25 @@ Para uma melhor visualização, uma tabela unificando todas anteriores acima tam
 | <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/Avaliacao/verificacao_analisedetarefas/"> Verificação da Análise de Tarefas</a> | Milena, Rodolfo | Milena, Raphaela |
 | <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/Avaliacao/verificacao_planejamento_avaliacao_prototipo_papel/"> Verificação do Planejamento da Avaliação do Protótipo de Papel</a> | Rodolfo | Milena |
 | <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/Avaliacao/verificacao_relato_resultados_analise_tarefas/"> Verificação avaliação do Relato dos resultados da Análise de tarefas</a> | Rodolfo | Milena |
-
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/fase_final/sintese_tecnicas/"> Síntese de Técnicas Utilizadas</a> | Milena | Raphaela |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/fase_final/sintese_artefatos/"> Síntese de Artefatos Produzidos</a> | Milena | Raphaela |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/fase_final/sintese_verificacoes/"> Síntese das Verificações do Projeto</a> | Raphaela | Milena |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/fase_final/sintese_avaliacoes/"> Síntese de Avaliações Realizadas</a> | Raphaela | Milena |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/fase_final/resultados_alcancados/"> Resultados alcançados com o projeto</a> | Thiago | Rodolfo |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/apresentacoes/"> Apresentações</a> | Vinícius | Igor, Milena |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/atas/reuniao-17-11-2022/"> Ata da reunião - 17/11/2022</a> | Milena, Vinícus | Igor, Raphaela|
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/atas/reuniao-19-11-2022/"> Ata da reunião - 19/11/2022</a> | Milena, Vinícus | Igor, Raphaela|
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/atas/reuniao-23-11-2022/"> Ata da reunião - 23/11/2022</a> | Milena, Vinícus | Igor, Raphaela|
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/atas/reuniao-07-12-2022/"> Ata da reunião - 07/12/2022</a> | Vinícius | Igor |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/atas/reuniao-08-11-2022/"> Ata da reunião - 08/12/2022</a> | Vinícius | Igor |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/atas/reuniao-12-12-2022/"> Ata da reunião - 12/12/2022</a> | Milena, Vinícius | Igor, Vinícius|
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/atas/reuniao-14-12-2022/"> Ata da reunião - 14/12/2022</a> | Milena | Raphaela |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/atas/reuniao-21-12-2022/"> Ata da reunião - 21/12/2022</a> | Milena | Raphaela |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/atas/reuniao-11-01-2023/"> Ata da reunião - 11/01/2023</a> | Milena | Raphaela |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/atas/reuniao-18-01-2023/"> Ata da reunião - 18/01/2023</a> | Milena | Raphaela |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/atas/reuniao-25-01-2023/"> Ata da reunião - 25/01/2023</a> | Milena | Raphaela |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/atas/reuniao-28-01-2023/"> Ata da reunião - 28/01/2023</a> | Milena | Raphaela |
+| <a href="https://interacao-humano-computador.github.io/2022.2-Aprender3/atas/reuniao-01-02-2023/"> Ata da reunião - 01/02/2023</a> | Milena | Raphaela |
   
 <figcaption> <center>Tabela 10: Tabela unificada da síntese de artefatos - Fonte: Autor</figcaption>
 
