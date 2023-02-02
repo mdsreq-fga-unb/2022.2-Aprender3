@@ -42,22 +42,40 @@ Planejamento da avaliação do Storyboard e análise de tarefas e planejamento d
 
 Relato dos resultados do Story Board e da análise de tarefas, o planejamento da avaliação do protótipo de papel e do planejamento do relato dos resultados da avaliação do protótipo de papel.
 
+<iframe width="800" height="450" src="https://www.youtube.com/embed/71Xbc8flPQ0?start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Apresentação x - Entrega 7
+
+## Apresentação 6 - Entrega 7
 
 **Especificações para entrega**
 
 Relato dos resultados do protótipo de papel, o planejamento da avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade.
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/l6MnjeT0_jc?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/l6MnjeT0_jc?start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Apresentação x - Entrega 6
+## Apresentação 7 - Entrega 6
 
 **Especificações para entrega**
 
 Verificação dos artefatos.
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/6AvxzTmuTmg?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Apresentação 8 - Entrega 8
+
+**Especificações para entrega**
+
+Relato dos resultados da avaliação do protótipo de alta fidelidade.
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/2adg7JgADHo?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Apresentação Final
+
+**Especificações para entrega**
+
+Desenvolvimento do projeto final (finalizar todos os artefatos: corrigir e completar).
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/fdcS8fMSoEM?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Histórico de Versão
@@ -66,4 +84,5 @@ Verificação dos artefatos.
 |:----------:|:------:|:--------------------:|:-----------------:|:-------:|
 | 08/12/2022 | 1.0 | Criação do domumento | Vinícius | Igor |
 | 29/01/2023 | 1.1 | Atualização e padronização | Vinícius | Milena |
+| 31/01/2023 | 1.2 | Adicionada a apresentação final | Vinícius | Igor |
  
