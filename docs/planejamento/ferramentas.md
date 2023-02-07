@@ -15,6 +15,8 @@ Nesta seção são apresentadas as ferramentas que foram utilizadas pelo time du
 | FR06 |  [GitHub](https://github.com/)  | ![github](https://duckduckgo.com/i/27ff1233.png) |  Plataforma de desenvolvimento e versionamento e projetos que usa o Git como base. | Base para o seu desenvolvimento do projeto. |
 | FR07 |  [Google Forms](https://www.google.com/intl/pt-BR/forms/about/)  | ![forms](https://duckduckgo.com/i/8d4843ef.png) |  Crie e compartilhe facilmente formulários e pesquisas on-line e analise as respostas em tempo real.  | Foi utilizada para criar formulários. |
 | FR08 |  [Discord](https://discord.com/)  | ![discord](https://duckduckgo.com/i/0c51752c.png) |  Aplicativo de voz sobre IP proprietário e gratuito, projetado inicialmente para comunidades de jogos.  | Foi utilizada para as reuniões do gruṕo. |
+| FR09 |  [VS Code](https://code.visualstudio.com/)  | ![code](https://user-images.githubusercontent.com/57445188/180213541-297d2a9d-0149-49c9-a80d-276c9a5b61a6.png) | Editor de código destinado ao desenvolvimento de aplicações com controle Git incorporado  | Foi utilizada para o desenvolvimento dos artefatos. |
+| FR10 |  [This person does not exist](https://thispersondoesnotexist.com/)  | ![tpne](https://user-images.githubusercontent.com/87666623/204418432-953e0995-5ea7-4b9c-b198-5769ed46d153.png) | Ferramenta online para obter as imagens de perfil das personas Criação das personas |
 
 
 <figcaption align='center'>
@@ -27,3 +29,4 @@ Nesta seção são apresentadas as ferramentas que foram utilizadas pelo time du
 | :--------: | :----: | :----------: | :----------: | :----------------: |
 | 23/11/2022 |  1.0   | Criação do Documento  | Rodolfo Cabral | Thiago Vivan |
 | 31/01/2023 |  1.1   | Adição das ferramentas que faltam  | Rodolfo Cabral | Thiago Vivan |
+| 07/02/2023 |  1.2   | Adição das ferramentas que faltam  | Rodolfo Cabral | Thiago Vivan |
